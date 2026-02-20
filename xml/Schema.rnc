@@ -4,6 +4,7 @@ start = book
 
 book = element book{commentary, song}
     commentary = element commentary{text}
-    song = element song{theme, lyrics}
+    song = element song{origin, theme, lyrics}
+        origin = attribute origin{text}
         theme = attribute theme{"specificTheme1" | "specificTheme2" | "etc."}
         lyrics = element lyrics{text}
