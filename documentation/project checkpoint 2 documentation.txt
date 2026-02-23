@@ -1,0 +1,11 @@
+Research question: Based on the Music of the Waters, what subjects appear and to what frequency in sailing songs?
+
+First meeting 2/18. All members cloned the repo onto their own laptops. The general plan for the project was discussed, and a source file was added to the repo.
+
+We have started cleanup of the raw text files and a markup of each of the songs and their most prominent subjects.
+
+Basic structures of HTML files have been added to the repo. 
+
+Two versions of the Claude AI markup of the texts were uploaded to the source file. 
+
+A preliminary schema was made and uploaded to the XML file in the repo.
