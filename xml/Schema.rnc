@@ -4,7 +4,8 @@ start = book
 
 book = element book{commentary, song}
     commentary = element commentary{text}
-    song = element song{origin, theme, lyrics}
-        origin = attribute origin{text}
-        theme = attribute theme{"specificTheme1" | "specificTheme2" | "etc."}
+    song = element song{originCountry?, originTime?, subject, lyrics}
+        originCountry = attribute originCountry{text}
+        originTime = attribute originTime{xsd:date | xsd:gYearMonth | xsd:gYear | "N/A"}
+        subject = attribute theme{"specificTheme1" | "specificTheme2" | "etc."}
         lyrics = element lyrics{text}
