@@ -1,0 +1,24 @@
+started at 12:00
+Andrew, Josh, Sam were in attendance
+
+discussed use of Claude AI cleaned up source file
+
+Agreed to use it, while staying aware that some things may be missed
+
+discussed markup strategy
+
+starting tag list will be
+
+-sl (sea life)
+-hs (home sickness)
+-dp (departure)
+-wk (work)
+-dk (drinking)
+-bt (battle)
+-dt (death)
+-ss (superstition)
+
+looked further into claude file, it is annoyingly inconsistent meaning that we will just work with the raw file and clean it up manually.
+
+meeting ended at 12:54
+
