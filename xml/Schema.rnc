@@ -2,9 +2,37 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = book
 
-book = element book{commentary, song}
-    commentary = element commentary{text}
-    song = element song{originCountry?, originTime?, subject}
-        originCountry = attribute originCountry{text}
-        originTime = attribute originTime{xsd:date | xsd:gYearMonth | xsd:gYear | "N/A"}
-        subject = attribute theme{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
+book = element book{preamble, content, postamble}
+    preamble = element preamble{title, subtitle, byline, copyright, dedication, preface, prelude, tableOfContents}
+        title = element title{str, text}
+            str = attribute str{text}
+        subtitle = element subtitle{text}
+        byline = element byline{text}
+        copyright = element copyright{text}
+        dedication = element dedication{text}
+        preface = element preface{heading, body, signature, location}
+            heading = element heading{text}
+            body = element body{text}
+            signature = element signature{text}
+            location = element location{originLocation, text}
+                originLocation = attribute originLocation{text}
+        prelude = element prelude{heading, body, signature, location, time}
+            time = element time{originTime, text}
+                originTime = attribute originTime{xsd:date | xsd:gYearMonth | xsd:gYear | "N/A"}
+        tableOfContents = element tableOfContents{heading, item+}
+            item = element item{pageNumber, title}
+                pageNumber = attribute pageNumber{text | xsd:int}
+        
+    content = element content{section}
+        section = element section{id, (pg | heading | subheading? | quote? | commentary | songTitle | lyrics)+}
+            id = attribute id{xsd:int}
+            pg = element pg{id, empty} # Self-closing page break tag
+            subheading = element subheading{text}
+            quote = element quote{text}
+            commentary = element commentary{text}
+            songTitle = element songTitle{str, originLocation?, originTime?, subject, title}
+                subject = attribute theme{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
+            lyrics = element lyrics{str, text}
+     
+     postamble = element postamble{dedication, version}
+        version = element version{text}
