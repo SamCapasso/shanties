@@ -1,0 +1,11 @@
+Meeting 3/2/2026
+
+Ali, Andrew, and Josh. 
+
+Discussed data visualization and what programs to use to run them: QGIS and/or ArcGIS. 
+
+Discussed the London Plague Project, which used ARCGIS, as a model for our maps.
+
+Discussed using XQuery to generate heatmap and timeline
+
+Worked on marking up our respective xml sections.
