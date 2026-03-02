@@ -1,0 +1,16 @@
+PROMPTS THAT I USED
+
+To remove nonsense
+(this is not the exact prompt, for some reason claude removed what I had typed? the conversation appears blank when I go back to view it, I think this may be because I did not ever technically let it finish? it seemed to stop typing eventually so I just copied what it had done and used that. it made it to page 187, leaving me to only manually do 13 pages to reach page 200.)
+I attached the file containing only my section and said "this is an excerpt from a full novel called "music of the waters" by Laura Alexandrine Smith. the excerpt I have provided you with was a text file pulled off of internet archive. the person who origially digitized this text seems to have used some sort of photo to text program which mostly worked except for the fact that the book contained sheet music which translated to several hundred lines of nonsense in the text. can you please go through this text and remove all of the nonsense?
+
+then to make it easier to markup I said
+Hello, this text is an excerpt from a full novel called "music of the waters" by Laura Alexandrine Smith. I am working on a project which aims to analyze this text and then pull data about the subject of each song contained within. the first step towards that however would be to tag each section in xml format as <song> or as <commentary> are you able to do that?
+it then spit out a version that was marked up but had all of the text paraphrased, I asked "this is great but I need the text of the document to be fully in tact rather than paraphrased, are you able to do that?"
+it tried but the document was too long and after ~20 minutes it gave up, im now going to try to have it do my section in 2 parts and see if it can do the markup following the schema.
+
+Now I am trying to see how much claude can do on its own, I have provided it with half of my markup section as well as the schema, I also swapped to using a claude ai project
+I prompted
+This is an excerpt from a novel called "music of the waters" by Laura Alexandrine Smith. I am working on a project in which my group and I would like to mark up each section of this text and then pull information from to find out more about the sailors. in order to do that we must first mark up the text according to the schema file that I have also provided you with. can you please go through the Markup_2.xml file and mark it up according to the Schema.rnc file?
+this, upon first look seems to have worked great, except for the fact that it added unneccesary parts including the table of contents and all of that but it makes sense why it did that.
+I then asked it to do the same with the other half, I am unsure if it was neccessary to do this in halves now that I swapped to using "projects" I need to look further into that
