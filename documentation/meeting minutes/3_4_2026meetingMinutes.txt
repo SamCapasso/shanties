@@ -1,0 +1,10 @@
+Meeting 3/4/2026
+
+Josh, Ali, and Sam were in attendance.
+
+went over xml markup
+discussed use of claude ai for markup
+discussed what we can cut out (page breaks “music of the waters”)
+decided to upload txt file along with claude markup for clarity
+completed first pass of xml markup 
+made sure to add key (sl, hs, dp, etc.) to claude
