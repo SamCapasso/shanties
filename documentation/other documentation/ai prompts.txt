@@ -1,0 +1,3 @@
+What I plugged into claude ai:
+
+"use this schema: (pasted schema) to markup this text: (plugged in my already manually marked up xml)
