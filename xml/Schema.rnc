@@ -30,8 +30,10 @@ book = element book{preamble, content, postamble}
             subheading = element subheading{text}
             quote = element quote{text}
             commentary = element commentary{text}
-            songTitle = element songTitle{str, originLocation?, originTime?, subject, title}
+            songTitle = element songTitle{str, originLocation?, originTime?, subject, subject2?, subject3?, title}
                 subject = attribute subject{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
+                subject2 = attribute subject2{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
+                subject3 = attribute subject3{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
             lyrics = element lyrics{str, text}
      
      postamble = element postamble{dedication, version}
