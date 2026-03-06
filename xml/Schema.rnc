@@ -34,6 +34,15 @@ book = element book{preamble, content, postamble}
                 subject = attribute subject{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
                 subject2 = attribute subject2{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
                 subject3 = attribute subject3{"sl" | "hs" | "dp" | "wk" | "dk" | "bt" | "dt" | "ss"}
+                # Subject abbreviations:
+                # sl = sea life
+                # hs = homesickness
+                # dp = departure
+                # wk = work
+                # dk = drinking
+                # bt = battle
+                # dt = death
+                # ss = superstition
             lyrics = element lyrics{str, text}
      
      postamble = element postamble{dedication, version}
