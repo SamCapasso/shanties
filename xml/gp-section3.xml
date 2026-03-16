@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../shanties/xml/Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+
+  <preamble>
+    <title str="Music of the Waters">Music of the Waters</title>
+    <subtitle>Sailors' Songs and Ballads</subtitle>
+    <byline>Laura Alexandrine Smith</byline>
+    <tableOfContents>
+      <heading>Table of Contents</heading>
+      <item pageNumber="203">
+        <title str="Scandinavian Sea-Songs">Scandinavian Sea-Songs</title>
+      </item>
+      <item pageNumber="223">
+        <title str="German Sailors' Songs">German Sailors' Songs</title>
+      </item>
+      <item pageNumber="241">
+        <title str="Dutch Sailors' and Herring-Fishers' Songs">Dutch Sailors' and Herring-Fishers' Songs</title>
+      </item>
+      <item pageNumber="251">
+        <title str="Russian Sailors' Songs">Russian Sailors' Songs</title>
+      </item>
+      <item pageNumber="271">
+        <title str="Greek Songs">Greek Songs</title>
+      </item>
+    </tableOfContents>
+  </preamble>
+
+  <content>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 1: SCANDINAVIAN SEA-SONGS                           -->
+    <!-- ============================================================ -->
+    <section id="1">
+
+      <heading>Scandinavian Sea-Songs</heading>
+      <subheading>Sweden, Norway, and Denmark</subheading>
+      <pg id="203"/>
+
+      <quote>With grand Sea-Songs upon the soul / Roll'd melody on melody.</quote>
+
+      <commentary>Those who have not carefully studied the complex character of our English nationality are perhaps not aware how much we are indebted to the Scandinavian people; it is well known the Celts were the earliest ascertained people on the land, but I do not think that many have duly considered that the various manly qualities which we pride ourselves upon, have been inherited from that race which is known to us as the "hardy Norsemen." Mr. Chorley, in his "National Music," gives his impressions of that of the North in such wonderfully beautiful language, that I think I cannot do better than quote him as an introduction; he says: "In lands of mists and mountains, of long winters and short precious summers, the influences of scenery are more clearly to be discerned than in regions where Nature is uniformly favourable. Gay or grave, the music of the North is fresh; the sad is seldom blended with languor; the sweet has ever something in it to brace, even in minor keys, which predominate."</commentary>
+
+      <pg id="204"/>
+
+      <commentary>The Northern sea-songs are grand and stirring melodies, rarely if ever tinged with sadness; the spirit that animated the sea-kings of old seems to have been handed down to their marine descendants of to-day. Some of the superstition that was ever characteristic of Northern seafaring people is still left, and in the far North it is as great as ever. Among the Kvans, one curious old woman, Anna by name, always spat and turned to the sea, mumbling some words as a charm against mermen whenever a boat came in. In her charms the word "Jumala" was often used; it is the name of the old god of the Bjarmers, whose worship in the far North is not so abolished as might be supposed. Dedicated to his cultus, high up in the mountains in Finmark, are two altars, from which it would appear even in civilized Europe, among the more ignorant, Christianity is made to shake hands with Paganism. The mermen of the north of Norway were not of the same species as the traditionary mermaids of our nursery rhymes, "Human above and fishy below," but had legs and feet like ordinary mortals; they were, in fact, a sort of ocean giant, always injuring in some way the poor Norse sailors.</commentary>
+
+      <commentary>The Swedes are eminently a musical people. One of their old sea laws, according to Chorley, was that the man on the watch should sing a hymn every night. Surely there is something very picturesque as well as devout in such an ordinance.</commentary>
+
+      <commentary>Mr. Ballantyne, in his "Norsemen in the West," puts the following song into Karlesefin's mouth. Karlesefin was the skipper of the ship that set out for Vinland about 986; he was himself a skald or poet, although he had no pretension to great attainments in that way. Seated beside the helm guiding the ship, he would interest the group of friends who stood, sat, or reclined on the deck and against the bulwarks of the high poop, with Sagas descriptive of the battles and adventures of their Viking forefathers. One can imagine the little party thus occupied on a fine moonlight night, a soft wind carrying them pleasantly over the rippling sea, and the skipper's voice singing probably in some weird monotonous tone the following:</commentary>
+
+      <pg id="205"/>
+
+      <songTitle str="Karlsefin's Song" originLocation="Iceland/Vinland" originTime="N/A" subject="sl">
+        <title>Karlsefin's Song</title>
+      </songTitle>
+      <lyrics str="English">Where western waves were all unknown
+And western fields were all unsown,
+When Iceland was the outmost bound
+That roving Viking keels had found,
+Gunbiorn then Ulf Kraka's son
+Still farther west was forced to run
+By furious gales, and there saw land
+Stretching abroad on either hand.
+Eric, of Iceland, called the Red,
+Heard of the news and straightway said,
+"This western land I'll go and see;
+Three summers hence look out for me."
+He went, he landed, stayed awhile,
+And wintered first on Eric's Isle,
+Then searched the coast both far and wide,
+Then back to Iceland o'er the tide.
+"A wondrous land is this," he said,
+And called it Greenland of the Sea.
+Twenty-and-five great ships sailed west
+To claim this gem on ocean's breast;
+With man and woman, horn and hoof,
+And begging for the homestead roof,
+Some turned back in heart but mice
+Some sank amid the northern ice;
+Half reached the land in much distress,
+At Ericsford and Herulfness.
+Next Biarne Herulf's doughty son
+Sought to trace out the aged one (his father);
+From Norway sailed, but missed his mark,
+Passed snow-topped Greenland in the dark:
+And then came to a New Found land
+But did not touch the tempting strand,
+For winter winds oppressed him sore,
+And kept him from his father's shore.
+Then Leif the son of Eric rose
+And straightway off to Biarne goes,
+Buys up his ship, takes all his men,
+Fares forth to seek that land again.
+Leif found the land, discovered more,
+And spent a winter on the shore,
+Cut trees and grain to load the ship
+And pay them for the lengthened trip;
+Named "Hella-land" and "Mark-land" too,
+And saw an island sweet with dew!
+And grapes with great abundance found,
+So named it Vinland all around,
+But after that forsook the shore
+And north again for Greenland bore.
+And now we cross the moonlit seas
+To search this land of grapes and trees;
+Biarne, Thorward, Karlsefin
+Go forth this better land to win,
+With men and cattle not a few,
+And household gear and weapons too:
+And, best of all, with women dear
+To comfort, counsel, check, and cheer.
+Thus far we've made a prosperous way,
+God speed us onward every day!</lyrics>
+
+      <pg id="206"/>
+
+      <commentary>It was unanimously agreed that this was a true account of the discovery of Vinland (America), and of their own expedition as far as it had gone; but one of the party, Biarne, insisted that the skipper had not done full justice to the subject of the latter, in omitting to mention a whale which had dived under the vessel, and substituted the following lines:</commentary>
+
+      <songTitle str="Biarne's Whale Song" originLocation="Norse" originTime="N/A" subject="sl">
+        <title>Biarne's Whale Song</title>
+      </songTitle>
+      <lyrics str="English">When Biarne, Thorward, Karlsefin
+This famous voyage did begin,
+They stood upon the deck one night
+And there beheld a moving sight:
+It made the very men grow pale,
+Their shudder almost rent the sail!
+For lo! they saw a mighty whale.
+It drew a shriek from Olaf brave,
+Then plunged beneath the briny wave,
+And while the women loudly shouted,
+Up came its blundering nose and spouted;
+Then underneath our keel it went
+And glared with savage fury pent,
+And round about the ship it swum,
+Striking each man and woman dumb.
+Stay one there was who found a tongue,
+And still retained her strength of lung —
+Fredessa, beauteous matron bold,
+Resolved to give that whale a scold!
+But little cared that monster fish
+To gratify Fredessa's wish;
+He shook his tail, that naughty whale,
+And flourished it like any flail,
+And ho! for Vinland he made sail!</lyrics>
+
+      <pg id="207"/>
+
+      <commentary>Mr. Ballantyne further tells us that Biarne is not a poet of very high standing; at least, one may judge from the rhyming of the two lines following, that he knew how to avail himself of one of the many privileges poets have, viz. to take out his licence: "And round about the ship it swum, / Striking each man and woman dumb!" In the same book, "The Norsemen in the West," we find another sea-song, which is set to a rattling tune:</commentary>
+
+      <songTitle str="The Danish Kings" originLocation="Ireland/Denmark" originTime="N/A" subject="bt">
+        <title>The Danish Kings</title>
+      </songTitle>
+      <lyrics str="English">Solo. One night when one o' the Irish kings
+Was sleeping in his bed,
+Six Danish kings so Sigvat sings
+Came an' cut off his head.
+The Irish boys they heard the noise,
+And flocked unto the shore;
+They caught the kings, and put out their eyes,
+And left them in their gore.
+
+Chorus. Oh! this is the way we served the kings
+An' spoiled their pleasure the dirty things
+When they came to harry and flap their wings
+Upon the Irish shore ore,
+Upon the Irish shore.
+
+Solo. Next year the Danes took terrible pains
+To wipe that stain away;
+They came with a fleet their foes to meet
+Across the stormy say.
+Each Irish carl great stones did hurl
+In such a mighty rain,
+The Danes went down with a horrible stoun,
+An' never came up again.
+
+Chorus. Oh! this is the way,</lyrics>
+
+      <pg id="208"/>
+
+      <commentary>In Mr. Samuel Laing's admirable translation of Snorro Sturleson's "Heimskringla" (Chronicle of the Kings of Norway), there are many famous sea-songs; indeed, the volumes are so interspersed with them that it would be a difficult matter to make a selection from so inexhaustible a mine. Many of the same expressions and even sentiments that may be found in the modern sailor's songs are introduced in these old Icelandic Sagas; for instance, in the following:</commentary>
+
+      <songTitle str="The Sea-Horse" originLocation="Scandinavia" originTime="N/A" subject="sl">
+        <title>The Sea-Horse</title>
+      </songTitle>
+      <lyrics str="English">The hero who knows well to ride
+The sea-horse o'er the foaming tide;
+He who in boyhood wild rode o'er
+The seaman's horse to Scandia's shore,
+And showed the Danes his galley's bow,
+Right nobly scours the ocean now.</lyrics>
+
+      <commentary>The expression sea-horse (or sometimes ocean-steed) is commonly used for a ship, probably from many having had the figure-head of a horse on the bow. Mr. Laing seems to rate Snorro Sturleson's powers as a dramatic historian very highly, ranking him with Carlyle, Scott, and even with Shakespeare himself, and placing him very far above Joinville or Froissart. Therefore, we may venture to regard as authentic his account of the half-fabulous tales of the time of Odin, though it must, I think, be a somewhat difficult matter to discriminate between the mythological and historical, so closely are they blended in the narratives of the Northern countries.</commentary>
+
+      <commentary>There is a curious tale about herrings mentioned in one, Saga Eyvind. Skaldespiller, a poet, composed a poem about the people of Iceland, for which they rewarded him by each peasant giving him three silver pennies of full weight. These pennies were purified and made into a row of silver clasps, and valued at fifty marks. Eyvind on receiving these clasps (which, by the way, resembled the rows of buttons still used by the Friesland fishermen for ornaments on their jackets), was obliged to separate them and sell them to defray his household expenses; a proceeding which must have seemed the reverse of dignified. But the same spring a shoal of herrings set in upon the fishing-ground beyond the coastside, and Eyvind manned a ship's boat with his house-servants and cotters, and rode to where the herrings were come, singing:</commentary>
+
+      <pg id="209"/>
+
+      <songTitle str="Eyvind's Herring Song" originLocation="Iceland" originTime="N/A" subject="wk">
+        <title>Eyvind's Herring Song</title>
+      </songTitle>
+      <lyrics str="English">Now let the steed of ocean bound
+O'er the North Sea with dashing sound;
+Let nimble bird and screaming gull
+Fly round and round, our net is full.
+Fain would I know if fortune sends
+A like provision to my friends.
+Welcome provision, it is, I wot,
+That the whale drives to our cook's pot.</lyrics>
+
+      <commentary>So entirely were his movable goods exhausted that he was obliged to sell his arrows to buy herrings, or other meat for his table:</commentary>
+
+      <songTitle str="The Arrows of the Sea" originLocation="Iceland" originTime="N/A" subject="wk">
+        <title>The Arrows of the Sea</title>
+      </songTitle>
+      <lyrics str="English">Our arms and ornaments of gold
+To buy us food we gladly sold;
+The arrows of the bow gave we
+For the bright arrows of the sea.</lyrics>
+
+      <commentary>Herrings, from their swift darting along, are called the arrows of the sea; and there is a play upon the words "pil" (arrows) and "sild" (herrings), as being somewhat similar in sound in the original translation.</commentary>
+
+      <commentary>In the reign of King Magnus the Good (1035–1047) there appears to have been a great deal of fighting, and most of the songs of that period tell of battles by sea and land; some few lament the hardships of sea-life, such as:</commentary>
+
+      <songTitle str="No Drink But the Salt Sea" originLocation="Scandinavia" originTime="N/A" subject="sl">
+        <title>No Drink But the Salt Sea</title>
+      </songTitle>
+      <lyrics str="English">No drink but the salt sea
+On board our ships had we,
+When, following our king,
+On board our ships we spring.
+Hard work on the salt sea,
+Off Scandia's coast, had we;
+But we laboured for the king,
+To his foemen death to bring.</lyrics>
+
+      <songTitle str="Brave Magnus" originLocation="Scandinavia" originTime="N/A" subject="bt">
+        <title>Brave Magnus</title>
+      </songTitle>
+      <lyrics str="English">Brave Magnus, from the stern springing
+On to the stem, where swords were ringing,
+From his sea-raven's beak of gold
+Deals death around the brave! the bold!
+
+'Twas on a Sunday morning bright,
+Fell out this great and bloody fight,
+When men were arming, fighting, dying,
+Or on the red decks wounded lying.
+And many a man foredoomed to die,
+To save his life o'erboard did fly,
+But sank; for swimming could not save,
+And dead men rolled in every wave.</lyrics>
+
+      <pg id="210"/>
+
+      <commentary>There seems to have been an origin for the well-known song, most familiar, perhaps, to children, of "London Bridge is broken down," in the reign of King Olaf. Speaking of the invasion of England in the time of Ethelred, Mr. Laing says: "The Danes who had already been settled in England some time — King Ethelred having gone to France — had raised a great work, a bulwark of stone, timber, and turf, where they had stationed an army. This was at Southwark, or, as they called it, Sudrviki, and between this and the castle (probably the site of the Tower of London) there was a bridge so broad that two waggons could pass each other upon it; on this were raised barricades, both towers and wooden parapets, in the direction of the river — namely, across the bridge — which were almost breast high; and under the bridge were piles driven into the bottom of the river. King Ethelred, on hearing of the death of King Swend, the Danish king, came home immediately, and soon gathered an immense force about him, amongst whom were King Olaf and a troop of Northmen. They tried to get possession of the bridge, but the Danes firmly defended it. A council was called together to determine how they should get the bridge broken down, and it was determined to lay their forces under the bridge. King Olaf ordered great platforms of floating wood to be tied together with hazel bands, and for this he took down old houses, and with these as a roof he covered over his ships so widely that it reached over their sides. Under this screen he set pillars so high and stout, that there both was room for swinging their swords, and the roofs were strong enough to withstand the stones cast down upon them. They rowed up the river when ready, but when they came near the bridge, there were cast down upon them so many stones and missile weapons, such as arrows and spears, that neither helmet nor shield could hold out against them; and the ships themselves were so greatly damaged, that many retreated. But King Olaf and his men rowed quite up under the bridge, laid their cables around the piles which supported it, and then rowed off as fast as they could. The piles thus shaken were loosened under the bridge, and as the armed troops of the Danish stood thick upon it, together with heaps of stones and other weapons, the piles being loosened and broken, the bridge gave way, and a great part of the men fell into the Thames; the rest fled, some into the castle, and some</commentary>
+
+      <pg id="211"/>
+
+      <commentary>into Southwark. Thereafter Southwark was stormed and taken. Now when the people in the castle saw that the river was mastered, and that they could not hinder the passage of ships up into the country, they became afraid, surrendered the Tower, and took Ethelred to be their king."</commentary>
+
+      <pg id="212"/>
+
+      <songTitle str="London Bridge is Broken Down" originLocation="England/Scandinavia" originTime="N/A" subject="bt">
+        <title>London Bridge is Broken Down</title>
+      </songTitle>
+      <lyrics str="English">London Bridge is broken down,
+Gold is won, and bright renown.
+
+Shields resounding,
+War-horns sounding,
+Hildur shouting in the din!
+
+Arrows singing,
+Mail-coats ringing —
+Odin makes our Olaf win!
+
+King Ethelred has found a friend,
+Brave Olaf will his throne defend
+In bloody fight
+Maintain his right,
+Win back his land
+With blood-red hand,
+And Edmund's son upon his throne replace —
+Edmund, the star of every royal race!
+
+At London Bridge stout Olaf gave
+Odin's law to his war-men brave —
+"To win or die!"
+And their foemen fly:
+Some by the dyke-side refuge gain,
+Some in their tents on Southwark plain.
+This sixth attack
+Brought victory back.</lyrics>
+
+      <pg id="213"/>
+
+      <commentary>There is a Laplander's song by Sigurd, relative to their making boats, given also by Mr. Laing:</commentary>
+
+      <songTitle str="The Lapland Tent" originLocation="Lapland" originTime="N/A" subject="sl">
+        <title>The Lapland Tent</title>
+      </songTitle>
+      <lyrics str="English">In the Lapland tent
+Brave days we spent,
+Under the grey birch-tree;
+In bed or on bank,
+We knew no rank,
+And a merry crew were we.
+
+Good ale went round
+As we sat on the ground,
+Under the grey birch-tree;
+And up with the smoke
+Flew laugh and joke,
+And a merry crew were we.</lyrics>
+
+      <songTitle str="Our Fin-Boats" originLocation="Lapland/Scandinavia" originTime="N/A" subject="sl">
+        <title>Our Fin-Boats</title>
+      </songTitle>
+      <lyrics str="English">Our skin-sewed Fin-boats lightly swim,
+Over the sea like wind they skim.
+Our ships are built without a nail;
+Few ships like ours can row or sail.</lyrics>
+
+      <songTitle str="King Harald's Verse" originLocation="Scandinavia" originTime="N/A" subject="sl">
+        <title>King Harald's Verse</title>
+      </songTitle>
+      <lyrics str="English">While wives of husbands fondly dream,
+Here let us anchor in the stream,
+In Godnarfiord; we'll safely moor
+Our sea-homes, and sleep quite secure.</lyrics>
+
+      <commentary>There is no nation in the world prouder of its national ensign than is Denmark of its Dannebrog — not even England of her Union Jack. Of this Dannebrog there is a curious legend, or rather, I should say, history. During the Valdemarian period the Danes now turned propagandists of Christianity, and during the war they waged against the pagan countries on the south and east of the Baltic, in one of the battles fought near Reval, in Russia, in the year 1219, a great miracle is said to have occurred. They had discarded the old pagan flag of the raven, a new one was vouchsafed them by Heaven and sent down to them — under this they became victorious. It was a red flag with a white cross, still the national ensign by sea and land.</commentary>
+
+      <commentary>Amongst the Danish national songs there is one commemorative of this:</commentary>
+
+      <pg id="214"/>
+
+      <songTitle str="The Dannebrog" originLocation="Denmark" originTime="N/A" subject="bt">
+        <title>The Dannebrog</title>
+      </songTitle>
+      <lyrics str="English">The Dannebrog, 'tis known,
+The Dannebrog, 'tis known,
+It fell from Heaven down;
+Yes, it fell from Heaven down!
+It floats upon the mast,
+The soldier grasps it fast.
+And no flag in the world besides, like ours,
+From Heaven was ever cast.</lyrics>
+
+      <commentary>Danish poetry lacks the polish of southern national song, both as to rhyme and rhythm. Indeed, it recalls the times of our own Chaucer and Gower. It is rough and romantic, and not at all wanting in vigour and expressiveness. Perhaps climate regulates poesy as it does the human constitution. All Scandinavian national songs abound in reiterations.</commentary>
+
+      <commentary>The Vikings (sea-rovers or pirates), who played so important a part during the Danish conquests, were not Vi-kings, but Vik-kings (Veekings), so called, says Mr. Worsaae in his account of the Danes and Norwegians, either from the Icelandic Vik (Danish Vig), a bay of the sea, or from Vig, battle or slaughter. The latter, I fancy, seems the more probable; although many may place more reliance on Mr. Worsaae's first solution. There is much that remains shrouded in obscurity concerning these northern lands, and there is a terse saying very appropriate to Scandinavian researches: "What is hits is histories, / What is missed is mysteries."</commentary>
+
+      <commentary>The Danish people are not musical when compared with such harmony-loving countries as Germany, France, Italy, and Sweden. Their sailors have but few songs, and those are certainly not to be classed under the heading of chanties.</commentary>
+
+      <commentary>The capstan song for the Danish Navy is, "Come, all ye jolly sailors bold":</commentary>
+
+      <pg id="215"/>
+
+      <songTitle str="Come, All Ye Jolly Sailors Bold" originLocation="Denmark" originTime="N/A" subject="wk">
+        <title>Come, All Ye Jolly Sailors Bold</title>
+      </songTitle>
+      <lyrics str="English">Solo. Come, all ye jolly sailors bold,
+Chorus. Heave and go, my Nancy O!
+
+Solo. Listen till my tale is told,
+Chorus. Heave and go, my Nancy O!
+
+Solo. The king trusts to his sailors bold,
+And we shall find them as of old
+For father, mother, sisters, wives,
+We're ready now to risk our lives.
+For Danish girls, with eyes so blue,
+We'll do all that can sailors do.
+And Dannebrog upon our masts
+Shall float as long as this world lasts;
+And now for our brave captain, we,
+Will give three cheers right heartily.
+
+Solo. Then up, mates, up, and blaze away,
+Chorus. Heave and go, my Nancy O!
+
+Solo. Listen till my tale is told,
+Chorus. Heave and go, my Nancy O!</lyrics>
+
+      <commentary>Modern Scandinavian "chanties" resemble our English ones very closely, many words being exactly the same; they are spirited tunes, characteristic of the fresh, hardy, brisk men who sing them. They have their capstan songs, their hauling "chanties," their outward and homeward-bound songs, and those of forecastle fame, descriptive of sailor's and sea life, and illustrative of their grand old Viking fathers. The following are both recognized forecastle favourites:</commentary>
+
+      <pg id="216"/>
+
+      <songTitle str="Norsk Sjomandssang" originLocation="Norway" originTime="N/A" subject="sl">
+        <title>Norsk Sjomandssang</title>
+      </songTitle>
+      <lyrics str="Norwegian">[Sheet music — lyrics in Norwegian]</lyrics>
+
+      <commentary>This song is descriptive of sailors and sea-life. To the next there is a most decidedly English beginning: "Hurra! my boys," very often used by Norwegian seamen.</commentary>
+
+      <pg id="217"/>
+
+      <songTitle str="Ruffen" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Ruffen</title>
+      </songTitle>
+      <lyrics str="Norwegian">[Sheet music — forecastle song, lyrics in Norwegian]</lyrics>
+
+      <songTitle str="Norwegian Capstan Chanty" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Norwegian Capstan Chanty</title>
+      </songTitle>
+      <lyrics str="Norwegian">[Sheet music — no words recorded]</lyrics>
+
+      <pg id="218"/>
+
+      <commentary>To this last capstan tune no words were sent me. Some of the songs furnished with verses are of very little use, save to those who are acquainted with the Norwegian language as sung by the sailors; it is almost impossible to make any correct translation of the words. They mean but little to the singers of them, that is, judging them from a sensible point of view; but they mean decidedly less to us, who are not Norwegian. It has often struck me that there must be a very forcible freemasonry between sailors of all nations with regard to their language, even putting aside those technical terms which hold good all the world over, and which enables the Norwegian to understand as readily as the Italian, with whom they originate, the words "starboard" and "larboard," when the Dutchman and Englishman, the Frenchman and Russian exchange glances of sympathy over some thrilling yarn told in the strange forecastle vernacular of an English vessel.</commentary>
+
+      <songTitle str="Opsang for Jonas Anton Hjelm" originLocation="Norway" subject="sl">
+        <title>Opsang for Jonas Anton Hjelm</title>
+      </songTitle>
+      <lyrics str="Norwegian">[Sheet music — lyrics in Norwegian]</lyrics>
+
+      <pg id="219"/>
+
+      <commentary>The song for Jonas Anton Hjelm is a well-known one on board Norwegian vessels, and though perhaps not known as any particular sort of working song, it is yet as often heard as any. "Hurrah for Jonas Anton Hjelm," and "Sing, saylor, hurra, my boy," seem to suggest that it is commemorative of some evidently noteworthy personage — Jonas Anton Hjelm by name.</commentary>
+
+      <songTitle str="Ved Ankerhioning" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Ved Ankerhioning (Heaving the Anchor)</title>
+      </songTitle>
+      <lyrics str="Norwegian">Og Kei-ser-en sad paa-sit No-je Stot.</lyrics>
+      <lyrics str="English">Solo. And the Kaiser he sat in his castle so high.
+Chorus. Good-bye, fare you well; good-bye, fare you well.
+
+Solo. His crimson jersey suits him so well.
+Chorus. Hurra, my boys! we are homeward bound.</lyrics>
+
+      <commentary>A translation of the foregoing seems scarcely necessary, considering that the chorus is English. A song used when throwing ballast is the next one I give, and perhaps among all the songs I have heard sung by the blue-jackets of the world there is none so redolent of the freshness and vigour of the sea as this Norwegian chanty. I could understand any land-sick lad longing for a sea-life if he once heard this ballast-throwing song ringing from the decks of some Norwegian vessel; it has a swing and "go" about it that are most captivating:</commentary>
+
+      <pg id="220"/>
+
+      <songTitle str="Ved Balasthioning" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Ved Balasthioning (Throwing Ballast)</title>
+      </songTitle>
+      <lyrics str="Norwegian">En Jager gik ud at Jage,
+En Jager gik ud at Jage,
+Att udi skoven gron;
+Ja, ja! att udi skoven gron.
+
+Chorus.
+Hali, halo, hali, halo!
+Ni seile og in ro, ya, ya!
+Hali, halo, hali, halo!
+Ni seile og in ro.</lyrics>
+      <lyrics str="English">A hunter went out a-hunting,
+A hunter went out a-hunting,
+Out in the wood so green;
+Ja, ja! out in the wood so green.
+
+Chorus.
+Hali, halo, hali, halo!
+We sail and we pull!
+Ja, ja! hali, halo, hali, halo!
+We sail and we pull.</lyrics>
+
+      <commentary>The same words are sung to this last tune as to the Ballast Chanty, except in the chorus, when "sing" replaces "sail": "We sing all tra la, la, la, la, hei! / We sail to America."</commentary>
+
+      <pg id="221"/>
+
+      <songTitle str="Ved Mersefald" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Ved Mersefald (Topsail-halyards Chanty)</title>
+      </songTitle>
+      <lyrics str="Norwegian">[Sheet music — lyrics in Norwegian]</lyrics>
+
+      <songTitle str="Bowline Chanty" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Bowline Chanty</title>
+      </songTitle>
+      <lyrics str="Norwegian">En so-mands sto-re-te glade er, Ju-lia, Ju-lia, hop-ra-sa.</lyrics>
+      <lyrics str="English">Solo. A sailor's greatest pleasure
+Chorus. Is Julia, Julia hops as a Jo.
+
+Solo. Beloved of girls so dear.
+Chorus. Julia hops as a Jo.
+
+Julia, Julia, Julia, Julia!
+Julia, sweet Julia.</lyrics>
+
+      <commentary>There are, I am told, a great many verses to this tune, but as they are all much in the same strain, I have just given the one.</commentary>
+
+      <pg id="222"/>
+
+      <songTitle str="Pumping Chanty" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Pumping Chanty</title>
+      </songTitle>
+      <lyrics str="Norwegian">U-di Par-me-rent, i Hoi-land, der laa en gam-mal Brige.</lyrics>
+      <lyrics str="English">Out in Pamerent in Holland
+There lay a brig so old;
+Worn out was her hull,
+And worn out was her rig.
+
+Overland as at sea,
+Overland as at sea.
+To Drobak! with the piggy,
+We are able to come.</lyrics>
+
+      <songTitle str="Opsang for Heaving the Anchor" originLocation="Norway" originTime="N/A" subject="wk">
+        <title>Opsang (For Heaving the Anchor)</title>
+      </songTitle>
+      <lyrics str="Norwegian">An-hor du li-den Baadsmand, hvad jeg vil si-ge dig.</lyrics>
+
+      <commentary>In a letter I received from an English author who writes of the sea and sailors, he says that there are not many sea-songs in vogue in Northern Europe, and that almost all the chanties that belong to our seamen are of Spanish origin. Amongst the hundreds of letters I have had from different parts of the world on the subject of the sailors' songs, there is not one that so emphatically contradicts my experience in collecting them. Thanks to the very kind and unwearying assistance of Mr. Conradi, the Scandinavian Consul for Newcastle-upon-Tyne, I have been able to procure more specimens of genuine "chanties" than perhaps have been found amongst any other nation, and I fear I must add that it is due to the evident inability or disinclination of those members of the Spanish community whom I have addressed in the matter that I have not been favoured with any information or even replies to my inquiries, that I cannot include amongst the accounts of the "Sailors' Songs of all Nations" a chapter devoted to those of the country whose maritime importance once took precedence of all other.</commentary>
+
+      <pg id="223"/>
+
+      <commentary>I cannot close my remarks on the Scandinavian sea-songs without a regret, although one that is not occasioned by the kindly people of those Northern lands, rather, I must acknowledge the pleasure the task of collecting their songs has afforded me, encouraged and aided as I have been in the undertaking, but only regretting that anything commemorative of so noble a country should be so imperfectly done.</commentary>
+
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 2: GERMAN SAILORS' SONGS                            -->
+    <!-- ============================================================ -->
+    <section id="2">
+
+      <heading>German Sailors' Songs</heading>
+      <pg id="223"/>
+
+      <quote>The fiddler in his tavern, / The long-drawn sailor-song.</quote>
+      <quote>Crown the deck the festive sailors / Of the broad and German Rhine. / Der Rhein! Der Rhein! / I know the song, the jovial singers too, I know.</quote>
+      <quote>Liebchen, Ade! / Scheiden thut Weh. / Morgen geht's in die wogende See.</quote>
+
+      <pg id="224"/>
+
+      <commentary>There are in North Germany, according to the late Captain Goodenough, about 80,000 seafaring men. As a characteristic, most of the German ships are manned by entirely German crews, perhaps mixed now and then with a few Scandinavians and Dutch. Frequently German ships in foreign ports make up their number by men sent from home, as every able-bodied man in Germany has to serve three years either in the army or navy. The seafaring population receive a good training, and it is on account of their discipline and sobriety that German sailors frequently are employed in foreign ships. There are, of course, cases of desertion, but hardly as many as in other countries, as in most of them the German Consuls have the power to imprison deserting sailors. Frequently hard-earned money may also be squandered in a reckless way, but on the whole the German seaman must be called thrifty. The German sailors being almost entirely drawn from the coasts of the Baltic and the North Sea, most of their songs are in the North German dialect, and as such rather difficult to translate.</commentary>
+
+      <commentary>To the well-known tune of "In Berlin sagt' Er," the following truly sailor-like verses are sung:</commentary>
+
+      <pg id="228"/>
+
+      <songTitle str="In Berlin Sagt Er (The Jolly Cook)" originLocation="Germany" originTime="N/A" subject="sl">
+        <title>In Berlin Sagt Er (The Jolly Cook)</title>
+      </songTitle>
+      <lyrics str="Low German">Juche, lustig, seggt he,
+Ich bin Kock, seggt he.
+Drink recht geern, seggt he,
+En Glas Grogh, seggt he.
+Fahr to Sen, seggt he,
+Zwintig Jahr, seggt he,
+Heff ook immer, seggt he,
+Gliicklich Fahren, seggt he.
+Gale Arfen, seggt he,
+Kack ick mor,
+Rohr se immer,
+Duchtig dor.
+En Stiick Scheik,
+Samlich grot,
+Smecht och sen,
+Wurklich good.
+Back ick Kliiten, seggt he,
+Wi bekannt,
+Spec ick erst.
+In die Hand,
+Denn rull ick se,
+Zirkel rund,
+De smeckt good,
+Sund gesund.
+Wenn ick back, seggt he,
+Form Captein
+Mak ich alles,
+Sauber rein,
+Mit en Strump,
+Wisch ick ut,
+Erst dat Schottel
+Un den Putt.
+Doch een Dehl, seggt he,
+Is darbei,
+Dat ick sorg,
+Ook for my,
+For myn Moh,
+For myn Flit,
+Stock ick etwas,
+An de Siet.
+Fort Logis, seggt he,
+Sorg ick ook,
+Denn ick bin
+Lannig klook,
+Goodes Futter,
+Un ook satt,
+Un den Rest,
+Kriggt de Kaff.
+Dock ick at, seggt he,
+Geern Alleen,
+Jeder brukt,
+Richt tosehn,
+Wenn ick heff,
+Etwas goodes,
+Dat smeckt my
+Ganz lamos.
+Myn Kambiis, seggt he,
+Is hiibsch rein,
+Alles is,
+Piik un fein,
+Wer di rin kummt,
+Ward gliek rufft,
+Und ick sett em
+An de Luft.
+So fahr ick, seggt he,
+Immer so,
+Kam ick mal,
+Bi myn Fro,
+Denn wies ick der,
+Wie man kaalt,
+Un wie Seeltid,
+Siinst et makt.</lyrics>
+      <lyrics str="English">Hurrah! jolly! says he,
+I am cook, says he.
+Drink right well, says he,
+A glass of grog, says he.
+Go to sea, says he,
+Twenty years, says he,
+And have always, says he,
+Mighty luck, says he.
+Cook for me, says he,
+Yellow peas,
+Keep them stirred,
+Right away through;
+A piece of lard,
+Jolly big;
+Taste and see,
+Mighty good.
+Baking dumplings, says he,
+As well known,
+I spit first
+In the hand,
+Then I roll them,
+Make them round.
+That tastes well,
+And is sound.
+When I cook, says he,
+For the captain,
+I make all
+Neat and clean;
+I dry out,
+With a sock,
+First the basin,
+Then the board.
+But one part, says he,
+That is there,
+For myself,
+I take care,
+For my worry
+And my trouble.
+Always something
+Put aside.
+For my lodging, says he,
+Care is taken,
+For I am
+Mighty cute,
+Splendid grub,
+Mighty much,
+And the rest
+Gets the cat.
+Better feed, says he,
+By myself,
+No man need
+Ought to see,
+When I have
+Something good,
+I like that
+Vastly much.
+Neat and clean, says he,
+Is my cabin,
+Trim and fine
+All there looks,
+Who looks in,
+At once is stopped,
+And I kick him
+Out of it.
+So I sail, says he,
+Always on,
+When I come
+To my wife,
+Then I show her
+How to cook,
+And how sailors
+Always do.</lyrics>
+
+      <pg id="229"/>
+
+      <commentary>Like most of the German sailors' songs, this one is written in Low German. It is not easy to render quite accurately or rhythmically in English the peculiarities of this droll piece. It is supposed to be sung by one voice, save the inevitable "says he," at the end of each line, which is given by the whole company present. The Germans have no organized set of chanties, belonging to their different kinds of work, as our men have on board ship. Their songs are mostly, like "The Jolly Cook," set to some well-known popular tune, though the words are often as sailor-like as any I have come across. A love of good music seems to be implanted in the heart of every son of the great "Vaterland," be he prince or be he common sailor. And the blue-jackets of Germany heave their anchors and haul their ropes to some Lied of Mendelssohn or chorus of Handel, as the British tar heaves and hauls to some quaint yo-ho-ing of his own composing.</commentary>
+
+      <commentary>The following is a translation of another humorous song, well known to German seamen; it has no title, but is sung to an exceedingly pretty air, which I have noted down as it was given me:</commentary>
+
+      <pg id="230"/>
+
+      <songTitle str="The Atlantic Champagne Song" originLocation="Germany" originTime="N/A" subject="dk">
+        <title>The Atlantic Champagne Song</title>
+      </songTitle>
+      <lyrics str="German">Wenn das Atlantische Meer
+Lauter Champagner war;
+Mocht ich ein Haifisch sein,
+Schliirfte nur Wellen ein.
+Wenn das Atlantische Meer
+Lauter Champagner war,
+War ich viel lieber doch
+Ein Schiff mit groszem Loch.
+Ging ich dann zu Grund;
+Schliirft, in der letzten Stund,
+In deinen Schaum noch ein,
+Gluh'n der Champagner Wein.</lyrics>
+      <lyrics str="English">If the Atlantic Sea
+Could only champagne be,
+I'd wish to be a shark,
+And swallow its waves for a lark.
+If the Atlantic Sea
+Could only champagne be,
+I'd wish with all my soul,
+To be a ship with a hole.
+When to the bottom I go,
+Then in that hour of woe,
+Still then thy foam I'd suck,
+O sparkling champagne cup!</lyrics>
+
+      <commentary>Slightly suggestive of thirst, the idea of the Atlantic and its foam-crested breakers being turned into champagne! The tragic tone of the last verse is strangely mock-solemn.</commentary>
+
+      <songTitle str="Hamburg ist ein schones Stadtchen" originLocation="Germany" originTime="N/A" subject="hs">
+        <title>Hamburg ist ein schones Stadtchen</title>
+      </songTitle>
+      <lyrics str="German">Hamburg ist ein schones Stadtchen,
+(All) Siehst du wohl!
+Welches an der Elbe liegt,
+(All) Siehst du wohl!
+Drinnen giebt es hiibsche Madchen,
+(All) Madchen,
+Aber sprode sind sie nicht,
+(All) Siehst du wohl!
+
+Chorus.
+Ach! es halt ja so schwer,
+Aus einander zu gehn,
+Wenn die Hoffnung nicht war,
+Auf ein Wieder Wiedersehn:
+Lebe wohl, lebe wohl, lebe wohl,
+Auf Wiedersehn.
+
+Eine Schwalbe macht kein Sommer,
+(All) Siehst du wohl!
+Wenn es auch die erste ist,
+(All) Siehst du wohl!
+Und mein Liebchen mir kein Kummer,
+(All) Kummer,
+Wenn sie auch die schonste ist.
+(All) Siehst du wohl!
+
+Sassen einst zwei Turteltauben,
+(All) Siehst du wohl!
+Sassen beid' auf einem Ast,
+(All) Siehst du wohl!
+Ach, wo zwei Verliebte scheiden,
+(All) Trocknet alles Laub und Grass.</lyrics>
+      <lyrics str="English">Hamburg is a jolly city,
+(All) Don't you know!
+Which is lying on the Elbe,
+(All) Don't you know!
+And the lasses, they are pretty,
+(All) Pretty,
+But you cannot call them prim,
+(All) Don't you know!
+
+Chorus.
+Oh! but it does grieve the heart,
+When some friends have thus to part,
+But the hope softens the pain,
+That we'll see each other again.
+So farewell, so farewell, so farewell,
+We shall meet again.
+
+And one swallow makes no summer,
+(All) Don't you know!
+Even if the first she be,
+(All) Don't you know!
+And no lust disturbs my slumber,
+(All) Slumber,
+If the prettiest she be,
+(All) Don't you know!
+
+Once I saw two turtle-doves,
+(All) Don't you know!
+Both were sitting on one spray,
+(All) Don't you know!
+And where two true lovers parted,
+(All) Grass and leaves they wither away.</lyrics>
+
+      <pg id="232"/>
+
+      <songTitle str="Ankunft in Hamburg" originLocation="Germany" originTime="N/A" subject="hs">
+        <title>Ankunft in Hamburg (Arrival in Hamburg)</title>
+      </songTitle>
+      <lyrics str="Low German">Immer seine Bries,
+Dat is Seemans Wies,
+Dammi, Jungs ick kann
+Eurhaben sehn!
+Kock, sy nicht so dumm,
+Rohr de Arfen um,
+Wenn se anbrennt deem
+Schmerkt se nicht schon.
+Jung, den Buddel her,
+Schenk Mai rund umher,
+Giffen jeden Mann en fixen Sluk.
+Holl dy jo nich op! Holl dy jo nich op!
+Holl dy jo, un yo! un yo nich op!</lyrics>
+      <lyrics str="English">Always a jolly breeze,
+That is the way of the sailor.
+Damn you, boys! haven't you seen
+Cuxhaven?
+Don't look so silly.
+Stir the yellow peas;
+Burnt they don't taste nice.
+Boy, reach me the bottle.
+Give each one a drink
+Every one in turn.
+Now then, don't you stop!
+Now then, don't you stop!
+Now then, don't you stop!
+Now then, don't you stop!</lyrics>
+
+      <pg id="233"/>
+
+      <commentary>Though, perhaps, not strictly admissible in a collection of sailors' songs, I cannot bring this short account of the German ones to a close without including that most beautiful of all beautiful water-legends, "The Lorelei":</commentary>
+
+      <pg id="234"/>
+
+      <songTitle str="The Lorelei" originLocation="Germany" originTime="N/A" subject="ss">
+        <title>The Lorelei</title>
+      </songTitle>
+      <lyrics str="German">Ich weisz nicht, was soil es bedeuten,
+Dasz ich so traurig bin;
+Ein Marchen aus alten Zeiten,
+Das kommt mir nicht aus dem Sinn.
+Die Luft ist kiihl und es dunkelt,
+Und ruhig flieszt der Rhein;
+Der Gipfel des Berges funkelt
+Im Abend-Sonnenschein.
+Die schonste Jungfrau sitzet
+Dort oben wunderbar,
+Ihr goldnes Geschmeide blitzet,
+Sie kammt ihr goldnes Haar;
+Sie kammt es mit goldenen Kamme
+Und singt ein Lied dabei;
+Das hat eine wundersame
+Gewaltige Melodie.
+Den Schiffer im kleinen Schiffe,
+Ergreift es mit wildem Weh;
+Er sieht nicht die Felsenriffe,
+Er schaut nur hinauf in die Hoh'!
+Ich glaube, die Wellen verschlingen
+Am Ende Schiffer und Kahn;
+Und das hat mit ihrem Singen
+Die Lorelei gethan.</lyrics>
+      <lyrics str="English">I know not what it meaneth,
+That I'm so sad to-day;
+Of olden times a legend
+Haunts me for ever and aye.
+The air is cool, and it darkens,
+And calmly flows the Rhine;
+The mountain summit glimmers
+In the evening sunshine.
+Above, in wondrous beauty,
+There sits a maiden fair;
+Her brilliant jewels glitter,
+She combs her golden hair.
+Combing her golden tresses,
+A song the while she sings,
+A song so weird, alluring,
+That through my heart it rings.
+Bewitched with woe and longing,
+The boatman is looking on high,
+Not heeding the threatening danger,
+That hovers round him so nigh.
+Methinks that the bark and boatman
+The treacherous waves have won;
+And that, with her beautiful singing,
+The Lorelei has done.</lyrics>
+
+      <commentary>I have purposely given this translation of the beautiful poem, as so many English versions are published totally regardless of the music, and to my idea it seems scarcely worth while to translate any song-verses without having regard to the song itself. I have found many English versions of this legend, all more or less inaccurate as a true description of the thrilling effect of the original words. Some of them even speak of the "fury of the sea, the rock-bound coast," and surely if ever a legend were associated with a river, it is that of the Lorelei with the Rhine.</commentary>
+
+      <commentary>The song "Freiheit, die Ich Meine," is often heard on board German vessels. The words are to be found in most books of German "Lieder," so I will content myself with giving a few bars of the melody.</commentary>
+
+      <pg id="235"/>
+
+      <songTitle str="Freiheit, die Ich Meine" originLocation="Germany" originTime="N/A" subject="sl">
+        <title>Freiheit, die Ich Meine</title>
+      </songTitle>
+      <lyrics str="German">[Sheet music only — words to be found in standard German Lieder collections]</lyrics>
+
+      <commentary>"Goldne Abendsonne," or "Golden Evening Sun," is too well-known a song for there to be any necessity to give the words or their English meaning; it is often sung by the sailors in chorus at the end of their day's work.</commentary>
+
+      <songTitle str="Goldne Abendsonne" originLocation="Germany" originTime="N/A" subject="sl">
+        <title>Goldne Abendsonne (Golden Evening Sun)</title>
+      </songTitle>
+      <lyrics str="German">[Sheet music only — well-known song, words omitted]</lyrics>
+
+      <commentary>"Auf Ihr Briider, laszt uns Wallen" is also a sailors' favourite, and when they meet on shore, and grow, as land-folk also do, convivial over their pipes and lager, then may be heard from some tavern or coffee-house the strains of the "Auf, Ihr Briider." I before remarked that German sailors, as well as the other sons of the old Vaterland, have a deeply-rooted love of good music, and looking through a very remarkably spelt note-book full of songs, strongly redolent of tobacco, which was written for me by a Hamburg sailor during a period of convalescence in Newcastle Infirmary, I find the following gems mentioned as being favourites on board German vessels — Mendelssohn's exquisite "Scheiden," "Parting," which they use as an outward-bound song, also his "Abschied vom Walde," or "Leaving the Forest;" and Schubert's perfect "Wandrer's Nacht-Lied," with Gothe's words.</commentary>
+
+      <pg id="236"/>
+
+      <songTitle str="Wandrer's Nacht-Lied" originLocation="Germany" originTime="N/A" subject="hs">
+        <title>Wandrer's Nacht-Lied (The Wanderer's Night Song)</title>
+      </songTitle>
+      <lyrics str="German">Ueber allen Gipfeln Ist Ruh,
+In allen Wipfeln spiirest du
+Kaum einen Hauch;
+Die Voglein schweigen im Walde.
+
+Chorus.
+Warte nur, balde
+Ruhest du auch.</lyrics>
+      <lyrics str="English">Over each mountain is peace,
+On each summit stirs there
+Scarce a breeze;
+The birds are silent in the wood.
+
+Chorus.
+There only wants, there only wants,
+That thou, too, shouldst rest.</lyrics>
+
+      <commentary>The effect of this beautiful song — chanted, for it is more like some grand sacred piece than a song — on the open sea, must be very pleasing. Imagine our Jack tars singing anything even one-half as classical as Schubert's "Wandrer's Nacht-Lied."</commentary>
+
+      <songTitle str="Auf, Ihr Bruder, Laszt uns Wallen" originLocation="Germany" originTime="N/A" subject="sl">
+        <title>Auf, Ihr Bruder, Laszt uns Wallen</title>
+      </songTitle>
+      <lyrics str="German">[Sheet music only]</lyrics>
+
+      <commentary>The following is the tune of the "Weinachts-Lied," or "Christmas Carol," that is sung by the German sailors for that festival. It is to be found, amongst many other well-known German songs, in a book published in Hamburg and collected by Dr. Wichern, under the title of "Unsere Lieder."</commentary>
+
+      <pg id="237"/>
+
+      <songTitle str="Weinachts-Lied" originLocation="Germany" originTime="N/A" subject="dp">
+        <title>Weinachts-Lied (Christmas Carol / Farewell Song)</title>
+      </songTitle>
+      <lyrics str="German">Morgen muss ich fort von hier,
+Und muss Abschied nehmen;
+O du aller schonste Zier,
+Scheiden, das bringt Gramen.
+Da ich dich so treu geliebt,
+Ueber alle Maassen,
+Soil ich dich verlassen,
+Soil ich dich verlassen?</lyrics>
+      <lyrics str="English">I to-morrow, love, must go,
+Farewell, I must leave thee;
+Thus to part, thou lovely one,
+Bitterly doth grieve me.
+I so truly have loved thee,
+Far beyond all measure,
+How can I then leave thee,
+Who art all my treasure?</lyrics>
+
+      <songTitle str="Lebewohl" originLocation="Germany" originTime="N/A" subject="dp">
+        <title>Lebewohl (Farewell)</title>
+      </songTitle>
+      <lyrics str="German">[Sheet music only]</lyrics>
+
+      <commentary>With this favourite "outward bound" song of the German seamen I bring this small collection of their songs to a close. Lebewohl, adieu, adio, farewell — all sad, all telling of separation, perhaps for years, perhaps for ever, but never so sad, never so real, as when the last glimpse of land fades from the eyes of those watching it from an "outward bound" vessel.</commentary>
+
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 3: DUTCH SAILORS' AND HERRING-FISHERS' SONGS        -->
+    <!-- ============================================================ -->
+    <section id="3">
+
+      <heading>Dutch Sailors' and Herring-Fishers' Songs</heading>
+      <pg id="241"/>
+
+      <quote>This will prove a brave kingdom to me, / Where I shall have my music for nothing.</quote>
+
+      <pg id="242"/>
+
+      <commentary>Just across the North Sea, over the low sand-dykes of Holland, scarce higher than a ship's bulwarks, looked a race whom the spleeny wits of other nations declared to be born web-footed. Yet their sails were found in every sea, and, like resolute merchants as they were, they left to others the glory whilst they did the world's carrying. Their impress upon the sea-language was neither faint nor slight. They were true mariners, and from Manhattan Island to utmost Japan, the brown bright sides, full bows, and bulwarks of the Dutchman tumbling home were as familiar as the sea-gulls. Many words of daily use on shipboard are of Dutch origin; for instance, "bowsprit" is a compound of English and Dutch. The word "boom" is also due to the low land of dykes, as is "camboose." For all their clumsy appearance, their vessels are laid on lines that are both true and sharp; and the hardy Norsemen Vikings, and stately patrician Romans (who, by-the-bye, were at best but sea-soldiers and marines), learnt to their cost in the days when the rulers of the sea had yet to be proved, that in the squat, solid Dutchman they had a formidable rival.</commentary>
+
+      <commentary>And the Dutch are still to the fore in all matters maritime; their thriving, busy ports are ample proof of that; take, for instance, Amsterdam — that most beautiful city on the Amstel: "The seamen seated on the quays, their legs hanging down, or leaning against the black balustrades, having a grave and solemn appearance. All are smoking, seemingly reflecting, but not thinking; silent, but not dreaming. Fishermen from Marken returning to their island; fishermen of Amsterdam who fish for the anchovy; barrel-formed Tjalks loaded with merchandise; the little steamboat which carries the passengers and letters for Harlengen; all waiting at the sluices for the great gates which allow five ships to enter abreast, to open."</commentary>
+
+      <commentary>I have quoted this passage from Henri Havard's delightful "Dead Cities of the Zuyder Zee." He says, "In the distance the ironclad frigates were seen, and we could hear the sailors singing their old sea-songs, nearly the same in all countries amongst mariners." Monsieur Havard's remark is peculiarly applicable to the Dutch. They have for so long been a thorough-going sea people that many expressions and terms now used in sailors' parlance may be traced to them. It is not at all surprising to meet with a Dutch sailor who will tell you he knows the German, French, and English sea-songs thoroughly; indeed, some of the Low German songs I give in the pages devoted to Germany are almost as much Dutch as German. The song, "The Jolly Cook," which is written in such a strange dialect, is well known to the sailors of Holland, and the same may be said of many of our chanties. Any day in Rotterdam, that most quaint old-world town, with its thronged busy quays, where are found a cosmopolitan lot of seamen, you may hear snatches of English song, as the men are busy with their work:</commentary>
+
+      <pg id="243"/>
+
+      <lyrics str="English">For there will come the sailors,
+Their voices I shall hear,
+And at the casting of the anchor,
+The yo-ho loud and clear;
+And at hauling of the anchor,
+The yo-ho and the cheer.</lyrics>
+
+      <commentary>There is one phase of sea life, though, in which the Dutch are a people par excellence, namely, the fisheries; it seems almost incredible to read of the amount of barrels of fish daily exported from Holland; in fact, as some one wisely remarks, "The history of the country might be written in the fishing-nets," for there are dozens and dozens of little villages where the life of the inhabitants is simply herrings. Inside the dwellings, nets that are needing repair, tackle of all sorts, boat appliances, barrels for the salted fish, and women knitting their husbands', fathers', sons', or brothers' coarse warm jerseys: outside, signs of ships over the doorways, lines of boats on the rugged and dangerous coast, herrings being salted and packed as fast as the busy hands of the brave daring fishermen can pack them, and over all a calm, satisfied cheerful contentment that is almost sad to witness when one thinks of the rude dispelling it must often have, when the angry sea turns on the men who spend their lives in wresting their daily bread from the tempest. These herring-fishers on the lonely Dutch coast live a strange life. A life of great hardship, earnest and unflagging industry, and small profit. A life that is spent, like that of most of the people of Holland, in constant warfare with the sea, striving with works that have gone on for years, and that must go on as eternally as the tide, if the imperious monarch is to be kept back from the peaceful home-like land that his hungry billows would so fain ravage. There is something so noble in a people that are content to go on year after year combating so grand a foe, that one cannot wonder that the indomitable patience and perseverance displayed by the Dutch, in the very minutest details, has won them such rewards.</commentary>
+
+      <pg id="244"/>
+
+      <commentary>Water plays such an important part in the life of the Dutch, and so much time has to be spent on it, that the people, who are characteristically chary of time, carry on all their usual occupations, and the women travelling in the tzekschuyten or gondolas reckon that from one town to another they can knit so much of a stocking. The Dutch boatmen who man these water omnibuses, and who by the way are among the most amiable watermen of the world, seem to find the water so evidently their sphere, that they never appear to be anxious to reach their journey's end. Water-boats, milk-boats, everything that is in daily use in Holland comes by canal, and it is a strange fact, that where there is so much water, there is yet a difficulty in finding any to drink, and it has often to be brought a great distance by boat to the towns; it has been said "that in Holland wherever nature has failed to supply the sea or a river, the Dutch have made a canal." By this means most of their traffic is carried on all day with activity and some bustle, and in the evenings with a little relaxation and often to the strains of some popular song, sung in chorus, such as:</commentary>
+
+      <songTitle str="Dutch Popular Canal Song" originLocation="Netherlands" originTime="N/A" subject="sl">
+        <title>Dutch Popular Canal Song</title>
+      </songTitle>
+      <lyrics str="Dutch">[Sheet music only — no words recorded]</lyrics>
+
+      <pg id="245"/>
+
+      <commentary>In a book entitled "The Dutch at Home," by Monsieur Alphonse Esquiros, published by Chapman and Hall, Piccadilly, which describes most graphically the life and character of the fishermen and sea-people generally of Holland, there is an account of the fishermen of Vlaardingen. The author says that "up to recent years the departure of the boats for the great herring fishery was fixed for St. John's Day (June 24th). This departure was preceded by fetes, and a book of old Dutch songs still exists, sung by the fishermen as they put to sea. Toasts were proposed to the success of a fishery, and prayers offered up. At last sail was set, and the peaceful flotilla started for the herring conquest. At the present day the doggers start at the beginning of June, and can open the fishery at once; but faithful to tradition, or, if you will so, prejudice, the fishermen take advantage of this new liberty very reluctantly. The 'herring,' they say in their simple language, 'does not like to be caught before St. John's Day.'" I have unsuccessfully attempted to find this old book of songs. Monsieur Esquiros has been dead some years, and his book (published in 1863) seems but little known now. I have never read anything more generous than his opinion of the Dutch people, or an account so picturesque and interesting of their country.</commentary>
+
+      <pg id="246"/>
+
+      <commentary>He also speaks of the lonely island of Marken. "The women," he says, "hardly ever quit the island; the men, on the contrary, inhale the breath and life of the sea. The flounder-catchers enter their boats at midnight each Sunday; they pass the week in the Gulf, and only return home on Saturday night. The only day they spend ashore is employed in repairing nets, sacks, and tackle. Great dangers menace these indefatigable voyagers; the wave of the Zuyder Zee is shorter and less tumultuous than that of the ocean, but it is perfidious. Their coolness amid dangers and storms equals their humanity; ever ready to help imperilled vessels, they have furnished proofs innumerable of their courage and presence of mind. The sea is the visible conscience of the fisherman of the Zuyder Zee, and he is ever anxious to prove himself honest and pure in its sight. They are remarkably temperate men — the cause, probably, of their longevity. You meet many old men on the island, and at the sight of their faces, calm as the sea on a fine summer night, you grow to love this humble mediocrity, these poor people, rich in things they are ignorant of, and this family of fishermen who are so closely connected by a uniformity of labour, inclinations, and dangers." The house belongs to the wife; but the fly-boat, the external house, to the husband. He displays the same coquetry and zeal in adorning this floating abode as his wife does in cleaning the cottage; and on Sundays and holidays the fishing-boats collected in port seem rather a squadron of yachts arranged for the pleasure of the eye, than a fleet of toil and utility. But the wives of the fishermen of Marken have other duties besides that of cleaning the cottage to attend to. The first consists in the education of her children, which entirely devolves upon the mother — sometimes the family numbers twelve children; add to this the making of all their clothing, including the husband's: they also till the soil, make the hay, spin the hemp for the rigging, and bleach the linen. In these varied and complicated duties the housewife has no servant to assist her, all has to be done by one pair of hands. Truly the women of Marken must be deserving of that often misquoted title of "housewife;" the making and not the marring of a happy home surely lies in the sturdy, industrious helpmeets of the Marken fishermen.</commentary>
+
+      <pg id="247"/>
+
+      <commentary>Mr. Robinson, the British Consul at Amsterdam, has very kindly interested himself in trying to obtain some of the Dutch sailors' songs for me, but, in a letter I have from him, he says that, "After having made many inquiries, he finds that there are no well-known sailors' songs now in existence. The ditties in vogue among the sailors are those generally current amongst the lower classes, and are principally of a character which would unfit them for publication."</commentary>
+
+      <commentary>I give one, however, of the herring fishery, with the translation of the words:</commentary>
+
+      <songTitle str="Die Nieuwe Haring" originLocation="Netherlands" originTime="N/A" subject="wk">
+        <title>Die Nieuwe Haring (The New (Fresh) Herring)</title>
+      </songTitle>
+      <lyrics str="Dutch">Triomf, de vreugde stij-ge in top;
+Hijsch, Holland! vlag en wimpels op,
+En doe den jubeltoon nu davren langs uw strand!
+Daar komt de kiel met goud belaen,
+Zig brengt ons d'eersten haring aan!
+'T is feest in Nederland, 't is feest in Nederland.
+Verhef u, wakkre zeevaardij!
+U, pronk van Hollands Maatschappij!
+U, koningin van 't feest, u bien wij d'eerewijn:
+Sprei, handel, Hollands gullen disch!
+Nu zal de Vanderlandsche visch,
+Weer d'eerste schotel zijn, weer d'eerste schotel zijn.
+Wie in dit kostlijk zeebanket
+Voor 't eerst de grage tanden zet,
+De voile flesch ontkurkt tot vreugd van zin en geest,
+Met fonkelende glazen klinkt,
+Ze op Neerlands welzijn ledig drinkt,
+Die houdt een heerlijk feest, die houdt een heerlijk feest.</lyrics>
+      <lyrics str="English">Triumph! let gladness ascend on high,
+Hoist, Holland! your flags and pennant up,
+And let the joyful sound now re-echo along your strand,
+Here comes, laden with gold, the boat,
+Bringing us the first fresh herring!
+It is a feast in Netherland, it is a feast in Netherland.
+Exalt ye! cunning craft! Pride of the Dutch fleet.
+To thee, queen of the feast, we offer the wine of honour:
+Let commerce spread Holland's liberal board!
+Now shall the Fatherland's fish
+Again be the choicest dish,
+Again be the choicest dish.
+He who partakes of this precious sea-banquet for the first time,
+And uncorks the full bottle to the joy of sense and mind,
+Ringing the sparkling glass, and drinks it dry
+To "Netherland's Prosperity,"
+He keeps a glorious feast, he keeps a glorious feast.</lyrics>
+
+      <pg id="248"/>
+
+      <commentary>A well-known song amongst Dutch sailors is the following:</commentary>
+
+      <songTitle str="De Kabels Los" originLocation="Netherlands" originTime="N/A" subject="sl">
+        <title>De Kabels Los (Matrozenlied / Sailors' Song)</title>
+      </songTitle>
+      <lyrics str="Dutch">De kabels los, de zeilen op,
+Dat gaat er op een varen;
+Al waren wij Sinjeurs aan wal,
+Ons hart lei in de baren;
+Een Hollandsch kind, dat is bekend,
+Die vindt in Zee zijn element,
+Jo-ho, jo-ho, jo-ho, jo-ho!
+Die vindt in Zee zijn element.
+En zijn wij zoo geen banjers meer
+Als in verleden dagen,
+Toen ieder voor Jan-Companie
+Een flikker had geslagen:
+Toch zeilen wij op iedre Zee
+Zoo goed nog als de beste mee,
+Jo-ho, jo-ho, jo-ho, jo-ho!
+Zoo goed nog als de beste mee!
+Hoezee dan jongens in het want!
+De handen uit de mouwen,
+Laat Duitscher, Noor of Engelschman
+Neit klimmen in je touwen.
+Dan kan je varen zonder peil,
+Al blies de Nikker in het zeil,
+Jo-ho, jo-ho, jo-ho, jo-ho!
+Al blies de Nikker in het zeil!</lyrics>
+      <lyrics str="English">Let go the ropes, unfurl the sails,
+And let us be off to sea,
+Were we even lords ashore
+Our hearts would lie with thee;
+For a Hollander-born, you all must know,
+Finds in the sea his element,
+Yo-ho, yo-ho, yo-ho, yo-ho!
+Finds in the sea his element.
+And if we cannot do the mighty deeds
+They did in the days gone by,
+When for the honour of the Dutch Company
+Every man in his heart did try.
+Yet still we sail in every sea
+As good as the best of them,
+Yo-ho, yo-ho, yo-ho, yo-ho!
+As good as the best of them!
+Hurrah! then, boys, up aloft,
+Up with your sleeves (look like work);
+Let neither German, Norwegian, nor Englishman
+Climb your rigging.
+Then you may sail without a care,
+Supposing the Devil should blow in your sail,
+Yo-ho, yo-ho, yo-ho, yo-ho!
+Supposing the Devil should blow in your sail!</lyrics>
+
+      <pg id="249"/>
+
+      <commentary>I cannot say much in favour of these words. Such a boasting spirit pervades them that it has been a most difficult matter to obtain a translation, and to find adequate expression for some of the nautical phrases. The Dutch Company mentioned in the second verse evidently refers to the Dutch East India Company and its naval exploits. The last verse is perhaps the most difficult to render into English; into English rhyme it neither can nor will go. The deficiencies of the words are, however, amply condoned by the extreme beauty of the music.</commentary>
+
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 4: RUSSIAN SAILORS' SONGS                           -->
+    <!-- ============================================================ -->
+    <section id="4">
+
+      <heading>Russian Sailors' Songs</heading>
+      <pg id="251"/>
+
+      <quote>With God go over the sea, / Without God go not over the threshold. — Russian Proverb.</quote>
+
+      <pg id="253"/>
+
+      <commentary>Like the army, the Russian Navy was the creation of Peter the Great. In coming to the throne he found his empire without any port save Archangel: at his death he left a fleet of the line in the Baltic, and his name feared as a naval hero in the Black Sea and the Caspian; and that clause in his will in which he states, "that Russia, which I found a brook and left a river, must, under my successors, grow to a mighty sea, destined to fertilize worn-out Europe, and advance its waves over all obstacles, if my successors are only capable of guiding the stream," shows in what direction the great man's thoughts for the welfare of Russia ran, and how merely supplementary to it he regarded the army.</commentary>
+
+      <commentary>From the earliest times there has been a slight halo of maritime glory around the Russian name. The half fabulous Varangians, Northmen, or Normans, who conquered Russia as they did France and England, and from whom the Russian nobility still boast their descent, were victorious by sea as well as by land, and the glories of Ruric and Vladimir belong to the Russian nation as much as the victories of Alfred and the Plantagenets belong to us.</commentary>
+
+      <commentary>But after the fall of Novgorod, when the Baltic provinces fell into the power of the Swedes, the Poles, and the Germans, and Archangel was the only outlet left her, the maritime importance of Russia decreased, the Russians occupied themselves entirely with internal commerce, and the spirit of the Varangians disappeared, or only lingered among the Cossacks of the Dnieper and the Don.</commentary>
+
+      <pg id="254"/>
+
+      <commentary>In the beginning, the Russian Navy was formed entirely of foreigners, and principally of Englishmen, whilst the sailors and officers in the Black Sea were principally Greeks, and although the commerce of Russia is considerable, there is not, or at any rate up to the year 1844 there was not a single merchantman manned and sent out by Russians proper; that is, by the Sclavonic population, which forms the real strength of the Russian Navy. Admirals Crown, Hamilton, Elphinstone, Dugdale, and Greig, and many of their own seamen who rose to positions of importance, were brought up in the English Navy. The Greek influence until about 1840 was paramount in the Crimea, the languages most in vogue throughout the country were French and German. Small wonder, I think, that the Russian Navy should have so few characteristics, seeing of what cosmopolitan traits it is formed, and that its sailors should be of such little national individuality, since so few real Russians are included amongst them.</commentary>
+
+      <commentary>With regard to the small portion of maritime affairs in which I am at present interested, namely, "Sailors' Songs," I have not been able to make so varied or comprehensive a collection as I should have liked, seeing what a truly musical country Russia is, but several reasons have prevented my doing as much as I should have wished — the chief being doubtless the cosmopolitanism that excludes anything partaking of a national character; another, I fancy, being that the Russian Navy is almost too young to have any history, and as I have before remarked, historical naval facts have invariably been the original theme of sailors' songs; and a third is perhaps due to the fact that the "Russian sailors are all landsmen." The fleet is manned from the common conscription, with very little ethnologic distinction, excepting perhaps, that in the north preference is given to the Finns, and in the south to the Jew conscripts; not on account of the aptitude displayed by these latter for naval service, but because as soldiers they are considered worthless. In the case of the Finns it is different, seeing they are numbered amongst the best seamen in Russia.</commentary>
+
+      <pg id="255"/>
+
+      <commentary>The crew, or "equipage," as the Russians call it, generally includes twenty-five musicians, who supply the music that is necessary on some occasions, for there is, I am told, a good deal of ceremony observed in the Russian Navy. For instance, on setting out on a voyage, or on the return from a long one, the band will play the National Anthem, the sailors singing it bareheaded:</commentary>
+
+      <songTitle str="Russian National Anthem" originLocation="Russia" originTime="N/A" subject="sl">
+        <title>Russian National Anthem (God Protect the Czar)</title>
+      </songTitle>
+      <lyrics str="English">God protect the Czar,
+The right believing Czar;
+His reign lead us to glory —
+To glory, us!
+Let him reign and confound his foes,
+The right believing Czar;
+God, O God, protect the Czar!</lyrics>
+
+      <pg id="256"/>
+
+      <commentary>This is also performed at a launch, or indeed on any grand occasion. It is the great song of the Russian Navy, and its majestic chords and inspiriting martial style are very familiar on Russian shipboard. The effect of this song of praise on the water must be very grand; for the Russian chanting is of great repute, and the sublimity of the sacred music of this country exceeds that of almost any other.</commentary>
+
+      <pg id="257"/>
+
+      <commentary>The singular peculiarities of the double-bass voice which supports the chords of the chants of the national worship, together with the players of the horn-bands' automatons of one note in Russia, are attributed by many to the state of serfdom, of no more real value in regard to art than so many organ pipes, since the singers or players can be little more than machines, comprising each a few select notes, whose owners are fit for small other service. However this may be, the Russian voice, be it free or slave, is universally allowed to be most melodious, and, like most northern countries, it would be impossible to overrate the freshness and vigour of its song melody. The sadness of it is seldom tinctured with languor; the sweetness has something in it that braces as well as charms the sense. This may even be remarked when the minor key predominates, as it does so largely in Russian music.</commentary>
+
+      <commentary>I have dwelt somewhat at length on the national qualities of Russian music, since its music of the sea is largely composed of those popular "lieder" sung on shore. Thus the Russian sailor at his work will sing, not some quaint verses set to still quainter melody, as our blue-jackets do; but the very songs that at that time are the most in vogue in his own country. These songs are used, as all sea-songs are, to give encouragement to the men, and to promote unity of labour. I asked a very intelligent Russian sailor if complaints of their food on ships or captain were not often sung in rhymed verse on board their ships, as is the case with our men, and he said, "No, they don't do it, but they might." They have rye, or black bread which, however, they prefer to wheaten bread. They drink "quass," a fermented drink made from the rye flour, and vodka, and they have meat twice a week.</commentary>
+
+      <commentary>In fact, the chanty as we understand it is not known amongst Russian tars, they have their songs (Pesni, they call them) and their musicians on board, but of the impromptu verses, a propos of so little, set to the original tunes, that so delight the hearts of most sailors, they know but little. The few that would come under the heading of "chanties," that I have heard, are so immeasurably superior to these as a rule, that they are worthy of a better title and rank in musical parlance. The Baltic, with its many different divisions, has numbers of sea-songs, that is, songs of the sea, some being of the same type as Dibdin's. The Gulf of Finland is also rich in song-lore, the outcome, doubtless, of the famous Finnish mythology, and many of them probably will be legends of those pirates of old whose invasions were so dreaded. The Black Sea, chosen by all the ancient poets as the theatre of their hero's exploits, the scene of Ulysses' wanderings amongst the Laestrigons or Tauri, must also, one would think, have preserved many curiosities of rhyme. The fabled daughters of Achelous and Calliope had charmed all navigators until Ulysses approached the coast.</commentary>
+
+      <pg id="258"/>
+
+      <commentary>Lapland, it is said, has no sea-songs now, though I should fancy there must be at least a few handed down, from those old legends of the Laps driving a thriving trade by selling winds to the sailors, who, as Longfellow says, whistled for them: "Only a little hour ago / I was whistling to St. Antonio, / For a capful of wind to fill our sail, / And instead of a breeze he has sent a gale." Sir Walter Scott, in his "Rokeby," also alludes to this custom: "What gales are sold on Lapland's shore, / How whistle rash bids tempests roar."</commentary>
+
+      <commentary>It has been said that "the genuine expression of popular feeling is always forcible, not seldom poetic;" it certainly does seem that the truth of this is amply verified, as regards it being forcible, on board of a Russian man-o'-war, where a captain, if he be popular, will be tossed in the air, between a double line of sailors, in time with the following tune:</commentary>
+
+      <pg id="259"/>
+
+      <songTitle str="Favourite Air on Board a Russian Man-o-War" originLocation="Russia" originTime="N/A" subject="sl">
+        <title>Favourite Air on Board a Russian Man-o'-War</title>
+      </songTitle>
+      <lyrics str="Russian">[Sheet music only — no words recorded]</lyrics>
+
+      <commentary>It seems a strange custom, and I should think the implied compliment would scarcely be one to cause unmitigated pleasure to the recipient. Those songs that are used on board are mostly sung in alternate soli and chorus, and at the same time and in the same place as our chanties are used. The same song seems to serve for holystoning the decks and loading with grain. This is a descriptive kind of song; I give the notes here:</commentary>
+
+      <pg id="260"/>
+
+      <songTitle str="Song Used When Holystoning the Decks or Loading with Grain" originLocation="Russia" originTime="N/A" subject="wk">
+        <title>Song Used When Holystoning the Decks or Loading with Grain</title>
+      </songTitle>
+      <lyrics str="Russian">[Sheet music only — no words recorded]</lyrics>
+
+      <commentary>One feature of Russian ship singing is certainly quite peculiar to itself, namely, that of the women singing in chorus while crushing the oats previous to their being shipped; this they do close to the vessel. The songs are usually of a sad nature, in slow measure, but they evidently help the work on, as regularity and unison are needed. I have given one of these songs, though really it can scarcely be quite in place in a collection of sailors' chanties; but the extreme beauty of it, and the originality of its purpose, have tempted me to do so. There is something very original, and one might almost add pathetic in the idea of this plaintive melody accompanying the words of these women on the wharf. The effect of it sung in chorus must be very pleasing. Another great favourite for this work is "The Nightingale," a very well-known Russian song, and one often used in seafaring life. I give it also.</commentary>
+
+      <songTitle str="Song Used by the Women When Crushing the Grain on the Wharf" originLocation="Russia" originTime="N/A" subject="wk">
+        <title>Song Used by the Women When Crushing the Grain on the Wharf</title>
+      </songTitle>
+      <lyrics str="Russian">[Sheet music only — no words recorded]</lyrics>
+
+      <pg id="261"/>
+
+      <songTitle str="The Nightingale" originLocation="Russia" originTime="N/A" subject="hs">
+        <title>The Nightingale</title>
+      </songTitle>
+      <lyrics str="English">Nightingale, O nightingale,
+Thou of richest song,
+Say, whither thou fliest now,
+Where to-morrow thou'lt belong.
+Nightingale, O nightingale,</lyrics>
+
+      <pg id="263"/>
+
+      <commentary>For heaving the anchor I have found two songs, one of which I give in the printed form as it was sent me from Odessa; the other, of the genuine chanty style, as I took it down from a Russian sailor, of whom I feel a few words of praise are necessary. His knowledge of the national music of his country was extraordinary in a man of his position, and in literature he was not far behind. Mr. Ralston would, I am sure, have felt interested, if not flattered, by the encomiums passed on his book of Russian songs.</commentary>
+
+      <pg id="264"/>
+
+      <commentary>In spite of his very evident taste for study and the amount of cultivation he possessed, my Russian tar was as quaint a specimen of that everywhere extraordinary species — the genuine salt — as I ever encountered. I had some opportunity for studying his character, for he was obliged while waiting for a certain ship to reside for some time near Newcastle-upon-Tyne. My father, in his capacity of Consul having been able to render him some assistance, he was very glad to be of use to the Consul's daughter; and besides giving me the specimens of the Russian water-songs, he entertained me with many a comical story of sea-life, and some strangely cute remarks on the seamen of various nations. I happened to say how difficult I had often found it to induce the sailors to sing for me; "I suppose it is because of their proverbial shyness," I added. "Your English sailors may be shy, miss, not that I have found them so," was the quick reply, "but I know the greatest amount of cheek — that's how you call assurance, I believe — in all Russia, is to be found in the navy."</commentary>
+
+      <commentary>He had spent all his life at sea, that is, from a very tender age, and like many of my other sailor-guests, appeared to find great pleasure in examining the ordinary objects of an English drawing-room. "This is prettier than most cabins I have been in," he remarked, and then apparently thinking he had displeased me by such a candid opinion, he added, "In fact, it's about the best I've seen." Some one had evidently told him that it was the proper thing to shake hands with any one who entered a room while he was in it, for a lady coming in while he was singing one day, was evidently as much startled as I was, at having her hand most cordially gripped by a rough sailor. I ventured to point out to him, after she left, that this ceremony could be dispensed with, and indeed might not at all times be considered agreeable; he took my hints in very good part, and the next time we were interrupted, contented himself with a profound bow.</commentary>
+
+      <commentary>He told me that Russian sailors have a great love for birds, and that many of them, going on long voyages, ask permission to take some favourite caged songster with them. It was from this man I learnt of the popularity of the Russian National Anthem in the navy, and I have rarely heard more enthusiasm in any performance than he put into his Russian version of it when I played the anthem for him to sing to. The following is a translation of the words of the chanty he sang for heaving the anchor:</commentary>
+
+      <pg id="265"/>
+
+      <songTitle str="Russian Song Used for Heaving the Anchor" originLocation="Russia" originTime="N/A" subject="wk">
+        <title>Russian Song Used for Heaving the Anchor</title>
+      </songTitle>
+      <lyrics str="English">Solo. As we lay on an afternoon,
+Chorus. On board of our jolly ship,
+
+Solo. In the shade made by our sails,
+Chorus. On board our jolly ship.
+And we sing jolly songs,
+And will sing them together,
+And go through the world as light as a feather,
+And go through the world as light as a feather.</lyrics>
+
+      <pg id="266"/>
+
+      <songTitle str="Russian Chanty for Heaving the Anchor" originLocation="Russia" originTime="N/A" subject="wk">
+        <title>Russian Chanty for Heaving the Anchor</title>
+      </songTitle>
+      <lyrics str="Russian">[Sheet music only — sent from Odessa, no words recorded]</lyrics>
+
+      <commentary>The best-known, perhaps, of all the Russian sailors' songs is the one used for hauling. It is a national air, and a favourite everywhere. A translation of the words would be something to the same effect as one of our English hauling chanties:</commentary>
+
+      <pg id="267"/>
+
+      <songTitle str="National Song Used for Hauling" originLocation="Russia" originTime="N/A" subject="wk">
+        <title>National Song Used for Hauling</title>
+      </songTitle>
+      <lyrics str="English">Let us pull away together, boys,
+All together. It goes — it goes,
+Pull away — away together.</lyrics>
+
+      <commentary>Mr. Ralston, in his book, "Songs of the Russian People," says of the Cossack songs that "they are generally about the Don or the Volga; along the banks of those rivers ride the Cossack horse, or on their waters float the Cossack boats." He quotes one very well-known boatman's favourite, "The Address to the River Don":</commentary>
+
+      <songTitle str="Address to the River Don" originLocation="Russia" originTime="N/A" subject="hs">
+        <title>Address to the River Don</title>
+      </songTitle>
+      <lyrics str="English">Father of ours! famous, quiet Don,
+Don Ivanovich, our nourisher!
+Great praise of thee is spoken,
+Great praise and words of honour:
+That thou didst swiftly run,
+Swiftly; but in olden days
+All clearly didst thou run,
+But now, our nourisher, all
+Troubled dost thou flow;
+Troubled unto thy depths art thou, O Don!
+Then glorious, quiet Don thus made reply,
+"How otherwise than troubled can I be?
+I have sent forth my falcons bright,
+My falcons bright, the Don Kazaks;
+Deprived of them my steep banks crumble down.
+Deprived of them my shoals are thick with sand."</lyrics>
+
+      <pg id="268"/>
+
+      <commentary>The traditions of the Russian peasants people the waters with spiritual inhabitants. Their songs and stories often speak of the Tsar Morskoi, the marine or water-king, who dwells in the depths of the sea, or the lake, or the pool, and who rules over the subaqueous world. To this Slavonic Neptune a family of daughters is frequently attributed, maidens of exceeding beauty, who, when they don their feather dresses, become the swan maidens who figure in the popular literature of so many nations. The graceful creatures, however, as well as their royal parent, belong to the realm of the peasant's imagination rather than to that of his belief.</commentary>
+
+      <commentary>The Vodyany, or water-sprite of Russia, inhabits the depths of rivers, lakes, or pools, but sometimes he dwells in swamps (not necessarily dismal), and he is especially fond of taking up his quarters in a mill-stream, close to the wheel. Every mill is supposed to have a Vodyany attached to it, or several Vodyani if it have more than one wheel. Consequently, millers are generally obliged to be well-versed in the black art, for if they do not understand how to treat the water-spirits all will go ill with them. The Vodyany is also a patron of bee-keeping, and it is customary to enclose the first swarm of the year in a bag, and to throw it, weighted with a stone, into the nearest river, as an offering to his august subaqueous Majesty. He who does this will assuredly flourish as a bee-master, especially if he takes a honeycomb from a hive on St. Zosima's Day, and flings it at midnight into a mill-stream. The Vodyany is not prepossessingly represented by the people, and is supposed to be much given to drinking and card-playing and other vices, which one would not expect to find in a monarch of the waters.</commentary>
+
+      <pg id="269"/>
+
+      <commentary>The water-sprite's wives are popularly supposed to be women who have been drowned, or whom a parent's curse has placed within the power of the evil one. They have great influence over the weal or woe of fishermen and sailors, ofttimes luring them to death and destruction. The Russian peasants sign a cross on the water with a knife or scythe before bathing, and they never go into the water without a cross round their neck, or after sunset. It is considered especially dangerous to bathe during the week in which falls the feast of the prophet Ilya (Elijah, formerly Perun, the Thunderer), for then the Vodyany is on the look-out for victims. The bodies of his victims he allows to float ashore, but their souls he keeps in his watery kingdom, making them his servants. Bohemian fishermen are afraid of assisting a drowning man, as they think the Vodyany will drive away the fish from their nets. In the Ukraine they have a tradition that, when the sea is rough, such half-fishy "marine people" appear on the surface of the water and sing songs. The Chumaki (local carriers) go down at such times to the sea-side, and there hear those wonderful songs, which they afterwards sing in the towns and villages. In other places these "sea-people" are called "Pharaohs," being supposed, like the seals of Iceland, to be the remains of that host of Pharaoh which perished in the Red Sea. The water-nymphs of Russia are known as Rusalkas.</commentary>
+
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 5: GREEK SONGS                                      -->
+    <!-- ============================================================ -->
+    <section id="5">
+
+      <heading>Greek Songs</heading>
+      <pg id="271"/>
+
+      <quote>Hear I not / The Æolian music of our sea-green plumes? — Shelley.</quote>
+      <quote>The low lispings of the silvery seas. — P. J. Bailey.</quote>
+
+      <commentary>I had hoped to have had at least a small collection of Greek songs to add to the others, but I have been disappointed. The modern Greek evidently heaves and hauls and rows almost in silence, at least so far as vocal music is concerned. I applied to Sir George Macfarren on the subject of ancient Greek water-songs, and his answer was as follows:</commentary>
+
+      <commentary>"Dear Madam, But three vestiges of ancient Greek music are known to exist. These are a hymn to Apollo, one to Nemesis, and to Calliope; and even they date from within the Christian era. The music originally sung in the plays of Sophocles or any other of the dramatic poets is lost, and its reproduction in any form totally impossible. Faithfully yours, G. A. Macfarren. February 5th, 1886."</commentary>
+
+      <commentary>I have not been able either to learn anything through the Consuls or any other authorities on the Greek language, literature, and music of the day. Miss Lucy M. J. Garnett has made a collection of folk-songs in Greece, but there is little mention of anything like water-songs; the one there is, however, I quote by the kind permission of the authoress. I have also found one Greek sailors' song and a boat-song which follow, but there were no words given to either of them.</commentary>
+
+      <commentary>The following is a translation of a mythological folk-song of modern Greece, reproduced by kind permission of the authoress, Lucy M. J. Garnett, from her collection of "Greek Folk-Songs":</commentary>
+
+      <pg id="274"/>
+
+      <songTitle str="The Siren and the Seamen" originLocation="Greece" originTime="N/A" subject="ss">
+        <title>The Siren and the Seamen</title>
+      </songTitle>
+      <lyrics str="English">A maid was singing as she sat, within a splendid window;
+Her song was on the breezes borne, borne down unto the ocean —
+As many ships as heard her lay, moored, and made fast their anchors.
+A tartan from the Prankish land that was of love the frigate,
+Furled not her sails by breezes filled, nor yet along was sailing.
+Then to his men the captain called, astern where he was standing:
+"Ho, sailors! furl the sails at once, and climb ye up the rigging,
+That to this charmer we may list, list how she's sweetly singing,
+Hear what's the melody to which she her sweet song is singing."
+But so sweet was the melody, so passing sweet her warbling,
+The skipper turned him once again, and to the shore it drew him,
+And to the masts the mariners kept hanging in the rigging.</lyrics>
+
+      <pg id="275"/>
+
+      <songTitle str="Greek Sailors' Song" originLocation="Greece" originTime="N/A" subject="sl">
+        <title>Greek Sailors' Song</title>
+      </songTitle>
+      <lyrics str="Greek">[Sheet music only — no words recorded]</lyrics>
+
+      <songTitle str="Boat-Song Used by the Athenians" originLocation="Greece" originTime="N/A" subject="wk">
+        <title>Boat-Song Used by the Athenians</title>
+      </songTitle>
+      <lyrics str="Greek">[Sheet music only — no words recorded]</lyrics>
+
+      <commentary>Isaac D'Israeli, in his "Curiosities of Literature," mentions the numerous labour-songs used by the ancient Greeks, threshing-songs, those for encouraging the fine arts, builders' songs, weavers', dairy songs, and amongst others the sailors' singing is alluded to, so that we may suppose they had some tunes equivalent to the modern chanty; but these have not been preserved, so I am, however unwillingly, obliged to content myself with these short remarks on the water-songs of this most classic land.</commentary>
+
+    </section>
+
+  </content>
+
+  <postamble>
+    <dedication>N/A</dedication>
+    <version>Marked up from Internet Archive digitization of Music of the Waters by Laura Alexandrine Smith. Sheet music passages replaced with placeholder notes. Markup prepared for research project analysis.</version>
+  </postamble>
+
+</book>
