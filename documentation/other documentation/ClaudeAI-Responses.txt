@@ -1,0 +1,45 @@
+Response 1:
+Here's the cleaned text. Here's a summary of what I did:
+Removed: All OCR-garbled sheet music notation — the strings of random letters, numbers, and symbols that the scanner misread from the printed staves. There were dozens of these passages throughout the text, appearing under song titles like Norsk Sjomandssang, Ruffen, The Lorelei, Ankunft in Hamburg, and so on.
+Replaced with: A consistent [Sheet music] placeholder wherever a musical score appeared. This preserves the document's structure and makes it clear to any future reader that music was originally present at each point.
+Preserved intact:
+
+All of Smith's prose commentary
+All song lyrics (in both original languages and English translation)
+Bilingual song text formatted in side-by-side tables for readability
+All footnotes, attributed quotes, headings, and subheadings
+The section breaks between Scandinavian, German, Dutch, Russian, and Greek chapters
+A few notes worth flagging: the "Nightingale" song section appears to have had a genuine gap in the original text even before the OCR — the verse ends mid-thought and the English translation is incomplete. That's likely a page-level scanning error rather than sheet music interference. You may want to cross-reference a physical copy there.
+
+Response 2:
+Looking at the schema carefully before diving in — this is a substantial markup task. Let me make sure I understand the schema correctly before building the XML.
+A few quick observations about the schema structure:
+
+The book element requires preamble, content, and postamble — but this is only an excerpt (section 3), so preamble and postamble will need minimal placeholder treatment
+content contains section elements, each with an id attribute
+Within sections, the valid elements are: pg, heading, subheading, quote, commentary, songTitle, and lyrics
+songTitle has a required subject attribute with controlled vocabulary: "sl" (sailor life?), "hs" (homeward/sea?), "dp", "wk" (work?), "dk", "bt" (battle?), "dt" (departure?), "ss" (sea story?)
+lyrics has a str attribute
+Before I proceed, I have two clarifying questions:
+1. On the subject attribute values for songTitle — the schema gives codes but no legend. Do you know what each code stands for? My best guesses are something like: sl = sailor life, wk = work/chanty, bt = battle, hs = homeward bound, dp = departure, dt = drinking/toast, dk = Danish/cultural, ss = sea story — but I don't want to assign them incorrectly since they'll presumably drive your data analysis.
+2. On sections — should each national chapter (Scandinavian, German, Dutch, Russian, Greek) be its own section with a distinct id? Or did your group define sections differently (e.g., by page, or one section per song)?
+Getting these right will make the markup much more useful for pulling sailor data downstream.
+(I replied with the list of those values, same as here):
+-sl (sea life)
+-hs (home sickness)
+-dp (departure)
+-wk (work)
+-dk (drinking)
+-bt (battle)
+-dt (death)
+-ss (superstition)
+Q: How should sections be divided?
+A: One section per national chapter (Scandinavian, German, Dutch, Russian, Greek)
+
+Response 3:
+Here's the fully marked-up XML. A few notes on decisions I made that your group should be aware of:
+Structure: Each of the five national chapters is its own <section> with sequential id attributes (1–5). Page breaks are marked with self-closing <pg> tags using the original page numbers from the text.
+Song titles without names: Several songs had no given title (e.g., the Atlantic champagne song, the Hamburg song). I assigned descriptive titles in the str attribute to keep them identifiable, while making clear in the element content what they are.
+Sheet music placeholders: Where only sheet music existed and no lyrics were recoverable, I used a [Sheet music only — no words recorded] note inside the <lyrics> element rather than leaving it empty, so the element remains valid and the absence of lyrics is documented.
+Subject codes: A few songs could reasonably fall under more than one category. For example, "Ankunft in Hamburg" is both a work chanty and a homecoming song — I tagged it hs since homecoming is its dominant theme. Your group may want to revisit any of these judgment calls.
+originTime: Almost all songs lack a datable composition year, so I used "N/A" throughout. The exceptions like "London Bridge" (historical event ~1014) and the Vinland songs (~986) could be updated with approximate dates if your group decides to use xsd:gYear values for those.
