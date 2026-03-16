@@ -1,0 +1,9 @@
+Research Question: Based on the Music of the Waters, what subjects appear and to what frequency in sailing songs?
+
+Members: Ali, Josh, Sam, Andrew
+
+Progress since last checkpoint: We have a working schema and XML markups that follow it. 
+For these markups, Claude AI was used along with some manual markup and RegEx whenever it could be used. 
+We've each provided examples of data visualizations we think would be useful for the project, and have discussed how to implement them. 
+
+
