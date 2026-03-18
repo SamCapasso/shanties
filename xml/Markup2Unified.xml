@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="<?xml-model href="Schema.rnc" type="application/relax-ng-compact-syntax"?>">
+  <preamble>
+    <title str="Music of the Waters">Music of the Waters</title>
+    <subtitle>Keelmen's and Fishermen's Songs, and Songs of the Press Gang on Tyneside; French Sailors' and Boatmen's Songs; Italian Sailors', Neapolitan Fishermen's, and Venetian Gondoliers' Songs</subtitle>
+    <byline>Laura Alexandrine Smith</byline>
+    <copyright></copyright>
+    <dedication></dedication>
+    <preface>
+      <heading>Keelmen's and Fishermen's Songs, and Songs of the Press Gang on Tyneside; French Sailors' and Boatmen's Songs; Italian Fishermen's and Sailors' Songs</heading>
+      <body></body>
+      <signature></signature>
+      <location originLocation="Tyneside, England; France; Italy"></location>
+    </preface>
+    <prelude>
+      <heading>Epigraphs</heading>
+      <body>
+        We islanders should love the sea, / The fresh wind, coiled nets, ballast heap, / The full brown sail, but as for me, / Again within that harbour's lee, / I let the sea-song go to sleep. — William Bell Scott.
+        'Tis sweet to hear / At midnight, on the blue and moonlit deep, / The song and oar of Adria's gondolier, / By distance mellowed, o'er the waters sweep. — Byron, A Bunch of Sweets.
+        And over the rest, / Italia's peerless compositions. — Walt Whitman.
+      </body>
+      <signature>William Bell Scott; Byron; Walt Whitman</signature>
+      <location originLocation="Tyneside, England; Italy; Venice"></location>
+      <time ></time>
+    </prelude>
+    <tableOfContents>
+      <heading>Contents</heading>
+      <!-- Section 1: Tyneside -->
+      <item pageNumber="108"><title str="Weel May the Keel Row">Weel May the Keel Row</title></item>
+      <item pageNumber="110"><title str="The Sandgate Lass's Lament">The Sandgate Lass's Lament</title></item>
+      <item pageNumber="112"><title str="O! The Lousy Cutter">O! The Lousy Cutter (Press Gang Song)</title></item>
+      <item pageNumber="112"><title str="Captain Bover">Captain Bover</title></item>
+      <item pageNumber="113"><title str="Here's the Tender Coming">Here's the Tender Coming</title></item>
+      <item pageNumber="114"><title str="Liberty for the Sailors">Liberty for the Sailors</title></item>
+      <item pageNumber="115"><title str="The Sailors Are All at the Bar">The Sailors Are All at the Bar</title></item>
+      <item pageNumber="115"><title str="The Keelman Ower Land">The Keelman Ower Land</title></item>
+      <item pageNumber="116"><title str="The Bonny Keel Laddie">The Bonny Keel Laddie</title></item>
+      <item pageNumber="117"><title str="Sandhill Corner">Sandhill Corner</title></item>
+      <item pageNumber="117"><title str="O! The Bonny Fisher Lad">O! The Bonny Fisher Lad</title></item>
+      <item pageNumber="118"><title str="Blaw the Wind Southerly">Blaw the Wind Southerly</title></item>
+      <item pageNumber="119"><title str="The Water of Tyne">The Water of Tyne</title></item>
+      <item pageNumber="120"><title str="Nae Mair We'll Fish the Coolly Tyne">Nae Mair We'll Fish the Coolly Tyne</title></item>
+      <item pageNumber="121"><title str="The Coquet for Ever">The Coquet for Ever</title></item>
+      <item pageNumber="121"><title str="Coaly Tyne">Coaly Tyne (Tyne River Song)</title></item>
+      <item pageNumber="122"><title str="Cullercoats Fishwives Street Cry">Cullercoats Fishwives Street Cry</title></item>
+      <item pageNumber="123"><title str="Shares O' Caller Ling">Shares O' Caller Ling</title></item>
+      <item pageNumber="123"><title str="The Cullercoats Fishwives">The Cullercoats Fishwives (poem)</title></item>
+      <item pageNumber="123"><title str="Caller Herrin' Street Cry">Caller Herrin' Street Cry</title></item>
+      <item pageNumber="124"><title str="Row the Boat, Norman">Row the Boat, Norman / Whittington</title></item>
+      <!-- Section 2: French -->
+      <item pageNumber="155"><title str="Le Pecheur">Le Pecheur / The Fisherman</title></item>
+      <item pageNumber="156"><title str="La Chanson du Mousse">La Chanson du Mousse / The Cabin Boy's Song</title></item>
+      <item pageNumber="157"><title str="Une Fleur pour Reponse">Une Fleur pour Reponse</title></item>
+      <item pageNumber="158"><title str="Pauvre Pierre">Pauvre Pierre / Poor Peter</title></item>
+      <item pageNumber="159"><title str="Li Martegan">Li Martegan</title></item>
+      <item pageNumber="162"><title str="Lou Revestidon">Lou Revestidon / The Boats' Crews of the Rhone</title></item>
+      <item pageNumber="166"><title str="Hymn to Saint Anne">Hymn to Saint Anne</title></item>
+      <item pageNumber="167"><title str="Les Enfants de la Mer">Les Enfants de la Mer / The Sons of the Sea</title></item>
+      <item pageNumber="167"><title str="Chanson pour Ramer">Chanson pour Ramer / Song for Rowing</title></item>
+      <item pageNumber="167"><title str="La Corsairienne">La Corsairienne / Chant pour Ramer</title></item>
+      <item pageNumber="168"><title str="Splicing Song 1">Splicing Song 1</title></item>
+      <item pageNumber="168"><title str="Le Brig Black">Le Brig Black</title></item>
+      <!-- Section 3: Italian -->
+      <item pageNumber="173"><title str="Italian Hymn">Italian Hymn</title></item>
+      <item pageNumber="175"><title str="Perche Vuoi Tu Fidas la Barca al Mare">Perche Vuoi Tu Fidas la Barca al Mare</title></item>
+      <item pageNumber="177"><title str="Santa Lucia">Santa Lucia</title></item>
+      <item pageNumber="178"><title str="La Fata di Amalfi">La Fata di Amalfi / The Fairy of Amalfi</title></item>
+      <item pageNumber="179"><title str="The Boatman's Farewell to Naples">The Boatman's Farewell to Naples</title></item>
+      <item pageNumber="180"><title str="Fenesta Vascia">Fenesta Vascia / The Water-Carrier's Song</title></item>
+      <item pageNumber="182"><title str="La Carolina">La Carolina / Caroline</title></item>
+      <item pageNumber="183"><title str="Neapolitan Fisherman's Song">Neapolitan Fisherman's Song</title></item>
+      <item pageNumber="183"><title str="Popular Neapolitan Song">Popular Neapolitan Song</title></item>
+      <item pageNumber="188"><title str="Sicilian Mariners' Hymn">Sicilian Mariners' Hymn</title></item>
+      <item pageNumber="197"><title str="Gondoliers' Chorus">Gondoliers' Chorus</title></item>
+      <item pageNumber="198"><title str="In a Gondola on the Grand Canal">In a Gondola on the Grand Canal, Venice (poem)</title></item>
+    </tableOfContents>
+  </preamble>
+
+  <content>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 1: KEELMEN'S AND FISHERMEN'S SONGS,                  -->
+    <!--             AND SONGS OF THE PRESS GANG ON TYNESIDE          -->
+    <!-- ============================================================ -->
+    <section id="1">
+      <pg id="108"/>
+      <heading>Weel May the Keel Row</heading>
+
+      <commentary>The local song of Newcastle-upon-Tyne, "The Keel Row," is intimately connected with Sandgate, the Wapping of Newcastle and the residence of the keelmen and sailors. It is truly the national anthem of the "Canny Toon," and never fails, when heard, to raise the soul of every Tynesider. There are many who dispute the Tynesider's claim to the song, attributing the origin of it to Glasgow. The Scotch version runs "As I was going thro' Cannongate." The Newcastle has it "Sandgate," the locale of the keelmen, and without doubt their original site. The introduction of steamboats, and the general use of staiths, by which the coals are conveyed direct from the waggon to the ship, have greatly reduced the number of keelmen in Newcastle. Sandgate is now chiefly occupied by the Irish. A keelman's hospital may still be seen there; it was erected for the benefit of aged and infirm keelmen, and chiefly at their own cost: probably this is one of the few instances of seafaring men's forethought, and it may also be said to be a monument to the poor raised by the poor.</commentary>
+
+      <commentary>For a genuine description of keels and keelmen, their origin, degeneration, etc., I should recommend a perusal of Mr. Charleton's most interesting book, "Newcastle Town." There will be found a true account of these most quaint craft and quainter craftsmen, beginning with their lineal descent from the "Chiules" of the ancient Scandinavian rovers, in which, nearly five hundred years before Columbus saw America, the adventurous Norsemen crossed the Atlantic and visited Labrador, Newfoundland, and New England. "They were," he says, "wonderfully fine sailors, and a beautiful sight it was to see a fleet of keels manned by the Tyne keelmen — the finest sailors and handlers of craft in England — beating up-river against a head-wind." It is probable that the keel has sailed the waters of the Tyne ever since the Saxon invasion.</commentary>
+
+      <!-- A keelwoman waits and sings about her working laddie on the keel: sea life -->
+      <songTitle str="Weel May the Keel Row" originLocation="Newcastle-upon-Tyne, England"  subject="sl">
+        Weel May the Keel Row
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        As I cam thro' Sandgate, thro' Sandgate, thro' Sandgate,
+        As I cam thro' Sandgate, I heard a lassie sing:
+        Weel may the keel row, the keel row, the keel row;
+        Weel may the keel row, that my laddie's in.
+        He wears a blue bonnet, blue bonnet, blue bonnet,
+        He wears a blue bonnet, a dimple in his chin;
+        Weel may the keel row, the keel row, the keel row,
+        Weel may the keel row, that my laddie's in.
+      </lyrics>
+
+      <subheading>Weel May the Keel Row, that gets the Bairns their Breed</subheading>
+      <commentary>The following is another old version of the Keel Row:</commentary>
+      <!-- Extended version focuses on the work of keelmen and domestic life: work -->
+      <lyrics str="English/Scots dialect">
+        Weel may the keel row, the keel row, the keel row,
+        Weel may the keel row, And better may she speed;
+        Weel may the keel row, the keel row, the keel row,
+        Weel may the keel row, That gets the bairns their breed.
+
+        1. We tuik wor keel up te the dyke,
+        Up te the dyke, up te the dyke,
+        We tuik wor keel up te the dyke,
+        An' there we gat her load;
+        Then sailed away doon te Shields,
+        Doon te Shields, doon te Shields,
+        Then sailed away doon te Shields,
+        And shipped wor coals aboard.
+        Singin' Weel may the keel, etc.
+
+        2. Then we rowed away up te the fest,
+        Up te the fest, up te the fest,
+        We rowed away up te the fest
+        Cheerly every man;
+        Pat by wor geer and moored wor keel,
+        An' moored wor keel, an' moored wor keel,
+        Pat by wor geer and moored wor keel,
+        Then went an' drank wor can.
+        Singin' Weel may the keel, etc.
+
+        3. Wor canny wives, wor clean fireside,
+        Wor bonny bairns their parent's pride
+        Sweet smiles that myek life smoothly glide,
+        We find when we gan hyem;
+        They'll work for us when we get aud,
+        They'll keep us frae the winter's caud,
+        As life declines they'll us uphaud
+        When young we uphaud them.
+        Singin' Weel may the keel, etc.
+      </lyrics>
+
+      <commentary>Unfortunately this roseate-hued picture of the keelman's domestic bliss is somewhat rudely dispelled by the song entitled, "The Sandgate Lass's Lament," which tells a slightly different tale.</commentary>
+
+      <pg id="110"/>
+      <pg id="111"/>
+
+      <!-- A woman laments marrying a keelman rather than a better trade: sea life (domestic side of sailor life) -->
+      <songTitle str="The Sandgate Lass's Lament" originLocation="Sandgate, Newcastle-upon-Tyne, England"  subject="sl">
+        The Sandgate Lass's Lament
+      </songTitle>
+      <lyrics str="English">
+        I was a young maiden truly,
+        And lived in Sandgate Street;
+        I thought to marry a good man,
+        To keep me warm and neat;
+        Some good-like body, some bonny body,
+        To be with me at noon;
+        But last I married a keelman,
+        And my good days are done.
+
+        I thought to marry a parson,
+        To hear me say my prayers;
+        But I have married a keelman,
+        And he kicks me down the stairs.
+
+        I thought to marry a dyer,
+        To dye my apron blue;
+        But I have married a keelman,
+        And he makes me sairly rue.
+
+        I thought to marry a joiner,
+        To make me chair and stool;
+        But I have married a keelman,
+        And he's a perfect fool.
+
+        I thought to marry a sailor,
+        To bring me sugar and tea;
+        But I have married a keelman,
+        And that he lets me see.
+      </lyrics>
+
+      <commentary>Many of the local songs of Northumberland are full of exquisite humour. Here is one well-known to Northumbrians in general and to Northumbrian fishermen and seamen in particular. It was mentioned amongst a few others in an article which I found in a very old volume of Blackwood's Magazine. The verses are given somewhat differently in the book of "Northumbrian Minstrelsy" (published by the Society of Antiquaries of Newcastle-upon-Tyne), and the tune that it is set to there is that which is known as "The Wedding o' Blythe; or, Blue's gaen oot o' the Fashion".</commentary>
+
+      <pg id="112"/>
+
+      <!-- A loved one is taken by the press gang: departure (forced) -->
+      <songTitle str="O! The Lousy Cutter (Press Gang Song)" originLocation="Northumberland, England"  subject="dp">
+        O! The Lousy Cutter
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        O! the lousy cutter,
+        They've ta'en my laddie frae me,
+        They pressed him far away foreign
+        Wi' Nelson ayont the salt sea.
+
+        They always come in the night,
+        They never come in the day,
+        They always come in the night,
+        And steal the laddies away.
+      </lyrics>
+
+      <commentary>"Captain Bover," which follows, was one of the most popular "press-gang" songs:</commentary>
+
+      <!-- Sailor dares not come ashore for fear of the press gang: departure (threat of forced conscription) -->
+      <songTitle str="Captain Bover" originLocation="Newcastle-upon-Tyne, England"  subject="dp">
+        Captain Bover
+      </songTitle>
+      <lyrics str="English/Tyneside dialect">
+        Where hes ti' been, maw canny hinny?
+        Where hes ti' been, maw winsome man?
+        Aw've been ti' the norrard, cruising back and forrard,
+        Aw've been ti' the norrard, cruising sair and lang;
+        Aw've been ti' the norrard, cruising back and forrard,
+        But daur-na come ashore
+        For Bover and his gang.
+      </lyrics>
+
+      <commentary>The ballads and tunes illustrating the doings of the press-gang in the Newcastle district have deserved greater attention and more searching investigation from the lovers of historical knowledge than has hitherto been accorded them. 'Captain Bover' and the three following melodies are interesting memorials of these stirring times, and as expressions of the popular feeling towards this tyrannical mode of appeal to the patriotism of the sailors. This oppressive mode of recruiting for the navy acted with great severity upon the sailors, keelmen, and all others of the working population whose avocations partook in the least degree of the nautical character. The harsh and tyrannical measures committed by the officers of the navy in the conducting of 'a press,' invited determined resistance, and resulted in riot and bloodshed. The arrival of a vessel 'On his Majesty's service' in the Tyne was regarded with mingled feelings of aversion and fear by those who were liable to be called upon, and the press-gang was a fertile theme for local rhymsters from the earliest period of its operation down to living memory.</commentary>
+
+      <pg id="113"/>
+      <pg id="114"/>
+
+      <!-- The press tender arrives to take the men: departure (forced conscription) -->
+      <songTitle str="Here's the Tender Coming" originLocation="Shields, England"  subject="dp">
+        Here's the Tender Coming
+      </songTitle>
+      <lyrics str="English/Tyneside dialect">
+        Here's the tender coming, pressing all the men,
+        Oh! dear hinny, what shall we do then?
+        Here's the tender coming off at Shields Bar,
+        Here's the tender coming, Full of men-o'-war.
+      </lyrics>
+
+      <!-- Lasses call men ashore; liberty from service celebrated: sea life -->
+      <songTitle str="Liberty for the Sailors" originLocation="Tyneside, England"  subject="sl">
+        Liberty for the Sailors
+      </songTitle>
+      <lyrics str="English">
+        Lasses, call your lads ashore,
+        Lasses, call your lads ashore,
+        Lasses, call your lads ashore.
+        There's liberty for the sailors.
+
+        Liberty and money free,
+        Liberty and money free,
+        Liberty and money free,
+        There's liberty for the sailors.
+
+        Let the lubbers lie aboard,
+        Let the lubbers lie aboard,
+        Let the lubbers lie aboard,
+        Because they're nobbut tailors.
+
+        But, lasses, call your lads ashore, etc.
+      </lyrics>
+
+      <pg id="115"/>
+
+      <!-- Sailors stranded at the bar, unable to reach Newcastle: sea life -->
+      <songTitle str="The Sailors Are All at the Bar" originLocation="Newcastle-upon-Tyne / Shields, England"  subject="sl">
+        The Sailors Are All at the Bar
+      </songTitle>
+      <lyrics str="English">
+        The sailors are all at the bar,
+        They cannot get up to Newcastle;
+        The sailors are all at the bar,
+        They cannot get up to Newcastle.
+
+        Up with smoky Shields,
+        And hey for bonny Newcastle;
+        Up with smoky Shields,
+        And hey for bonny Newcastle.
+      </lyrics>
+
+      <commentary>The foregoing songs and remarks on the press-gang I have taken from the book of "Northumbrian Minstrelsy," published by the Society of Antiquaries of Newcastle-upon-Tyne. The following is to this day a great favourite amongst the watermen of Tyneside:</commentary>
+
+      <!-- Keelman going overland to moor the keel: work -->
+      <songTitle str="The Keelman Ower Land" originLocation="Tyneside, England"  subject="wk">
+        The Keelman Ower Land
+      </songTitle>
+      <lyrics str="English/Scots dialect">[Music only — no lyrics recorded]</lyrics>
+
+      <pg id="116"/>
+
+      <commentary>There is another song to the tune of "The bonny Pit Laddie," named "The bonny Keel Laddie":</commentary>
+
+      <!-- Celebration of the keel worker and his labour: work -->
+      <songTitle str="The Bonny Keel Laddie" originLocation="Tyneside, England"  subject="wk">
+        The Bonny Keel Laddie
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        My bonny keel laddie, my canny keel laddie,
+        My bonny keel laddie for me, O!
+        He sits in his keel as black as the deil,
+        And he brings the white money to me, O!
+
+        Hae ye seen owt o' my canny man,
+        And are ye sure he's weel, O!
+        He's gaen o'er land wiv a stick in his hand,
+        To help to moor the keel, O!
+
+        The canny keel laddie, the bonny keel laddie,
+        The canny keel laddie for me, O!
+        He sits in his huddock and claws his bare buttock,
+        And brings the white money to me, O!
+      </lyrics>
+
+      <!-- Tune only; associated with pit and keel labour: work -->
+      <songTitle str="The Bonny Pit Laddie" originLocation="Tyneside, England"  subject="wk">
+        The Bonny Pit Laddie
+      </songTitle>
+      <lyrics str="English/Scots dialect">[Music only — no lyrics recorded in this section]</lyrics>
+
+      <pg id="117"/>
+
+      <commentary>The following air was a great favourite with Tynesiders, but I have failed to discover any verses for it:</commentary>
+
+      <!-- Air only; no lyrics; associated with the Sandhill area of Newcastle: sea life -->
+      <songTitle str="Sandhill Corner" originLocation="Newcastle-upon-Tyne, England"  subject="sl">
+        Sandhill Corner
+      </songTitle>
+      <lyrics str="N/A">[Music only — no lyrics recorded]</lyrics>
+
+      <!-- Fisher lad courts a girl on the Northumberland coast: sea life -->
+      <songTitle str="O! The Bonny Fisher Lad" originLocation="Bamburgh, Northumberland, England"  subject="sl">
+        O! The Bonny Fisher Lad
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        O, the bonny fisher lad,
+        That brings the fishes frae the sea,
+        O, the bonny fisher lad,
+        The fisher lad gat had o' me.
+        On Bamborough shire's rocky shore,
+        Just as you enter Bonmer Raw,
+        There lives the bonny fisher lad,
+        The fisher lad that bangs them a'.
+
+        My mother sent me out one day
+        To gather cockles frae the sea;
+        But I had not been lang away,
+        When the fisher lad gat had o' me.
+        O! the bonny fisher lad,
+        That brings the fishes frae the sea,
+        O! the bonny fisher lad,
+        The fisher lad gat had o' me.
+
+        A sailor I will never marry,
+        Nor soldier, for he's got no brass;
+        But I will have a fisher lad,
+        Because I am a fisher lass.
+        O! the bonny fisher lad,
+        That brings the fishes frae the sea,
+        O! the bonny fisher lad,
+        The fisher lad gat had o' me.
+      </lyrics>
+
+      <pg id="118"/>
+
+      <!-- A woman waits for her lad at the sandbar: homesickness / longing -->
+      <songTitle str="Blaw the Wind Southerly" originLocation="Tyneside, England"  subject="hs">
+        Blaw the Wind Southerly
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        Blaw the wind southerly, southerly, southerly,
+        Blaw the wind southerly, south, or south-west;
+        My lad's at the bar, at the bar, at the bar,
+        My lad's at the bar whom I love best.
+
+        [Variant:]
+        Blaw the lad ti' the bar, ti' the bar, ti' the bar,
+        Blaw the lad ti' the bar that I love best.
+      </lyrics>
+
+      <pg id="119"/>
+
+      <!-- A woman cannot cross the Tyne to reach her sweetheart: homesickness / longing -->
+      <songTitle str="The Water of Tyne" originLocation="River Tyne, England"  subject="hs">
+        The Water of Tyne
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        I cannot get to my love if I would dee,
+        The water of Tyne runs between him and me,
+        And here I must stand with the tear in my e'e,
+        Both sighing and sickly my sweetheart to see.
+
+        O where is the boatman? my bonny hinny!
+        O where is the boatman? bring him to me,
+        To ferry me over the Tyne to my honey,
+        And I will remember the boatman and thee.
+
+        O bring me a boatman, I'll give any money,
+        And you for your trouble rewarded shall be,
+        To ferry me over the Tyne to my honey,
+        Or scull him across that rough river to me.
+      </lyrics>
+
+      <pg id="120"/>
+
+      <!-- Anglers leave the Tyne for the Coquet; fishing as departure and work: departure -->
+      <songTitle str="Nae Mair We'll Fish the Coolly Tyne" originLocation="Northumberland, England"  subject="dp">
+        Nae Mair We'll Fish the Coolly Tyne
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        Nae mair we'll fish the coolly Tyne,
+        Nae mair the oozy Team,
+        Nae mair we'll try the sedgy Pont,
+        Or Derwent's woody stream;
+        But we'll away to Coquetside,
+        For Coquet bangs them a',
+        Whose winding streams sae sweetly glide,
+        By Brinkburn's bonny Ha!
+
+        At Weldon brigg there's wale o' wine,
+        If ye hae coin in pocket;
+        If ye can thraw a heckle fine,
+        There's wale o' trouts in Coquet.
+        And we will quaff the red-blood wine,
+        Till Weldon's wa's shall reel,
+        We'll drink success to hook and line,
+        And a' wha bear the creel.
+
+        And O! in all their angling bouts,
+        On Coquet, Tyne, or Reed,
+        Whether for maidens or for trouts,
+        May anglers still succeed.
+
+        By Till or Coquet, Tyne or Reed,
+        In sunshine or in rain,
+        May fisher ne'er put foot in stream,
+        Or hand in purse in vain.
+        Then luck be to the angler lads,
+        Luck to the rod and line;
+        Wi' morn's first beam, we'll wade the stream,
+        The night we'll wet with wine.
+      </lyrics>
+
+      <pg id="121"/>
+
+      <commentary>The River Coquet, according to the local anglers' songs, is superior to all the other Northumbrian rivers for its fishing.</commentary>
+
+      <!-- Praise of the River Coquet for fishing; includes drinking toasts: drinking -->
+      <songTitle str="The Coquet for Ever" originLocation="River Coquet, Northumberland, England"  subject="dk">
+        The Coquet for Ever
+      </songTitle>
+      <lyrics str="English/Scots dialect">
+        Oh! freshly from his mountain holds
+        Comes down the rapid Tyne,
+        But Coquet's still the stream of streams,
+        So let her still be mine.
+        There's mony a sawmon lies in Tweed,
+        And mony a trout in Till,
+        But Coquet, Coquet aye for me,
+        If I may hae my will.
+
+        The Coquet for ever! the Coquet for aye!
+        The Coquet, the king of the stream an' the brae,
+        Frae his high mountain throne to his bed in the sea,
+        Oh! where shall you find such a river as he?
+
+        Then blessings be on him, and long may he glide,
+        The fisherman's home and the fisherman's pride,
+        Frae Harden's green hill to old Warkworth so grey,
+        The Coquet for ever! the Coquet for aye!
+      </lyrics>
+
+      <!-- Patriotic toasts to the Tyne and keelmen; drinking song: drinking -->
+      <songTitle str="Coaly Tyne" originLocation="River Tyne, England"  subject="dk">
+        Coaly Tyne (Tyne River Song)
+      </songTitle>
+      <lyrics str="English">
+        [Solo] Tyne river, running rough or smooth,
+        Brings bread to me and mine,
+        Of all the rivers north or south,
+        There's none like coaly Tyne.
+        [Chorus] So here's to coaly Tyne, my lads,
+        Success to coaly Tyne,
+        Of all the rivers north or south,
+        There's none like coaly Tyne.
+
+        [Solo] Our keelmen brave, with laden keels,
+        Go sailing down in line,
+        And with them load the fleet at Shields,
+        That sails from coaly Tyne.
+        [Chorus] So here's to coaly Tyne, etc.
+
+        [Solo] Let us unite with all our might,
+        Protect Queen Caroline,
+        For her will fight, both day and night,
+        The sons of coaly Tyne.
+        [Chorus] So here's to coaly Tyne, etc.
+      </lyrics>
+
+      <commentary>There are a number of verses to this song, all more or less patriotic in sentiment; but, like most local songs, it could only be interesting to those who are acquainted with the people and places alluded to. Tyneside is so rich in songs, that I find myself obliged to confine my selections to those that are best known as the favourites of the waterside population.</commentary>
+
+      <pg id="122"/>
+
+      <commentary>The fisherfolk who belong to that most quaint north-country village, Cullercoats, have acquired for themselves a celebrity that is only rivalled by one or two other similar places. Their fresh vigorous hardihood, fearless boldness, and thrifty ways have long been characteristic of them, but it is perhaps to the Cullercoats fishwives that the fact of their wide-spread popularity is especially due, with their warm and at all times seasonable-looking costumes, their always fresh and comely and sometimes really bonny faces, and their creels of tempting fish; the Cullercoats fishwives are familiar and welcome objects in the streets of Newcastle-upon-Tyne, and their oft-repeated cries of "Will ye buy any fish?" and "Shares o' caller ling," are perhaps amongst some of the most original cries to be heard on the banks of the Tyne. The peculiarly prolonged notes in which the "Buy any fish?" is called, make it very difficult to render accurately.</commentary>
+
+      <!-- Street cry of fishwives selling their catch: work -->
+      <songTitle str="Cullercoats Fishwives Street Cry" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+        Cullercoats Fishwives Street Cry: Will Ye Buy Any Fish?
+      </songTitle>
+      <lyrics str="English/Northumbrian dialect">[Music only — street cry, no set lyrics recorded]</lyrics>
+
+      <pg id="123"/>
+
+      <commentary>The "Shares o' caller ling," on the contrary, is given much sharper, and repeated very frequently.</commentary>
+
+      <!-- Street cry of fishwives selling ling: work -->
+      <songTitle str="Shares O' Caller Ling" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+        Shares O' Caller Ling
+      </songTitle>
+      <lyrics str="English/Northumbrian dialect">[Music only — street cry, no set lyrics recorded]</lyrics>
+
+      <commentary>They have furthermore been immortalized in verse. I am not very certain that the following is correct, but at least it is one version of the poem:</commentary>
+
+      <!-- Poem celebrating the fishwives and their trade: work -->
+      <songTitle str="The Cullercoats Fishwives" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+        The Cullercoats Fishwives (poem)
+      </songTitle>
+      <lyrics str="English">
+        The Cullercoats fishwives so cosy and free,
+        They live in their cottages close by the sea,
+        And they sell their fine fish
+        To the poor and the rich!
+        Will ye buy? will ye buy?
+        Will ye buy my fine fish?
+      </lyrics>
+
+      <commentary>The old cry of the herring-sellers of Newcastle-upon-Tyne was a much more lengthy one, and sometimes consisted of a set of doggerel verses which, if they were approved by the good people of the "canny toon," in those bygone days, they must have been scarcely as sensitive and refined as one would like to imagine the ancestors of the present generation of Novocastrians.</commentary>
+
+      <!-- Street cry of herring sellers: work -->
+      <songTitle str="Caller Herrin' Street Cry" originLocation="Newcastle-upon-Tyne, England"  subject="wk">
+        Caller Herrin' Street Cry
+      </songTitle>
+      <lyrics str="English/Tyneside dialect">
+        'Ere's yer caller herrin'!
+        'Ere's yer caller fresh herrin'!
+        'Ere's yer 'resh heerin'!
+        'Resh heerin'!
+        Power a penny, hinny!
+        Fower a penny! Fower a penny!
+        Caller heerin'!
+      </lyrics>
+
+      <pg id="124"/>
+
+      <commentary>Any one who is acquainted with the city on the coaly Tyne will recognize in the "Fower a penny" the vernacular of the vendors of oranges, who line the streets during the winter season. The chief magistrate and corporation of Newcastle-upon-Tyne still keep up annually one of the most ancient water customs, namely, that of going in a procession in barges down the River Tyne to inspect the boundaries. This ceremony takes place on Ascension Day, commonly known as "Barge Day."</commentary>
+
+      <!-- Watermen's roundel honouring the Lord Mayor's river procession: sea life -->
+      <songTitle str="Row the Boat, Norman" originLocation="London, England" originTime="1453" subject="sl">
+        Row the Boat, Norman / Whittington
+      </songTitle>
+      <lyrics str="English">
+        Row the boat, Norman,
+        Heave and ho, rumbelow.
+
+        [Variant:]
+        Row the boat, Whittington,
+        Thou worthy citizen, Lord Mayor of London.
+      </lyrics>
+
+      <commentary>In 1453, Sir John Norman, who was then Lord Mayor of London, was the first "to brake that ancient and olde continued custome of riding with great pomp into Westminster to take his charge, and chose rather to be rowed thither by water." The watermen made of him a roundel or song, to his great praise. The second singer begins two bars after the first, and the third two bars after the second. They continue in that order, without stopping at the end of the line, but recommencing and singing it over many times. There seems to be some reason to suppose that this was rather Whittington, whose famous mayoralty was prior to Norman's.</commentary>
+
+      <commentary>D'Israeli, in his "Curiosities of Literature," says, "Our sailors at Newcastle, in heaving their anchors, have (still?) their 'Heave and ho, rumbelow.'" It may also be noted that the chief magistrate and corporation of Newcastle-upon-Tyne still keep up annually one of the most ancient water customs, namely, that of going in a procession in barges down the River Tyne to inspect the boundaries. This ceremony takes place on Ascension Day, commonly known as "Barge Day."</commentary>
+
+      <pg id="125"/>
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 2: FRENCH SAILORS' AND BOATMEN'S SONGS (continued)  -->
+    <!-- ============================================================ -->
+    <section id="2">
+      <pg id="155"/>
+      <heading>French Sailors' and Boatmen's Songs (continued)</heading>
+
+      <!-- Fisherman sings of contentment on the water with his nets and skiff: sea life -->
+      <songTitle str="Le Pecheur" originLocation="Provence / France"  subject="sl">
+        Le Pecheur / The Fisherman
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        Plus legere que l'hirondelle,
+        Comme ma gentille nacelle
+        Glisse avec grace sur les eaux.
+        Elle bondit fiere et coquette,
+        Semblant defier la tempete
+        Et le choc terrible des flots.
+        Tra la, la, la, la.
+
+        Seul au milieu de l'onde
+        Quand je vogue, ma foi,
+        Le plus grand roi du monde
+        Est moins heureux que moi.
+        Tra la, la, la, la.
+
+        Je ne possede pour richesse
+        Que Ninna, ma belle maitresse,
+        Mes filets, ma nacelle, et Dieu.
+        Et qu'a-t-il besoin de fortune
+        Celui que le monde importune,
+        Et qui se contente de peu ?
+        Tra la, la, la, la.
+
+        Qu'apres une gloire ephemere
+        Les ambitieux de la terre
+        Insenses passent tous les jours.
+        Pietro le pecheur est plus sage,
+        En depit du vent, de l'orage,
+        Joyeux il repete toujours
+        Tra la, la, la, la.
+
+        ENGLISH VERSION:
+        Lighter than the swallow,
+        Lightly my pretty skiff
+        Skims gracefully over the waters.
+        She bounds along, proud and coquette,
+        Seeming to defy the tempest
+        And the terrible dashing of the waves.
+        Tra la, la, la, la.
+
+        Alone in the midst of the waves
+        When I am floating, my faith,
+        The greatest king in the world
+        Is less to be envied than me.
+        Tra la, la, la, la.
+
+        I only own as riches
+        Nina, my lovely queen,
+        My nets, my skiff, and my God.
+        What need has he of fortune
+        Whom the world importunes,
+        And who is content with little?
+        Tra la, la, la, la.
+
+        The ambitious people of the earth
+        Stupidly pass all their days
+        In seeking an ephemeral glory.
+        Peter the fisherman is wiser,
+        In spite of the wind and the storm,
+        Joyful he ever repeats
+        Tra la, la, la, la.
+      </lyrics>
+
+      <pg id="156"/>
+
+      <!-- Orphan cabin boy laments his life at sea, far from home: homesickness -->
+      <songTitle str="La Chanson du Mousse" originLocation="Brittany, France"  subject="hs">
+        La Chanson du Mousse / The Cabin Boy's Song
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        La mer est ma patrie,
+        Ce bord est mon sejour ;
+        J'y dois passer ma vie,
+        J'y dois mourir un jour.
+        Va, petit mousse,
+        Dans un climat lointain,
+        La mer est douce
+        Pour le pauvre orphelin.
+
+        La vie est bien amere
+        A l'enfant delaisse,
+        Que l'amour d'une mere
+        N'a jamais caresse.
+        Va, petit mousse,
+        Dans un climat lointain,
+        La mer est douce
+        Pour le pauvre orphelin.
+
+        Je vais loin de toi, ma belle,
+        Conserve mon amour ;
+        Je reviendrai, je l'espere,
+        Pour nous unir un jour.
+        Va, petit mousse,
+        Dans un climat lointain,
+        La mer est douce
+        Pour le pauvre orphelin.
+
+        ENGLISH VERSION:
+        The sea is my kingdom,
+        This shore is my holiday home ;
+        I have to live my life here,
+        And here I must one day die.
+        Go, little cabin boy,
+        To a distant clime,
+        The sea is calm
+        For a poor orphan boy.
+
+        Life is very sad
+        To the lonely child,
+        Whom a mother's love
+        Has never caressed.
+        Go, little cabin boy,
+        To a distant clime,
+        The sea is calm
+        For a poor orphan boy.
+
+        I am going far from thee, my sweet,
+        Keep thou my love ;
+        I will return, I hope,
+        And then one day we'll wed.
+        Go, little cabin boy,
+        To a distant clime,
+        The sea is calm
+        For a poor orphan boy.
+      </lyrics>
+
+      <pg id="157"/>
+
+      <commentary>Many will be familiar with the two French sea-songs which follow, "Pauvre Pierre" and the lovely "Une Fleur pour Reponse." They are great favourites amongst the sailors. I well remember hearing a splendid old Breton mariner singing the latter; there was a whole world of pathos in his way of rendering it, and of unconscious rugged grandeur in the picture he himself presented.</commentary>
+
+      <!-- Sailor departs and begs a farewell token from his beloved: departure -->
+      <songTitle str="Une Fleur pour Reponse" originLocation="Brittany, France"  subject="dp">
+        Une Fleur pour Reponse / A Flower for an Answer
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        Notre vaisseau va quitter cette plage,
+        Oh ! bien longtemps je serai sans vous voir.
+        En m'eloignant, emporterai-je un gage,
+        Sinon d'amour, au moins d'un peu d'espoir ?
+
+        Je pars ; adieu, Marie ! Helas, je pars demain !
+        Si vous me regrettez, oh ! je vous en supplie,
+        Donnez-moi cette fleur, cherie, que toucha votre main !
+
+        Si cette fleur, par vous m'etait donnee,
+        Meme, en partant, j'aurais quelque bonheur !
+        Et, loin de vous, cette rose fanee
+        Serait toujours, toujours la, sur mon coeur !
+
+        La pauvre enfant, qui tremblait a sa vue,
+        Triste et reveuse, implorait Dieu tout bas !
+        Et lui, reprit, d'une voix plus emue,
+        Vous vous taisez ! oh ! vous ne m'aimez pas ;
+        Je pars, l'ame fletrie ! Adieu ! je pars demain.
+        Il allait s'eloigner, quand cette fleur cherie,
+        Seule reponse de Marie, s'echappa de sa main.
+
+        ENGLISH VERSION:
+        Our ship is about to sail,
+        And for long I shall not see you.
+        In going so far away, may I have a keepsake,
+        If not for love, at least for hope ?
+
+        I am going ; adieu, Marie ! Alas, I leave to-morrow !
+        If you will regret me, oh ! I beg you,
+        Give me that flower, darling, your hand has touched !
+
+        If that flower were given me by you,
+        Even in leaving I should feel some joy !
+        And when far away from you, that faded rose
+        Will be ever, ever there, on my heart !
+
+        The poor child trembled 'neath his gaze,
+        Sad and dreaming she implored God's help !
+        And he in a voice both tender and reproachful,
+        Said, You are silent, ah ! you do not love me ;
+        I am going, my heart is wounded ! Adieu, I go to-morrow.
+        He was turning away, when that cherished flower,
+        Sole answer from Marie, was dropped from her hand.
+      </lyrics>
+
+      <pg id="158"/>
+
+      <!-- Sailor sells himself to feed his family, departs, and never returns; mother mourns: death -->
+      <songTitle str="Pauvre Pierre" originLocation="France (forecastle / naval)"  subject="dt">
+        Pauvre Pierre / Poor Peter
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        La voile s'enfle, il va partir, le brick a l'allure elegante ;
+        Sur le pont le matelot chante, insoucieux de l'avenir,
+        Mais l'oeil fixe sur l'onde amere, un seul la regarde en pleurant,
+        Car sur la greve il voit sa mere, qui pleure et benit son enfant.
+
+        Un jour, helas ! le pain manquait a sa famille desolee,
+        Et sous la cabane isolee, deja l'horrible faim entrait,
+        Mais vers le port Pierre s'elance, se vend et revient en pleurant,
+        Mere, dit-il, plus de souffrance, embrasse et benis ton enfant !
+
+        Parti pour de lointains climats, errant sur la plaine-ecumeuse,
+        Apres une course ourageuse, le bon Pierre ne revint pas ;
+        Et sur la greve solitaire que le flot baigne en s'y brisant,
+        Chaque jour voit la pauvre mere qui prie et pleure son enfant.
+
+        ENGLISH VERSION:
+        The sails are set of the gallant brig,
+        On deck the sailor sings, regardless of the future ;
+        But with his gaze fixed on the bitter wave one is silently crying,
+        For on the shore he sees his mother weeping and blessing her child.
+
+        One day, alas ! bread failed the desolate family,
+        And into the isolated cabin, already hunger in its horror has entered,
+        But Peter runs towards the port, sells himself, and comes back weeping,
+        Mother, says he, no more pain, embrace and bless thy child !
+
+        Departed to far distant climes, wandering over the foaming plain,
+        After a stormy voyage, the good Peter never comes back ;
+        And on the lonely shore washed by the incoming tide,
+        Each day sees the poor mother praying and weeping for her child.
+      </lyrics>
+
+      <commentary>The story of "Pauvre Pierre" is an undoubted forecastle favourite with Jack in France. This is another very favourite song in Provence with the fishermen:</commentary>
+
+      <!-- Provencal fishermen's song; music only: sea life -->
+      <songTitle str="Li Martegan" originLocation="Provence, France"  subject="sl">
+        Li Martegan
+      </songTitle>
+      <lyrics str="Provencal">[Music only — lyrics in Provencal dialect, no translation recorded in this section]</lyrics>
+
+      <pg id="159"/>
+      <pg id="160"/>
+      <pg id="161"/>
+
+      <commentary>In a course of more than a hundred and eighty leagues, the "corn-coloured river," as an old chronicle calls the Loire, flows through meadows, vineyards, woods, and great cities, without once finding a barren or a desert spot. Upon the river dwell a race who partake of its character. They have not the jeering turbulence of the Seine boatmen, nor the sullen fierceness of those of the Rhone, nor the heaviness of the men who navigate the Rhine. The bargeman of the Loire is of a peaceful disposition; vigorous without coarseness, and merry without excess, he lets his life flow on through things as he finds them, like the water which carries him between its fertile banks. The following verses are often to be heard sung by these bargemen, rarely twice to the same tune, sometimes an opera air is used, anon a hymn tune, anything that adapts itself to the singer's feelings and the rhythm of the words.</commentary>
+
+      <commentary>I do not know whether it is generally known that the Vaudeville is really an early form of French water-song. It originated with the workmen of a fuller of Vau de Vire, or the valley by the River Vire; these men used to sing while spreading their cloths on the banks of the river, usually the subject was some incident or adventure of the day, and thus from Vau de Vire we get the Vaudeville.</commentary>
+
+      <quote>Fisher, fishing in the sea ; / Fish my mistress up for me. / Fish her up before she drowns / Thou shalt have four hundred crowns. / Fish her for me dead and cold / Thou shalt have my all in gold.</quote>
+
+      <pg id="162"/>
+
+      <!-- Bargemen haul boats up the Rhone; describes the labour of towing crews: work -->
+      <songTitle str="Lou Revestidon" originLocation="River Rhone, France (Lyons to Avignon)"  subject="wk">
+        Lou Revestidon / Les Equipages du Rhone / The Boats' Crews of the Rhone
+      </songTitle>
+      <lyrics str="Provencal / French / English">
+        PROVENCAL VERSION:
+        Fai tira, moun brave equipage !
+        Ja ! Ja ! mi setanto chivau !
+        Dou Rose onouras lou ribage,
+        Quand lou trepas d'amount, d'avant.
+
+        FRENCH VERSION:
+        Fais tirer, mon brave equipage !
+        Mes septante chevaux, tilez !
+        Du Rhone, il est fier le rivage,
+        Quand bravement vous le foulez !
+
+        C'est ainsi que, droit comme un cierge,
+        A l'avant du maitre-bateau,
+        Crie : A l'eau ! sous l'oeil de la Vierge !
+        Le patron otant son chapeau.
+
+        La ! fais tirer ! les chefs repetent,
+        La ! La ! La ! mes chevaux vaillants ;
+        Tandis qu'en l'air les fouets claquaient,
+        Vos pieds ont des eclairs brillants.
+
+        Grands, beaux, et forts, plains de souplesse,
+        Jarrets tendus, suants, courbes,
+        La maille, a la barque maitresse,
+        Par quatre vous tient accouples.
+
+        Et contre l'eau le train remonte,
+        A la file les bateaux vont ;
+        Il vente, il pleut, rien ne vous dompte,
+        Pluie et soleil rien ne vous font.
+
+        Suivant les sentes marinieres,
+        L'on vous voit piaffer et nager ;
+        Vous traversez ruisseaux, rivieres,
+        Sans jamais vous decourager.
+
+        Et soit d'Arles, soit de Beaucaire,
+        De Tarascon ou d'Avignon.
+        Vous amenez, n'arretant guere,
+        Le chargement jusqu'a Lyon.
+
+        Que de villes, que de villages,
+        Que de montagnes, de chateaux,
+        Les marins, pendant ces voyages,
+        Ont vus du pont de leurs bateaux !
+
+        Tout en naviguant, leurs pensees
+        A ceux qu'ils ont laisses seulets,
+        S'en vont, doucement caressees,
+        Des femmes aux enfantelots.
+
+        Mais voici l'endroit difficile,
+        Le Revestidon redoute,
+        Chevaux, allez d'un pas tranquille,
+        Et ne marchez point a cote.
+
+        Les six bateaux, on les separe,
+        Et deux par deux ils sont passes,
+        Chevaux et gens, dans la bagarre,
+        Luttant contre eau, sable et fosses.
+
+        Prepares au mauvais passage,
+        Bravement ils en sont sortis,
+        Et les marins, selon l'usage,
+        Dissent, Nous sommes revesti !
+
+        Puis la troupe s'en est allee
+        Vers le plus grand mas du terroir ;
+        Sous les peupliers de l'allee,
+        A la Durbane on va s'asseoir.
+
+        On trouve la superbe etable ;
+        Cent chevaux n'y seraient point mal.
+        On y boit le vin delectable
+        De Chateauneuf, le vin papal.
+
+        Et la table est si bien servie !
+        Plus d'un s'en donne tout son soul.
+        Oh ! la nuit est bientot finie !
+        L'on est si joyeux chez Pecoul !
+
+        A la paresse cherchant noise,
+        Il faut regagner les bateaux ;
+        Adieu, donc, la belle bourgeoise !
+        A Lyon nous serrons bientot.
+
+        Et la rejane, la grand maille,
+        Et tous chevaux sont rattaches ;
+        Betes et gens, chacun travaille,
+        Tout attentifs, l'on voit penches.
+
+        Patron et second a la poupe,
+        De vin point on ne manquera ;
+        Le petit mousse fait la soupe ;
+        A son tour chacun dormira.
+
+        Et de nouveau file la troupe
+        De chevaux, d'hommes doux et forts ;
+        Il va peinant, le vaillant groupe,
+        Sans jamais se plaindre du sort.
+
+        Son voyage est comme la vie :
+        Tristesse et gaiete, froid et chaud ;
+        Les jours passent, l'oeuvre est finie :
+        Au bout du travail le repos.
+
+        Fais tirer, mon brave equipage ;
+        Mes septante chevaux, filez,
+        Du Rhone il est fier le rivage,
+        Quand bravement vous le foulez.
+
+        ENGLISH VERSION:
+        Pull ! my brave crew,
+        My seventy horses, shoot by ;
+        The strand of the Rhone is proud
+        When you valiantly crowd by.
+
+        It is thus, straight as a taper,
+        In front of the principal boat,
+        That the coxswain, lifting his cap
+        Under the eye of the Virgin cries,
+        Take the water.
+
+        There, pull, the other masters repeat,
+        There, there, there, my valiant horses ;
+        Whilst in the air the whips are cracking
+        Your feet are going like lightning.
+
+        Big, beautiful, strong and supple,
+        With legs distended, sweating and bent,
+        The ring to the principal boat,
+        By four together holds you coupled.
+
+        And against the tide the train remounts,
+        In file the boats go by ;
+        It may blow, it may rain, but nothing stops you,
+        Rain and sun are all one to you.
+
+        Following the mariner's path
+        One can see you pawing and swimming,
+        Over streams and rivers you go
+        With an almost indomitable courage.
+
+        Be it from Arles, or Beaucaire,
+        From Tarascon or Avignon,
+        You take the cargo to Lyons,
+        Scarcely without stopping.
+
+        What numbers of towns and villages,
+        What mountains, what castles,
+        Must the sailors have seen
+        From the bridge of their boats during these voyages !
+
+        As they sail their thoughts fly
+        To those whom they have left all alone.
+        Their thoughts fly as softly caressed
+        As women caress their children.
+
+        But here comes the most difficult part,
+        The Revestidon so feared,
+        Horses ! go, step quietly,
+        And don't walk to the side.
+
+        The six boats are then separated,
+        And two by two they pass it ;
+        Horses and men in the hubbub
+        Fighting against water, sand, and ditches.
+
+        Prepared for the bad passage,
+        Bravely they come through it,
+        And the sailors, according to custom,
+        Say, We are revesti.
+
+        Then the troops go off
+        Towards the biggest farm in the district ;
+        Under the poplars of the walks,
+        At the Durbane they go and sit down.
+
+        There they find superb stabling ;
+        A hundred horses would not do badly in it.
+        They drink delectable wine,
+        Chateauneuf, the papal wine.
+
+        And the table is so well served,
+        More than one drinks his fill !
+        Ah ! ah ! the night is soon over.
+        One is so joyful at Pecoul's !
+
+        With idleness they soon quarrel,
+        They must regain the boats ;
+        Good-bye, then, pretty peasant !
+        At Lyons we soon shall be.
+
+        And then the rejane, the great maille !
+        And all horses are harnessed ;
+        Beasts and men, each one works,
+        All attention one sees them.
+
+        Coxswain and second mate at the stern,
+        No one will want for wine ;
+        The little cabin-boy makes the soup ;
+        In his turn each will sleep.
+
+        And again the troop files along,
+        Of horses and men, weak and strong ;
+        It goes labouring, the valiant group,
+        Without complaining of their lot.
+
+        Their voyage is like life :
+        Sadness and gaiety, cold and heat ;
+        The days go by, the work is finished :
+        At the end of labour comes rest.
+
+        Pull, then, my noble crew ;
+        My seventy horses, fly ;
+        The strand of the Rhone is proud
+        When bravely you crowd by.
+      </lyrics>
+
+      <pg id="163"/>
+      <pg id="164"/>
+      <pg id="165"/>
+
+      <commentary>When the boatmen of the Rhone wished to indicate to which side of the river the train of boats had to go, to right or to left, they cried "Reiaume" or "Empeire," because in the Middle Ages the banks on the right of the Rhone were the possessions of the kings of France, and on the left were the provinces of our actual France, taken from the Empire of Germany. The ancient crews for remounting the course of the Rhone were often composed of six or seven boats, and of sixty to ninety horses. The Durbane was a large farm, with beautiful shady walks of poplars and elms, and "Joseph Pecoul" was the last of the great publicans of the Durbane.</commentary>
+
+      <commentary>Perhaps I may be permitted to quote some verses from Guillaume de la Landelle's dedicatory poem to sailors, with which he prefaces his "Le Gaillard d'Avant." De la Landelle seems to have been to France what Mr. Clarke Russell is to England at the present time, namely, the true chronicler of the sailors' sayings and doings. His volume "Poemes et Chants Marins" is the nearest approach to Dibdin's style of writing of any that I have found, and is full of songs that are often to be heard on the decks of French ships. He also published a very interesting volume, "Le Langage des Marins."</commentary>
+
+      <pg id="166"/>
+
+      <!-- Fishermen's prayer to Saint Anne before a voyage; supplication for protection: superstition / religious custom -->
+      <songTitle str="Hymn to Saint Anne" originLocation="Brittany, France"  subject="ss">
+        Hymn to Saint Anne (French Fishermen's Hymn)
+      </songTitle>
+      <lyrics str="English (translation)">
+        Good Saint Anne, great Saint Anne,
+        Mother of the mother of God !
+        In heaven you list to the pleading
+        Of the fisherman who calls on you.
+        You are the most revered of all our saints,
+        We are pilgrims of the chapel consecrated
+        To your love by the seamen.
+      </lyrics>
+
+      <pg id="167"/>
+
+      <commentary>"Les Enfants de la Mer" is a favourite rowing-song:</commentary>
+
+      <!-- Sailors celebrate the proud bearing of men of the sea: sea life -->
+      <songTitle str="Les Enfants de la Mer" originLocation="France"  subject="sl">
+        Les Enfants de la Mer / The Sons of the Sea
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        Dis-moi, mon vieux, dis-moi pour quoi
+        Tu ris en douceur a part toi ?
+        C'est que je repete a part moi :
+        Chante, chante,
+        L'ardeur vaillante,
+        L'air calme et fier
+        Des enfants de la mer !
+
+        ENGLISH VERSION:
+        Tell me, my old friend, tell me why
+        You sit and softly laugh by yourself ?
+        It is because I am repeating to myself :
+        Sing, sing,
+        Of the valiant strength,
+        The calm, proud bearing
+        Of the sons of the sea !
+      </lyrics>
+
+      <!-- Rowing chanty; music only: work -->
+      <songTitle str="Chanson pour Ramer" originLocation="France"  subject="wk">
+        Chanson pour Ramer / Song for Rowing
+      </songTitle>
+      <lyrics str="French">[Music only — no lyrics recorded beyond title]</lyrics>
+
+      <commentary>"La Corsairienne" is another favourite rowing-song:</commentary>
+
+      <!-- Corsair rowing chanty; victory or death battle cry: battle -->
+      <songTitle str="La Corsairienne" originLocation="Saint-Malo, France"  subject="bt">
+        La Corsairienne / Chant pour Ramer
+      </songTitle>
+      <lyrics str="French / English">
+        FRENCH VERSION:
+        Au corsaire qui cours au bord,
+        Il faut la victoire ou la mort !
+        Hale dessus ! Vive la France !
+        En debordant de Saint Malo
+        Nos longs avirons battaient l'eau.
+
+        ENGLISH VERSION:
+        For the pirate who goes on board
+        There must be victory or death !
+        Hallo there, feather gently,
+        Vive la France !
+        When we come alongside of St. Malo
+        Our long oars sweep the waters.
+      </lyrics>
+
+      <pg id="168"/>
+
+      <commentary>Both the following are used as Splicing Songs by French sailors:</commentary>
+
+      <!-- Splicing work chanty; music only: work -->
+      <songTitle str="Splicing Song 1" originLocation="France"  subject="wk">
+        Splicing Song 1 (French)
+      </songTitle>
+      <lyrics str="French">[Music only — no lyrics recorded]</lyrics>
+
+      <!-- Splicing work chanty with light vaudeville character: work -->
+      <songTitle str="Le Brig Black" originLocation="France"  subject="wk">
+        Le Brig Black (Splicing Song 2)
+      </songTitle>
+      <lyrics str="French">
+        Mer jolie et bon vent,
+        Quand le temps favorise,
+        Mer jolie et bon vent,
+        Quand beau.
+        Ho ! Si la brise
+        Frise l'eau,
+        Cric crac et sabot !
+        Cuiller a pot !
+        Si la brise
+        Frise l'eau,
+        Cric crac et sabot !
+        Cuiller a pot !
+      </lyrics>
+
+      <pg id="169"/>
+
+      <commentary>I could not attempt a translation of this last; it is essentially French, almost a Vaudeville in character, and possessing as sole merit the gaiety which is inseparable from that class of French song. To France, I think, belongs the distinction of having produced some of the saddest and most of the brightest songs in the world. They have a saying that "A song without its tune is a bird without its wings" ("Un chanson sans son air est un oiseau sans ses ailes"), and it is peculiarly true of their songs; words and music are so absolutely wedded, that to sever them is to lose half their beauty. So, quoting the words of the French "King of Songsters," Beranger, I bid adieu to the blue-jackets of that country: "Go, then, and let the rising race through thee that history know ; Be thou a pilot to their bark, the rocks and sands to show ; And if perchance the pride of France some day they help to raise, Go, in their beams of glory warm thine own declining days ; Adieu then, songs, adieu !"</commentary>
+    </section>
+
+    <!-- ============================================================ -->
+    <!-- SECTION 3: ITALIAN SAILORS', NEAPOLITAN FISHERMEN'S,         -->
+    <!--             AND VENETIAN GONDOLIERS' SONGS                   -->
+    <!-- ============================================================ -->
+    <section id="3">
+      <heading>Italian Sailors', Neapolitan Fishermen's, and Venetian Gondoliers' Songs</heading>
+
+      <!-- Devotional hymn; music only: superstition / religious custom -->
+      <songTitle str="Italian Hymn" originLocation="Italy"  subject="ss">
+        Italian Hymn
+      </songTitle>
+      <lyrics str="Italian">[Music only — no lyrics recorded]</lyrics>
+
+      <pg id="173"/>
+      <pg id="174"/>
+
+      <commentary>Every child from his cradle upwards has heard of Italy as the land of music. In Italy the maritime population amounts to 225,000, of this the greater part are fishermen, though a large number man the Genoese barques in the general carrying trade. The songs of the fishermen and Lazzaroni of Naples are full of whimsical nonsense and impudence, many of them are merely the popular tunes of the day; but, like those of Venice, the sound of the boat, with its cadence of rowers, is ever and again heard. The Mediterranean sailor is popularly supposed to chant snatches of opera over his fishing-nets.</commentary>
+
+      <quote>Thou art a fisher of Mazorbo ; lone, / Drifting a usual shadow o'er the sea, / With thine old boat, that like a barkless tree / Creaks in the wind a pitiless dreary moan ; / And there thy life and all thy thoughts have flown, / Pouncing on crabs in shallows, till thy knees / Crooked as theirs, now halt unsteadily, / Going about to move the anchor-stone ; / And when the waves roll inward from the east, / Takest thy net, and for some few sardines / Toil'st in the morning's wild and chilly ray. / Then dost thou go to where yon bell-tower leans, / And in the sunshine sit, the poor man's feast, / Else abstinent in thy poverty, all the day. — Sir John Hamner, "The Finmara"</quote>
+
+      <pg id="175"/>
+
+      <commentary>The following song of the well-known composer of Italian popular songs Paolo Tosti is a great favourite with the sailors of Italy. At least, this is the title by which the song is known, but the sailors will improvise their own words to the air, probably of some droll, lazy, impudent nature, such as delight the hearts of the fishermen of Naples.</commentary>
+
+      <!-- Sailors' favourite air; improvised words about the sea: sea life -->
+      <songTitle str="Perche Vuoi Tu Fidas la Barca al Mare" originLocation="Naples, Italy"  subject="sl">
+        Perche Vuoi Tu Fidas la Barca al Mare (Paolo Tosti)
+      </songTitle>
+      <lyrics str="Italian">[Music only — sailors improvise their own words to this air]</lyrics>
+
+      <pg id="176"/>
+      <pg id="177"/>
+
+      <commentary>Santa Lucia is often sung by the fishermen of Naples, the gondoliers of Venice, and Italian seamen generally. It is truly of the barcarolla type, and seems thoroughly suited to water pursuits.</commentary>
+
+      <!-- Barcarolla celebrating the sea and Naples by night: sea life -->
+      <songTitle str="Santa Lucia" originLocation="Naples, Italy / Venice, Italy"  subject="sl">
+        Santa Lucia
+      </songTitle>
+      <lyrics str="Italian / English">
+        ITALIAN VERSION:
+        Sul mare lucia
+        L' astro d' argento,
+        Placida e l' onda
+        Prospero e il vento,
+        Vente all' agile
+        Barchetta mia,
+        Santa Lucia !
+        Santa Lucia !
+
+        Con questo zeraro,
+        Cosi soave,
+        Oh ! com' e bello,
+        Star tu la nave !
+        Sie passaggieri
+        Venite via.
+        Santa Lucia !
+        Santa Lucia !
+
+        Mare si placido
+        Vento si caro
+        Scordar fa i triboli
+        Al marinaro.
+        E va gridando,
+        Con allegria,
+        Santa Lucia !
+        Santa Lucia !
+
+        O dolce Napoli,
+        O tuol beato,
+        Ave sorridere,
+        Voile il create.
+        Tu sei l'impeso,
+        Dell' armonia,
+        Santa Lucia !
+        Santa Lucia !
+
+        ENGLISH VERSION:
+        Over the ocean
+        Night's star is beaming,
+        With every motion
+        Bright waves are gleaming.
+        Sweet voices ringing,
+        Gaily are singing,
+        Santa Lucia !
+        Santa Lucia !
+
+        Sea gently flowing,
+        Sweet music's measure,
+        Wind softly blowing,
+        How pure a pleasure !
+        Santa Lucia !
+        Santa Lucia !
+
+        While gaily ringing
+        Sweet voices singing,
+        Santa Lucia !
+        Santa Lucia !
+
+        Naples the fairest,
+        Thy shores perfuming,
+        Earth's flowers the fairest
+        Ever are blooming.
+        Where gaily ringing
+        Sweet voices singing
+        Santa Lucia !
+        Santa Lucia !
+      </lyrics>
+
+      <commentary>The following charming song is well known as a boatman's favourite; it is "The Amalfi Boatmen's Serenade":</commentary>
+
+      <pg id="178"/>
+
+      <!-- Fisherman laments his lost love Rosella; homesickness / longing for her: homesickness -->
+      <songTitle str="La Fata di Amalfi" originLocation="Amalfi, Italy"  subject="hs">
+        La Fata di Amalfi / The Fairy of Amalfi (Amalfi Boatmen's Serenade)
+      </songTitle>
+      <lyrics str="Neapolitan dialect / English">
+        ITALIAN (NEAPOLITAN) VERSION:
+        Chiagnaro-re la la mia sventura
+        Si non tuorne chiu, Rosella !
+        Tu d' Amalfi la chiu bella,
+        Tuna Fata si peme !
+        Viene vie, regina mia ;
+        Viene, curre a chi-sto core, ca non c' e,
+        Non c' e no sciore,
+        Non c' e Stella comm' a te !
+
+        Co chi parlo ? Ahi sconsolato !
+        Addo sta la rosa mia ?
+        S' e sfrunnata pe la via,
+        E chiu addore non me da !
+        No signore la vedette,
+        So tre mise ch' e scappata ;
+        Ma co tut to ch' e na sgrata
+        Non la pozzo io maie scorda !
+
+        La matina che pe tiempo,
+        Vaco a Napole mbarchetta,
+        Pare tanno che m' aspetta
+        E la mano me vo da !
+        Quanno po lo cielo scura,
+        Ed io vaco pe piscare,
+        Miezo a l' onne de lo mare,
+        Veco pure che sta Ia !
+
+        E turnanno, a la capanna,
+        La saluto a lo barcone,
+        E la solita canzona
+        Taco tanno pe canta :
+        Viene vie, turi na stella,
+        Vu d' Amalfi si la fata ;
+        Ma la rosa s' e sfrunnata,
+        Ed io l' aggio da scorda !
+
+        ENGLISH VERSION:
+        I'll bewail my misfortune
+        If thou returnest not, Rosella !
+        Thou, the fairest of Amalfi,
+        Art indeed a fairy to me.
+        Come, come my queen,
+        Come fly to this heart ;
+        There is no flow'r to compare with thee,
+        Nor a star like as thou art !
+
+        With whom do I speak ? Alas ! disconsolate,
+        Where is my rose to be found ?
+        It has been plucked by the way,
+        Its odour no longer floats round.
+        Won by the gaze of a master,
+        It is three months now since she fled ;
+        But although thus cruel to me
+        Her memory is not dead.
+
+        When on every morning early,
+        I with my boat to Naples go ;
+        It seems to me that she'll be waiting,
+        To put her hand in mine just so !
+        Then when the sky is darkened,
+        And I to the fishing must be,
+        Even amongst the waves of the ocean
+        That woman appears to me !
+
+        And when returning to the cottage,
+        I salute the pretty thing,
+        And the usual canzonetta
+        Beneath her balcony sing :
+        Come, come, thou art the star,
+        Thou of Amalfi art the fairy ;
+        But the rose is now culled,
+        And of loving her I must be chary.
+      </lyrics>
+
+      <commentary>The Neapolitan dialect, in which most of these fishermen's and boatmen's songs are written, is so difficult to translate, literally and at the same time rhythmically, that the latter has many times to be sunk in the endeavour to accomplish the former. This song of "The Fairy of Amalfi" may be taken as a very fair specimen of the watermen's ditties of Italy.</commentary>
+
+      <pg id="179"/>
+
+      <!-- Boatman bids farewell to Naples as he departs; longing for home: departure -->
+      <songTitle str="The Boatman's Farewell to Naples" originLocation="Naples, Italy"  subject="dp">
+        The Boatman's Farewell to Naples
+      </songTitle>
+      <lyrics str="Neapolitan dialect / English">
+        ITALIAN (NEAPOLITAN) VERSION:
+        Nee simmo a la partenza,
+        To me ne vaco addio ;
+        Napole bello mio,
+        Non te vedraggio chiu !
+        Quanto ne' e de chiu caro
+        Dinto de te se nzerra,
+        Addio, addio, no paraviso nterra,
+        Napole mio, si tu !
+
+        D' ammore chi me n contra
+        Che vo parla me pare ;
+        L' aria, le bie, lo mare
+        Me parleno purzi,
+        A chiagnere me vene,
+        Napole bello addio ; addio, addio,
+        Lo paraviso mio, sempe pe me tu si !
+
+        ENGLISH VERSION:
+        I am ready to depart,
+        I go far away, good-bye ;
+        Oh ! Naples, my own,
+        I'll see thee no more.
+        Whatever is most beloved
+        Is hidden in thy bosom,
+        Good-bye, good-bye ; a paradise on earth
+        Naples, mine thou art,
+        Good-bye, good-bye !
+
+        Every one I meet, with love
+        Methinks will wish to speak ;
+        The heavens, the earth, the sea,
+        Also with love will speak to me.
+        The wish to cry comes over me,
+        Beautiful Naples, good-bye !
+        The paradise for me
+        Thou wilt always be.
+      </lyrics>
+
+      <pg id="180"/>
+
+      <commentary>The song known as the Neapolitan "Water-Carrier's Song" may be perhaps deserving of a place in a collection of the "Music of the Waters."</commentary>
+
+      <!-- Water-carrier's concealed love-lament; disguised courtship: sea life -->
+      <songTitle str="Fenesta Vascia" originLocation="Naples, Italy"  subject="sl">
+        Fenesta Vascia / The Closed Window / The Water-Carrier's Song
+      </songTitle>
+      <lyrics str="Neapolitan dialect / English">
+        ITALIAN (NEAPOLITAN) VERSION:
+        Fenesta vascia, e patrona crudele,
+        Quanta sospire m' aje fatto jetare ?
+        M' arde sto core comm' a na cannela,
+        Bella a quanno te sento annomenare !
+        O je piglia la sperienzia de la neve !
+        La neve e fredda e se fa maniare ;
+        E tu comme si tant' aspra e crudele !
+        Muorto mme vide e non mme vuo ajutare.
+
+        Vorria asseventare no piccinotto
+        Co na lancella a ghire vennenno acqua,
+        Pe mme nne i da chiste palazzuotte,
+        Belle femmene meja, a chi vo acqua ?
+        Se vota na nennella da la 'ncoppa :
+        Chi e sto ninno che va vennenno acqua ?
+        E io responno co parole accorte,
+        So lagreme d' ammore, e non e acqua !
+
+        ENGLISH VERSION:
+        Closed window ! Ah, cruel mistress,
+        How many sighs have you made me heave ?
+        My heart burns like a candle
+        Whenever, sweet, your name they breathe !
+        Alas ! ungrateful one, learn from the snow,
+        Which is tractable though cold ;
+        But thou, how severe and cold thou art !
+        Were I dying, to save me not sufficiently bold.
+
+        I wish I could become a pretty lad,
+        And with a can go selling water,
+        Then under every balcony I'd shout,
+        My pretty maids ! who wishes water ?
+        So, that perchance, the fairest one might ask,
+        Who is that youth, who is selling water ?
+        And in a few short words I'd say,
+        Tears of love it is, but no, not water !
+      </lyrics>
+
+      <pg id="181"/>
+      <pg id="182"/>
+
+      <commentary>The pretty idea of this little poem seems almost lost in the English version; one cannot translate the passionate abandon of the Neapolitan's love-songs, nor the sunny impudence of those which treat of other matters. We may bring the sprig of Edelweiss from the lofty heights of the Alps, and expect it to flourish in a back garden in Bloomsbury, and we may sing the Neapolitan song to the piano in our chilly northern land; but we cannot put into it all the life, and fire, and sweetness, that makes it the thing of beauty it is, when it has the guitar for accompaniment, the soft liquid Italian syllables for words, and the bright, warm sun and turquoise bay to lend it the subtle charm of colour.</commentary>
+
+      <commentary>"La Carolina" or "Caroline" is a favourite with the Venetian gondoliers, as well as with the boatmen of Naples. The verses are so stupid that I feel tempted to suppress them, one verse may be perhaps enough to show the maudlin sentiment of them:</commentary>
+
+      <!-- Light love song popular with gondoliers and Neapolitan boatmen: sea life -->
+      <songTitle str="La Carolina" originLocation="Venice / Naples, Italy"  subject="sl">
+        La Carolina / Caroline
+      </songTitle>
+      <lyrics str="Neapolitan dialect / English">
+        ITALIAN (NEAPOLITAN) VERSION:
+        Aggio visto na figliola,
+        Bell' assaje e graziosa,
+        Tutt' acconcia e vrucculosa, Uh !
+        Che zuccaro che d' e !
+        Quant' e doce chella vocca,
+        Quant' e bello chillo riso !
+        Tu te cride mparadiso quanno sta vicino a te,
+        Quant' e bello chillo viso.
+        Quant' e doce chillo riso !
+        Tu te cride mparadiso quanno sta vicino a tte !
+
+        ENGLISH VERSION:
+        I a girl have seen,
+        Very pretty and very graceful,
+        All neatness, and oh ! so kind,
+        A piece of sugar she is to my mind !
+        Oh, how sweet is that mouth !
+        Oh, how dear is that smile !
+        Thou wouldst think thyself in Paradise
+        Were she near thee but a while !
+      </lyrics>
+
+      <pg id="183"/>
+
+      <commentary>The preceding song is the oldest Neapolitan fisherman's favourite. There are no words recorded for it; doubtless they have not been thought worthy of preservation.</commentary>
+
+      <!-- Oldest known Neapolitan fisherman's song; music only: work -->
+      <songTitle str="Neapolitan Fisherman's Song" originLocation="Naples, Italy"  subject="wk">
+        Neapolitan Fisherman's Song (oldest favourite)
+      </songTitle>
+      <lyrics str="Italian">[Music only — no words recorded]</lyrics>
+
+      <!-- Popular Neapolitan song; music only: sea life -->
+      <songTitle str="Popular Neapolitan Song" originLocation="Naples, Italy"  subject="sl">
+        Popular Neapolitan Song
+      </songTitle>
+      <lyrics str="Italian">[Music only — no words recorded]</lyrics>
+
+      <pg id="184"/>
+      <pg id="185"/>
+      <pg id="186"/>
+      <pg id="187"/>
+
+      <commentary>Perhaps the most extraordinary men that my work of collecting the sailors' songs has led me amongst are some specimens of Italian seamen who visited me at home. I had often found it a difficult matter, and always one requiring some little tact, to induce the sailors to accept any gratuity for their trouble in singing. The author recounts an encounter with an Italian sailor and two Mexicans who visited her home seeking payment before they would sing, an episode she describes as quite exceptional compared to the generally good manners of her sailor visitors.</commentary>
+
+      <commentary>In a volume of the Cornhill Magazine (xlv. 1882) there is a charming description of the Venetian boatmen given in an article by Mr. J. A. Symonds, entitled "A Gondolier's Wedding." Mr. Symonds writes of the gondoliers' singing: Antonio had a most extraordinary soprano, sound as a bell, strong as a trumpet; Piero boasted a bass of resonant, almost pathetic quality. They sang complicated contrapuntal pieces, barcaroles, serenades, love-songs, and invitations to the water. He concludes: "On all these occasions I have found these gondoliers the same sympathetic, industrious, cheery, affectionate folk. They live in many respects a hard and precarious life. The winter in particular is a time of anxiety and sometimes of privation, even to the well-to-do among them... Yet they take their chance with facile temper, and are not soured by hardships."</commentary>
+
+      <pg id="188"/>
+
+      <commentary>The fact of the Venetian boatmen chanting strophes of Tasso is mentioned again and again in books treating of the life on the lagoons. The gondoliers of Venice used to chant strophes of Tasso as they skimmed in and out of the lagoons; but that was in the days of Venice's historical prime. On St. Mary's Day one may hear them chanting the well-known "Sicilian Mariners' Hymn":</commentary>
+
+      <!-- Mariners' hymn to the Virgin chanted before sailing; religious supplication: superstition / religious custom -->
+      <songTitle str="Sicilian Mariners' Hymn" originLocation="Sicily / Venice, Italy"  subject="ss">
+        Sicilian Mariners' Hymn (O Sanctissima)
+      </songTitle>
+      <lyrics str="Latin">
+        O sanctissima...
+        Dulcis Virgo Maria !
+        [Full text in music notation only]
+      </lyrics>
+
+      <commentary>This is done in chorus, and very solemn it sounds, in the still, early morning, before the lazy stir, that is all Venice now knows of bustle, commences. Perhaps of all strange water ceremonies the world has ever known, the strangest is that of the Doge of Venice marrying the Adriatic annually on Ascension Day, by dropping into it a ring from his bucentaur, or state barge, attended by all the nobility and ambassadors in gondolas. The last such ceremony took place in 1797.</commentary>
+
+      <pg id="189"/>
+      <pg id="190"/>
+
+      <commentary>Byron in "Childe Harold's Pilgrimage" says: "In Venice, Tasso's echoes are no more." A note in an early edition records that the well-known song of gondoliers, of alternate stanzas from Tasso's "Jerusalem," has died with the independence of Venice. Editions of the poem with the Venetian variation as sung by the boatmen were once common. In the days when these were popular, two boatmen sang the strophes in turn, sometimes at a great distance. Lord Byron and another Englishman rowed once to the Lido; in the boat they had two singers, one a carpenter, the other a gondolier, who sang "The Death of Clorinda" and "The Palace of Armida" in Tuscan verse.</commentary>
+
+      <pg id="191"/>
+      <pg id="192"/>
+
+      <commentary>Amongst the Venetian maidens, as amongst the Highland clans of Scotland, a sailor's calling is amongst those which are looked upon suspiciously. Fishermen are considered poor, penniless folk, and she who weds a sailor does so at her own peril. Yet the young girl will not be persuaded: "All say to me, 'Beauty, do not take the mariner, for he will make thee die;' if he make me die, so it must be: I will wed him, for he is my soul."</commentary>
+
+      <quote>My love is far and far away from me, / I am at home, and he has gone to sea ; / He is at sea, and he has sails to spread, / I am at home, and I have beads to thread. — Venetian bead-stringer's song</quote>
+
+      <pg id="193"/>
+
+      <!-- Sailor paints his love on his sail as he departs; departure and sea life: departure -->
+      <songTitle str="Song of a Mariner" originLocation="Venice / Istria, Italy"  subject="dp">
+        Song of a Mariner (Venetian)
+      </songTitle>
+      <lyrics str="English (translation)">
+        Fair art thou born, but love is not for me,
+        A sailor's calling sends me forth to sea.
+        I do desire to paint thee on my sail,
+        And o'er the briny deep I'd carry thee ;
+        They ask, what ensign ? when the boat they hail.
+        For woman's love, I bear this effigy,
+        For woman's love, for love of maiden fair ;
+        If her I may not love, I love forswear !
+      </lyrics>
+
+      <pg id="194"/>
+
+      <quote>Oh ! pescator dell' onda / Findeliu, / Vieni pescar in qua ! / Colla bella sua barca, / Colla bella se ne va / Findeliu ! liu ! la ! — Italian fisherman's verse (Adriatic / Mediterranean)</quote>
+
+      <commentary>The story of a damsel who dropped a ring in the sea, and owed its rescue to a fisherman, who for sole reward demanded a kiss, is well-known on the Adriatic and Mediterranean coasts. The charm of a gondolier's early morning cargo is well described in verse: "To-night their boats must seek the sea, / One night his boat will linger yet ; / They bear a freight of wood, and he / A freight of rose and violet." Amongst curious articles on folk-lore in The Gentleman's Magazine there is a graphic account of the ceremony of "Wedding the Adriatic" on Ascension Day, in which the chief magistrate annually throws a ring into the sea with the words: "Desponsamus te, mare, in signum perpetui dominii" ("We espouse thee, O sea, in testimony of our perpetual dominion over thee").</commentary>
+
+      <pg id="195"/>
+      <pg id="196"/>
+
+      <commentary>Of the many authors who have given to the world their impressions of Venice and the Venetians, Mr. Horatio F. Brown in his "Life on the Lagoons" has most truthfully and poetically represented them. The gondoliers are a deeply conservative race. Amongst the fishermen and sailors of the trading-ships, each boat has its patron saint somewhere on its bows, and in the captain's cabin you are sure to find a picture of the Madonna. The stars are to the Venetians "bei segreti" (beautiful secrets); the pole star is the type of constancy and the sailors' hope.</commentary>
+
+      <!-- Venetian proverb-verse about the constancy of the pole star as sailors' guide: superstition / navigational belief -->
+      <lyrics str="Venetian dialect / English">
+        VENETIAN VERSION:
+        Tutti le stele prende el so camino ;
+        La tramontana no se move mai,
+        E se la tramontana se movesse,
+        Bravo quel mariner che naveghesse.
+
+        ENGLISH VERSION (tr. Horatio F. Brown):
+        Of all the stars, each single one
+        Doth take its wonted way ;
+        The northern star 'tis that alone
+        Burns steadfastly alway,
+        And if the northern star begins
+        To wander like its peers,
+        Brave mariner is he who wins
+        The port, and homeward steers.
+      </lyrics>
+
+      <pg id="197"/>
+
+      <!-- Gondoliers' chorus; music only: sea life -->
+      <songTitle str="Gondoliers' Chorus" originLocation="Venice, Italy"  subject="sl">
+        Gondoliers' Chorus
+      </songTitle>
+      <lyrics str="Italian">[Music only — no lyrics recorded; marked Andantino]</lyrics>
+
+      <commentary>The above is one of the favourite choruses of the gondoliers; and the following, a Sicilian boatman's song, "Love! Love!":</commentary>
+
+      <!-- Sicilian boatman's love song; music only: sea life -->
+      <songTitle str="Love! Love! (Sicilian Boatman's Song)" originLocation="Sicily, Italy"  subject="sl">
+        Love ! Love ! (Sicilian Boatman's Song)
+      </songTitle>
+      <lyrics str="Italian">[Music only — no lyrics recorded beyond title]</lyrics>
+
+      <pg id="198"/>
+
+      <commentary>With Clough's lovely poem, than which no more realistic description of the gondola exists, the author closes her remarks on the Italian watermen:</commentary>
+
+      <!-- Clough's poem imagining life as effortless as a gondola gliding through Venice: sea life -->
+      <songTitle str="In a Gondola on the Grand Canal, Venice" originLocation="Venice, Italy"  subject="sl">
+        In a Gondola on the Grand Canal, Venice (Arthur Hugh Clough, poem)
+      </songTitle>
+      <lyrics str="English">
+        Afloat ; we move delicious ! Ah,
+        What else is like the gondola ?
+        This level floor of liquid glass
+        Begins beneath us swift to pass,
+        It goes as though it went alone
+        By some impulsion of its own.
+        How light it moves, how softly ! Ah,
+        Were all things like the gondola !
+
+        How light it moves, how softly ! Ah,
+        Could life as does our gondola,
+        Unvexed with quarrels, aims, and cares,
+        And moral duties and affairs,
+        Unswaying, noiseless, swift, and strong,
+        For ever thus — thus glide along !
+        How light we move, how softly ! Ah,
+        Were life but as the gondola.
+
+        With no more motion than should bear
+        A freshness to the languid air ;
+        With no more effort than expressed
+        The need and naturalness of rest,
+        Which we beneath a grateful shade
+        Should take on peaceful pillows laid !
+        How light we move, how softly ! Ah,
+        Were life but as the gondola !
+
+        In one unbroken passage borne
+        To closing night from opening morn,
+        Uplift at whiles slow eyes to mark
+        Some palace front, some passing bark ;
+        Through windows catch the varying shore,
+        And hear the soft turns of the oar !
+        How light we move, how softly ! Ah,
+        Were life but as the gondola !
+      </lyrics>
+
+      <pg id="199"/>
+    </section>
+
+  </content>
+
+  <postamble>
+    <dedication>Music of the Waters — Tyneside, French, and Italian sections</dedication>
+    <version>1.1 — Subject codes corrected against schema definitions: sl (sea life), hs (homesickness), dp (departure), wk (work), dk (drinking), bt (battle), dt (death), ss (superstition)</version>
+  </postamble>
+</book>
