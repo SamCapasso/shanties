@@ -6,9 +6,7 @@
     <section id="1">
       <heading>Japanese Sailors' Songs</heading>
 
-      <songTitle str="Popular Japanese Barcarolle" originLocation="Japan" subject="sl">
-        <title str="Popular Japanese Barcarolle">Popular Japanese Barcarolle</title>
-      </songTitle>
+      <songTitle str="Popular Japanese Barcarolle" originLocation="Japan" subject="sl">Popular Japanese Barcarolle</songTitle>
 
       <commentary>A GULF not to be spanned divides the harmonies of the east from those of the west. The Japanese seem to dislike our music, and to find it as wanting (according to their ideas) in harmony, as we find theirs mysterious and discordant. The music of the "Empire of the Rising Sun," like most of its arts and sciences, is mainly Chinese and Corean, and its theory has, therefore, the usual spirit of mystical Chinese speculation, which, basing the forces and phenomena of nature upon the number 5, declares that, as sounds belong to such phenomena, there must be five tones; but in stringed instruments, which are all they have in Japan, they make use of chromatic divisions, although the five tones alone are recognized officially.
 
@@ -20,9 +18,7 @@ Almost all these songs are in very slow time, and nearly all are set in a minor 
 
 To my idea their rowing-songs are decidedly the most pleasing of all; they have really a very charming effect. Musically speaking, they may not be very pretentious, but they may be taken as an indication of the style and character of the nation they belong to. They are sung on the "sampans," partially triangular-shaped boats, something like the salmon-fisher's punt used on certain British rivers. They are sculled, not what we should call rowed, by two or four men with very heavy oars, and they stand up, using their thighs to rest the oars upon. I give the notes of one of these as accurately as I can, the words I am unable to translate. A very distinguished member of the Japanese naval college, perfectly acquainted with our language, assures me they have no meaning, that is, none that can be translated:</commentary>
 
-      <songTitle str="Japanese Rowing Song" originLocation="Japan" subject="sl">
-        <title str="Japanese Rowing Song">Japanese Rowing Song</title>
-      </songTitle>
+      <songTitle str="Japanese Rowing Song" originLocation="Japan" subject="sl">Japanese Rowing Song</songTitle>
 
       <lyrics str="Japanese Rowing Song">Hou-ra Hoi Sa-no San-ya Hou-yei-ya.</lyrics>
 
@@ -37,9 +33,7 @@ Quoth she, and whistles thrice."</quote>
 
       <commentary>Many harbours, as in our country, claim for their own certain chanties. Some of these become popular, and are soon heard all over Japan or wherever the Japanese flag is hoisted, but in some harbours the prerogative of singing them is retained. There is one sung when lifting heavy cargo, peculiar to the harbour of Matsumai, although its popularity amongst the sailors of other ports has led to its becoming an established Japanese sea-song. Matsumai is also the name of a great chieftain who lived in feudal times, and was a man of such renowned bravery that no one could beat him. He seems to have had no rival in strength, and has been handed down to posterity as a naval Samson. It is also sung when pulling the ropes, though more generally when lifting any heavy weight. While the solo is being sung, the rest hold themselves in readiness either to pull or to heave, as the case may be.</commentary>
 
-      <songTitle str="Matsumai" originLocation="Japan" subject="wk">
-        <title str="Matsumai">Matsumai (Japanese Sailors' Song)</title>
-      </songTitle>
+      <songTitle str="Matsumai" originLocation="Japan" subject="wk">Matsumai (Japanese Sailors' Song)</songTitle>
 
       <lyrics str="Matsumai">Mat-su-mai sa-ma-de-mo yaa yai.
 Yat-to Ro-se-i Yon-ya
@@ -56,9 +50,7 @@ Chorus: Ariya, ariya, riya, riya, riya."</lyrics>
 
 Then there is a short song for when they are scrubbing or, as we say, holystoning the decks. It is sung in chorus, and has, at least to us, no meaning. It seems to help them, however, in their work, and, as far as I have been able to learn, is the only one they use for this purpose.</commentary>
 
-      <songTitle str="Japanese Chorus Used When Scrubbing the Decks" originLocation="Japan" subject="wk">
-        <title str="Japanese Chorus Used When Scrubbing the Decks">Japanese Chorus Used When Scrubbing the Decks</title>
-      </songTitle>
+      <songTitle str="Japanese Chorus Used When Scrubbing the Decks" originLocation="Japan" subject="wk">Japanese Chorus Used When Scrubbing the Decks</songTitle>
 
       <lyrics str="Japanese Chorus Used When Scrubbing the Decks">Yoito Ivor-as a-mo Yass-kin-ya.</lyrics>
 
@@ -66,9 +58,7 @@ Then there is a short song for when they are scrubbing or, as we say, holystonin
 
 I give a few of the notes which will show the style of the music; it is to our ideas monotonous, as there are many verses and only these few tones to set them to:</commentary>
 
-      <songTitle str="Nagareyama" originLocation="Japan" subject="ss">
-        <title str="Nagareyama">Nagareyama (Song Sung During a Calm at Sea)</title>
-      </songTitle>
+      <songTitle str="Nagareyama" originLocation="Japan" subject="ss">Nagareyama (Song Sung During a Calm at Sea)</songTitle>
 
       <commentary>The first and third lines and second and fourth of this song are sung by the same men, not as soli but in chorus:</commentary>
 
@@ -109,9 +99,7 @@ The boatmen of the Nile are not less pious in their way than the rest of the Egy
 
 The singing of the sailors on the Nile has frequently been noticed and described. This usually consists of alternate solo and chorus in short phrases, and varies with the nature of the occupation in which the men happen to be engaged. Thus one particular air is sung when they shift the sails; another when the boat strikes on a sandy bank, and they are working to set it afloat again; a third when the wind is favourable and they give themselves up to singing con amore; a fourth when approaching a village, and so on. Several efforts have been made to procure more specimens of these Nile choruses, but unsuccessfully; I have met with one or two, however, which I give. The following is a sample of the songs used when approaching a village:</commentary>
 
-      <songTitle str="Nile Approach Song" originLocation="Egypt" subject="sl">
-        <title str="Nile Approach Song">Nile Approach Song</title>
-      </songTitle>
+      <songTitle str="Nile Approach Song" originLocation="Egypt" subject="sl">Nile Approach Song</songTitle>
 
       <lyrics str="Nile Approach Song">Hel-il fa-i-um val-la-dac ia
 Hel.
@@ -123,9 +111,7 @@ He! li-sa!</lyrics>
 
       <commentary>The next specimen is, I believe, one of those songs used when the wind is favourable, and good temper prevails with the crew. It is taken from Mr. McGregor's "Collection of Eastern Music."</commentary>
 
-      <songTitle str="Chorus" originLocation="Egypt" subject="sl">
-        <title str="Chorus">Chorus</title>
-      </songTitle>
+      <songTitle str="Chorus" originLocation="Egypt" subject="sl">Chorus</songTitle>
 
       <lyrics str="Chorus">Yul-la
 Yul-la nai-ly Ya sa-laa-my,
@@ -158,9 +144,7 @@ In Mr. W. D. Whitney's article on the Vedas, he gives amongst other portions of 
       <subheading>Viçvâmitra and the Rivers</subheading>
       <subheading>Rig-Veda, III. 33.</subheading>
 
-      <songTitle str="Vicvamitra" originLocation="India" subject="sl">
-        <title str="Vicvamitra">Viçvâmitra</title>
-      </songTitle>
+      <songTitle str="Vicvamitra" originLocation="India" subject="sl">Viçvâmitra</songTitle>
 
       <lyrics str="Vicvamitra">I. "Eager, from out the bosom of the mountains,
 A pair of courses like, let loose and running,
@@ -172,9 +156,7 @@ We stand beside the broad, auspicious Vipaç,
 Like mother-kine fondling their calves together,
 Unto a common home they're moving onward."</lyrics>
 
-      <songTitle str="The Rivers" originLocation="India" subject="sl">
-        <title str="The Rivers">The Rivers</title>
-      </songTitle>
+      <songTitle str="The Rivers" originLocation="India" subject="sl">The Rivers</songTitle>
 
       <lyrics str="The Rivers">4. "Thus move we onward, swelling with our waters,
 To find a home that's by the gods appointed;
@@ -224,9 +206,7 @@ The following song is a sort of labour-song or chant of the Madras boatmen. The 
 
       <commentary>The Madras boat-song I give next I obtained from Dr. Crotch's "Specimens" (No. 326). It is sung by the steersman and crew:</commentary>
 
-      <songTitle str="Dandee Song" originLocation="India" subject="bt">
-        <title str="Dandee Song">Dandee Song (Bengalese Boatmen)</title>
-      </songTitle>
+      <songTitle str="Dandee Song" originLocation="India" subject="bt">Dandee Song (Bengalese Boatmen)</songTitle>
 
       <commentary>The two following songs are both favourites with the boatmen:</commentary>
 
@@ -287,9 +267,7 @@ Before another day?"</lyrics>
 
       <commentary>The Taza b-Taza is one of the most popular songs sung by the Indian boatmen, although it is of Persian origin, written by the poet Hafiz, and will be found in the Goolistan "Rose Garden."</commentary>
 
-      <songTitle str="Taza b-Taza" originLocation="India" subject="sl">
-        <title str="Taza b-Taza">Taza b-Taza</title>
-      </songTitle>
+      <songTitle str="Taza b-Taza" originLocation="India" subject="sl">Taza b-Taza</songTitle>
 
       <subheading>Indian Version</subheading>
 
@@ -314,9 +292,7 @@ Jump into the river hand in hand.</lyrics>
 
       <commentary>The words of the "Bhiertpoor Dirge," which follow, are Bengalese; and the air to which they are set, although of a very plaintive nature, is a great favourite with the Indian boatmen.</commentary>
 
-      <songTitle str="Bhiertpoor Dirge" originLocation="India" subject="dt">
-        <title str="Bhiertpoor Dirge">Bhiertpoor Dirge</title>
-      </songTitle>
+      <songTitle str="Bhiertpoor Dirge" originLocation="India" subject="dt">Bhiertpoor Dirge</songTitle>
 
       <subheading>Indian Version</subheading>
 
@@ -341,9 +317,7 @@ The Lord Sahib has come to play.</lyrics>
 
       <commentary>The waters of the Brahmaputra are so shallow, owing to the sand banks, that the leadsmen are bound to plumb all the way up to Dibrugarh, the head-waters of the Brahmaputra, which go up amongst the Himalayas. The monotonous chant — for such it is — of the leadsman "Teen bom milla ne," or "Three fathoms and no bottom," deserves, I think, to be mentioned, if only to commend the patience with which it is almost unceasingly repeated for the three thousand miles of the voyage.</commentary>
 
-      <songTitle str="Teen Bom Milla Ne" originLocation="India" subject="wk">
-        <title str="Teen Bom Milla Ne">Teen Bom Milla Ne</title>
-      </songTitle>
+      <songTitle str="Teen Bom Milla Ne" originLocation="India" subject="wk">Teen Bom Milla Ne</songTitle>
 
       <lyrics str="Teen Bom Milla Ne">Sarra — Half.
 Ek to bom — One fathom.
@@ -370,13 +344,9 @@ Pleasure, howe'er disguised by art, pursue."
 "Let observation with extensive view
 Survey mankind from China to Peru."</quote>
 
-      <songTitle str="Chinese Song" originLocation="China" subject="sl">
-        <title str="Chinese Song">Chinese Song</title>
-      </songTitle>
+      <songTitle str="Chinese Song" originLocation="China" subject="sl">Chinese Song</songTitle>
 
-      <songTitle str="Chinese Boatman's Song" originLocation="China" subject="bt">
-        <title str="Chinese Boatman's Song">Chinese Boatman's Song</title>
-      </songTitle>
+      <songTitle str="Chinese Boatman's Song" originLocation="China" subject="bt">Chinese Boatman's Song</songTitle>
 
       <subheading>The Captain</subheading>
 
@@ -384,9 +354,7 @@ Survey mankind from China to Peru."</quote>
 
 Whatever our opinion of Chinese music may be, it cannot be less flattering than theirs of ours. A very intelligent Chinese, on hearing some music of Rameau's and other French composers, hinted politely that it was sadly devoid of meaning and expression, while the music of his own country penetrated to the innermost soul. The common scale of the Chinese consists of only five different intervals. The number five appears to be an especially mysterious one with the Chinese. I give this almost national tune a place amongst the water melodies, as it is a great favourite on sea as well as on land, and it is a fair specimen of Chinese song.</commentary>
 
-      <songTitle str="Moo-Lee-Wha" originLocation="China" subject="sl">
-        <title str="Moo-Lee-Wha">Chinese Air: Moo-Lee-Wha</title>
-      </songTitle>
+      <songTitle str="Moo-Lee-Wha" originLocation="China" subject="sl">Chinese Air: Moo-Lee-Wha</songTitle>
 
       <commentary>Sir John Barrow gives an English translation of the words of the song "Moo-lee-wha"; it is in praise of the flower Moo-lee:</commentary>
 
@@ -401,9 +369,7 @@ Wear it, yet fear, the flower seen, men will envy.</lyrics>
 
       <commentary>As the gondoliers of Venice while away their long midnight hours on the waters with strophes of Tasso, the Greek sailors of the Archipelago with fragments of Homer, so the trackers in China accompany their severe labour with a song.</commentary>
 
-      <songTitle str="Song of Chinese Rowers" originLocation="China" subject="wk">
-        <title str="Song of Chinese Rowers">Song of Chinese Rowers</title>
-      </songTitle>
+      <songTitle str="Song of Chinese Rowers" originLocation="China" subject="wk">Song of Chinese Rowers</songTitle>
 
       <subheading>Solo by the Master</subheading>
 
@@ -423,9 +389,7 @@ Hai-yo hai-yan!</lyrics>
 
       <commentary>It is said of the Maories, in New Zealand, that they are so much attached to singing as often to spend the entire night in its gratification, and all work is prosecuted with the aid of song. Mr. Shortland has collected the words of several of the songs or, more properly speaking, chants which are used by the Maories when they are hauling heavy logs of wood or canoes overland, in order to ensure a simultaneous effort of the men engaged in the work. The five lines at the commencement, called Puwha or Hari, are sung by a single voice, to prepare the labourers for pulling, and the lines which follow the Puwha are sung alternately, solo and tutti, the labourers always responding in chorus to the singing of the leader, and hauling the boat at the same instant all together:</commentary>
 
-      <songTitle str="Maori Hauling Chant" originLocation="New Zealand" subject="wk">
-        <title str="Maori Hauling Chant">Maori Hauling Chant</title>
-      </songTitle>
+      <songTitle str="Maori Hauling Chant" originLocation="New Zealand" subject="wk">Maori Hauling Chant</songTitle>
 
       <lyrics str="Maori Hauling Chant">Solo. "Pull, Tainui, pull the Arawa,
 To launch them on the ocean.
@@ -491,9 +455,7 @@ I will do so, and so must you.'
 
 In their trips from town to town they are generally on parties of pleasure termed Malanga, and are frequently to be met with singing their boat-songs."</commentary>
 
-      <songTitle str="Songs of the Samoan Islanders" originLocation="Samoa" subject="bt">
-        <title str="Songs of the Samoan Islanders">Songs of the Samoan Islanders</title>
-      </songTitle>
+      <songTitle str="Songs of the Samoan Islanders" originLocation="Samoa" subject="bt">Songs of the Samoan Islanders</songTitle>
 
       <lyrics str="Samoan Boat Song 1">Fo-fa-e,
 Fo-fa-e.
@@ -528,9 +490,7 @@ To wear the coarser mats of Toofooa and Kaoo!</lyrics>
 
       <commentary>Most of their song-words are in the Samoan language. The following is a specimen of the paddling-songs, which really form the principal water-music of the Tonga Islands:</commentary>
 
-      <songTitle str="Tongese Water-Song" originLocation="Tonga" subject="bt">
-        <title str="Tongese Water-Song">Tongese Water-Song</title>
-      </songTitle>
+      <songTitle str="Tongese Water-Song" originLocation="Tonga" subject="bt">Tongese Water-Song</songTitle>
 
       <lyrics str="Tongese Water-Song">Oiaooe! gooa mow teoo felow,
 Ca toogoo Moonga-lafa, bea mo Talao!
@@ -858,9 +818,7 @@ Let me be understood. The British or American mariner of to-day is as hearty, ni
 
       <subheading>Burying the Dead Horse</subheading>
 
-      <songTitle str="Burying the Dead Horse" originLocation="Unknown" subject="dk">
-        <title str="Burying the Dead Horse">Burying the Dead Horse</title>
-      </songTitle>
+      <songTitle str="Burying the Dead Horse" originLocation="Unknown" subject="dk">Burying the Dead Horse</songTitle>
 
       <lyrics str="Burying the Dead Horse">Auctioneer. "A poor old man came riding by.
 Chorus. And they say so, and they hope so.
