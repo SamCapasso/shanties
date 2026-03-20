@@ -1,0 +1,11 @@
+3/18/2026
+
+Josh, Sam, Ali, and Andrew were in attendance.
+
+3/4 sections of markup are complete. 
+
+members deleted title str elements and origin time elements if needed
+
+schema: added legend and love as themes 
+
+members pushed files to GitHub

@@ -1,3 +1,4 @@
+
 Response 1:
 Here's the cleaned text. Here's a summary of what I did:
 Removed: All OCR-garbled sheet music notation — the strings of random letters, numbers, and symbols that the scanner misread from the printed staves. There were dozens of these passages throughout the text, appearing under song titles like Norsk Sjomandssang, Ruffen, The Lorelei, Ankunft in Hamburg, and so on.
@@ -42,4 +43,5 @@ Structure: Each of the five national chapters is its own <section> with sequenti
 Song titles without names: Several songs had no given title (e.g., the Atlantic champagne song, the Hamburg song). I assigned descriptive titles in the str attribute to keep them identifiable, while making clear in the element content what they are.
 Sheet music placeholders: Where only sheet music existed and no lyrics were recoverable, I used a [Sheet music only — no words recorded] note inside the <lyrics> element rather than leaving it empty, so the element remains valid and the absence of lyrics is documented.
 Subject codes: A few songs could reasonably fall under more than one category. For example, "Ankunft in Hamburg" is both a work chanty and a homecoming song — I tagged it hs since homecoming is its dominant theme. Your group may want to revisit any of these judgment calls.
+>>>>>>> 2edbde2bac2b63aefb1cf4a0911941a74e98ad74
 originTime: Almost all songs lack a datable composition year, so I used "N/A" throughout. The exceptions like "London Bridge" (historical event ~1014) and the Vinland songs (~986) could be updated with approximate dates if your group decides to use xsd:gYear values for those.
