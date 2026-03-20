@@ -5780,7 +5780,7 @@ x
     <!-- SECTION 1: KEELMEN'S AND FISHERMEN'S SONGS,                  -->
     <!--             AND SONGS OF THE PRESS GANG ON TYNESIDE          -->
     <!-- ============================================================ -->
-    <section id="1">
+    <section id="3">
       <pg id="108"/>
       <heading>Weel May the Keel Row</heading>
 
@@ -6274,7 +6274,7 @@ x
     <!-- ============================================================ -->
     <!-- SECTION 2: FRENCH SAILORS' AND BOATMEN'S SONGS (continued)  -->
     <!-- ============================================================ -->
-    <section id="2">
+    <section id="4">
       <pg id="155"/>
       <heading>French Sailors' and Boatmen's Songs (continued)</heading>
 
@@ -6870,7 +6870,7 @@ x
     <!-- SECTION 3: ITALIAN SAILORS', NEAPOLITAN FISHERMEN'S,         -->
     <!--             AND VENETIAN GONDOLIERS' SONGS                   -->
     <!-- ============================================================ -->
-    <section id="3">
+    <section id="6">
       <heading>Italian Sailors', Neapolitan Fishermen's, and Venetian Gondoliers' Songs</heading>
 
       <!-- Devotional hymn; music only: superstition / religious custom -->
