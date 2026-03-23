@@ -7354,36 +7354,8 @@ x
 
       <pg id="199"/>
 <!--Start of markup section 3-->
-<?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="Schema.rnc" type="application/relax-ng-compact-syntax"?>
-<book>
 
-  <preamble>
-    <title str="Music of the Waters">Music of the Waters</title>
-    <subtitle>Sailors' Songs and Ballads</subtitle>
-    <byline>Laura Alexandrine Smith</byline>
-    <tableOfContents>
-      <heading>Table of Contents</heading>
-      <item pageNumber="203">
-        <title str="Scandinavian Sea-Songs">Scandinavian Sea-Songs</title>
-      </item>
-      <item pageNumber="223">
-        <title str="German Sailors' Songs">German Sailors' Songs</title>
-      </item>
-      <item pageNumber="241">
-        <title str="Dutch Sailors' and Herring-Fishers' Songs">Dutch Sailors' and Herring-Fishers' Songs</title>
-      </item>
-      <item pageNumber="251">
-        <title str="Russian Sailors' Songs">Russian Sailors' Songs</title>
-      </item>
-      <item pageNumber="271">
-        <title str="Greek Songs">Greek Songs</title>
-      </item>
-    </tableOfContents>
-  </preamble>
-
-  <content>
 
     <!-- ============================================================ -->
     <!-- SECTION 1: SCANDINAVIAN SEA-SONGS                           -->
@@ -8693,14 +8665,9 @@ And to the masts the mariners kept hanging in the rigging.</lyrics>
 
     </section>
 
-  </content>
 
-  <postamble>
-    <dedication>N/A</dedication>
-    <version>Marked up from Internet Archive digitization of Music of the Waters by Laura Alexandrine Smith. Sheet music passages replaced with placeholder notes. Markup prepared for research project analysis.</version>
-  </postamble>
 
-</book>
+
 <!--End of markup section 3-->
 <!--Start of markup section 4-->
     <section id="12">
@@ -9633,7 +9600,6 @@ Why is there never repose for thee?
 Why slumberest thou not, oh, mighty sea?"</lyrics>
     </section>
       
-</content>
 
   <postamble>
     <dedication>To the Critics:
