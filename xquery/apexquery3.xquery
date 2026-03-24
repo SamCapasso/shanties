@@ -1,8 +1,13 @@
 declare option saxon:output "method = html";
 
-declare variable $sections := collection("parent::shanties/xml/?select = Section\ 1\ Markup.xml, Markup2Unified.xml, gp-section3.xml, shanties.markup.section.4.xml");
-declare variable $originLocations := $sections//songTitle/@originLocation;
-declare variable $subjects := $sections//songTitle/@subject;
+declare variable $section1 := doc("../xml/Section 1 Markup.xml");
+declare variable $section2 := doc("../xml/Markup2Unified.xml");
+declare variable $section3 := doc("../xml/gp-section3.xml");
+declare variable $section4 := doc("../xml/shanties.markup.section.4.xml");
+declare variable $sections := ($section1 | $section2 | $section3 | $section4);
+
+declare variable $originLocations := $sections//songTitle/@originLocation/data()=>distinct-values();
+declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-values();
 
 <html>
     <head>
@@ -25,7 +30,7 @@ declare variable $subjects := $sections//songTitle/@subject;
             <li>lg = legend</li>
             <li>lv = love</li>
         </ul>
-        <p>Alphebetized, tiered list:</p>
+        <p>Alphabetized, tiered list:</p>
         <ul>{for $originLocation in $originLocations
             order by $originLocation
             return <li>{$originLocation}<ul><li>{
