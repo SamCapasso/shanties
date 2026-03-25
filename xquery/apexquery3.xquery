@@ -6,6 +6,7 @@ declare variable $section3 := doc("../xml/gp-section3.xml");
 declare variable $section4 := doc("../xml/shanties.markup.section.4.xml");
 declare variable $sections := ($section1 | $section2 | $section3 | $section4);
 
+declare variable $songTitles := $sections//songTitle;
 declare variable $originLocations := $sections//songTitle/@originLocation/data()=>distinct-values();
 declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-values();
 
@@ -33,12 +34,12 @@ declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-val
         <p>Alphabetized, tiered list:</p>
         <ul>{for $originLocation in $originLocations
             order by $originLocation
-            return <li>{$originLocation}<ul><li>{
+            return <li>{$originLocation}<ul>{
                 for $subject in $subjects
-                    let $subjectNumber := $subjects=>count()
-                    where $sections/songTitle/@originLocation = $originLocation
+                    let $subjectNumber := $songTitles[./@originLocation = $originLocation][./@subject = $subject]=>count()
+                    where $subjectNumber > 0
                     order by $subject
-                    return concat($subject, ": ", $subjectNumber)}</li></ul></li>
+                    return <li>{$subject}: {$subjectNumber}</li>}</ul></li>
         }</ul>
     </body>
 </html>
