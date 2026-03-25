@@ -1,11 +1,6 @@
 declare option saxon:output "method = html";
 
-declare variable $section1 := doc("../xml/Section 1 Markup.xml");
-declare variable $section2 := doc("../xml/Markup2Unified.xml");
-declare variable $section3 := doc("../xml/gp-section3.xml");
-declare variable $section4 := doc("../xml/shanties.markup.section.4.xml");
-declare variable $sections := ($section1 | $section2 | $section3 | $section4);
-
+declare variable $sections := doc("../xml/MusicOfTheWaters");
 declare variable $songTitles := $sections//songTitle;
 declare variable $originLocations := $sections//songTitle/@originLocation/data()=>distinct-values();
 declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-values();
