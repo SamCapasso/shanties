@@ -5789,7 +5789,7 @@ x
       <commentary>For a genuine description of keels and keelmen, their origin, degeneration, etc., I should recommend a perusal of Mr. Charleton's most interesting book, "Newcastle Town." There will be found a true account of these most quaint craft and quainter craftsmen, beginning with their lineal descent from the "Chiules" of the ancient Scandinavian rovers, in which, nearly five hundred years before Columbus saw America, the adventurous Norsemen crossed the Atlantic and visited Labrador, Newfoundland, and New England. "They were," he says, "wonderfully fine sailors, and a beautiful sight it was to see a fleet of keels manned by the Tyne keelmen — the finest sailors and handlers of craft in England — beating up-river against a head-wind." It is probable that the keel has sailed the waters of the Tyne ever since the Saxon invasion.</commentary>
 
       <!-- A keelwoman waits and sings about her working laddie on the keel: sea life -->
-      <songTitle str="Weel May the Keel Row" originLocation="Newcastle-upon-Tyne, England"  subject="sl">
+      <songTitle str="Weel May the Keel Row" originLocation="England"  subject="sl">
         Weel May the Keel Row
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -5936,7 +5936,7 @@ x
       </lyrics>
 
       <!-- Lasses call men ashore; liberty from service celebrated: sea life -->
-      <songTitle str="Liberty for the Sailors" originLocation="Tyneside, England"  subject="sl">
+      <songTitle str="Liberty for the Sailors" originLocation="England"  subject="sl">
         Liberty for the Sailors
       </songTitle>
       <lyrics str="English">
@@ -5961,7 +5961,7 @@ x
       <pg id="115"/>
 
       <!-- Sailors stranded at the bar, unable to reach Newcastle: sea life -->
-      <songTitle str="The Sailors Are All at the Bar" originLocation="Newcastle-upon-Tyne / Shields, England"  subject="sl">
+      <songTitle str="The Sailors Are All at the Bar" originLocation="England"  subject="sl">
         The Sailors Are All at the Bar
       </songTitle>
       <lyrics str="English">
@@ -5979,7 +5979,7 @@ x
       <commentary>The foregoing songs and remarks on the press-gang I have taken from the book of "Northumbrian Minstrelsy," published by the Society of Antiquaries of Newcastle-upon-Tyne. The following is to this day a great favourite amongst the watermen of Tyneside:</commentary>
 
       <!-- Keelman going overland to moor the keel: work -->
-      <songTitle str="The Keelman Ower Land" originLocation="Tyneside, England"  subject="wk">
+      <songTitle str="The Keelman Ower Land" originLocation="England"  subject="wk">
         The Keelman Ower Land
       </songTitle>
       <lyrics str="English/Scots dialect">[Music only — no lyrics recorded]</lyrics>
@@ -5989,7 +5989,7 @@ x
       <commentary>There is another song to the tune of "The bonny Pit Laddie," named "The bonny Keel Laddie":</commentary>
 
       <!-- Celebration of the keel worker and his labour: work -->
-      <songTitle str="The Bonny Keel Laddie" originLocation="Tyneside, England"  subject="wk">
+      <songTitle str="The Bonny Keel Laddie" originLocation="England"  subject="wk">
         The Bonny Keel Laddie
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6010,7 +6010,7 @@ x
       </lyrics>
 
       <!-- Tune only; associated with pit and keel labour: work -->
-      <songTitle str="The Bonny Pit Laddie" originLocation="Tyneside, England"  subject="wk">
+      <songTitle str="The Bonny Pit Laddie" originLocation="England"  subject="wk">
         The Bonny Pit Laddie
       </songTitle>
       <lyrics str="English/Scots dialect">[Music only — no lyrics recorded in this section]</lyrics>
@@ -6020,13 +6020,13 @@ x
       <commentary>The following air was a great favourite with Tynesiders, but I have failed to discover any verses for it:</commentary>
 
       <!-- Air only; no lyrics; associated with the Sandhill area of Newcastle: sea life -->
-      <songTitle str="Sandhill Corner" originLocation="Newcastle-upon-Tyne, England"  subject="sl">
+      <songTitle str="Sandhill Corner" originLocation="England"  subject="sl">
         Sandhill Corner
       </songTitle>
       <lyrics str="N/A">[Music only — no lyrics recorded]</lyrics>
 
       <!-- Fisher lad courts a girl on the Northumberland coast: sea life -->
-      <songTitle str="O! The Bonny Fisher Lad" originLocation="Bamburgh, Northumberland, England"  subject="sl">
+      <songTitle str="O! The Bonny Fisher Lad" originLocation="England"  subject="sl">
         O! The Bonny Fisher Lad
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6061,7 +6061,7 @@ x
       <pg id="118"/>
 
       <!-- A woman waits for her lad at the sandbar: homesickness / longing -->
-      <songTitle str="Blaw the Wind Southerly" originLocation="Tyneside, England"  subject="hs">
+      <songTitle str="Blaw the Wind Southerly" originLocation="England"  subject="hs">
         Blaw the Wind Southerly
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6078,7 +6078,7 @@ x
       <pg id="119"/>
 
       <!-- A woman cannot cross the Tyne to reach her sweetheart: homesickness / longing -->
-      <songTitle str="The Water of Tyne" originLocation="River Tyne, England"  subject="hs">
+      <songTitle str="The Water of Tyne" originLocation="England"  subject="hs">
         The Water of Tyne
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6101,7 +6101,7 @@ x
       <pg id="120"/>
 
       <!-- Anglers leave the Tyne for the Coquet; fishing as departure and work: departure -->
-      <songTitle str="Nae Mair We'll Fish the Coolly Tyne" originLocation="Northumberland, England"  subject="dp">
+      <songTitle str="Nae Mair We'll Fish the Coolly Tyne" originLocation="England"  subject="dp">
         Nae Mair We'll Fish the Coolly Tyne
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6143,7 +6143,7 @@ x
       <commentary>The River Coquet, according to the local anglers' songs, is superior to all the other Northumbrian rivers for its fishing.</commentary>
 
       <!-- Praise of the River Coquet for fishing; includes drinking toasts: drinking -->
-      <songTitle str="The Coquet for Ever" originLocation="River Coquet, Northumberland, England"  subject="dk">
+      <songTitle str="The Coquet for Ever" originLocation="England"  subject="dk">
         The Coquet for Ever
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -6168,7 +6168,7 @@ x
       </lyrics>
 
       <!-- Patriotic toasts to the Tyne and keelmen; drinking song: drinking -->
-      <songTitle str="Coaly Tyne" originLocation="River Tyne, England"  subject="dk">
+      <songTitle str="Coaly Tyne" originLocation="England"  subject="dk">
         Coaly Tyne (Tyne River Song)
       </songTitle>
       <lyrics str="English">
@@ -6201,7 +6201,7 @@ x
       <commentary>The fisherfolk who belong to that most quaint north-country village, Cullercoats, have acquired for themselves a celebrity that is only rivalled by one or two other similar places. Their fresh vigorous hardihood, fearless boldness, and thrifty ways have long been characteristic of them, but it is perhaps to the Cullercoats fishwives that the fact of their wide-spread popularity is especially due, with their warm and at all times seasonable-looking costumes, their always fresh and comely and sometimes really bonny faces, and their creels of tempting fish; the Cullercoats fishwives are familiar and welcome objects in the streets of Newcastle-upon-Tyne, and their oft-repeated cries of "Will ye buy any fish?" and "Shares o' caller ling," are perhaps amongst some of the most original cries to be heard on the banks of the Tyne. The peculiarly prolonged notes in which the "Buy any fish?" is called, make it very difficult to render accurately.</commentary>
 
       <!-- Street cry of fishwives selling their catch: work -->
-      <songTitle str="Cullercoats Fishwives Street Cry" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+      <songTitle str="Cullercoats Fishwives Street Cry" originLocation="England"  subject="wk">
         Cullercoats Fishwives Street Cry: Will Ye Buy Any Fish?
       </songTitle>
       <lyrics str="English/Northumbrian dialect">[Music only — street cry, no set lyrics recorded]</lyrics>
@@ -6211,7 +6211,7 @@ x
       <commentary>The "Shares o' caller ling," on the contrary, is given much sharper, and repeated very frequently.</commentary>
 
       <!-- Street cry of fishwives selling ling: work -->
-      <songTitle str="Shares O' Caller Ling" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+      <songTitle str="Shares O' Caller Ling" originLocation="England"  subject="wk">
         Shares O' Caller Ling
       </songTitle>
       <lyrics str="English/Northumbrian dialect">[Music only — street cry, no set lyrics recorded]</lyrics>
@@ -6219,7 +6219,7 @@ x
       <commentary>They have furthermore been immortalized in verse. I am not very certain that the following is correct, but at least it is one version of the poem:</commentary>
 
       <!-- Poem celebrating the fishwives and their trade: work -->
-      <songTitle str="The Cullercoats Fishwives" originLocation="Cullercoats, Northumberland, England"  subject="wk">
+      <songTitle str="The Cullercoats Fishwives" originLocation="England"  subject="wk">
         The Cullercoats Fishwives (poem)
       </songTitle>
       <lyrics str="English">
@@ -6234,7 +6234,7 @@ x
       <commentary>The old cry of the herring-sellers of Newcastle-upon-Tyne was a much more lengthy one, and sometimes consisted of a set of doggerel verses which, if they were approved by the good people of the "canny toon," in those bygone days, they must have been scarcely as sensitive and refined as one would like to imagine the ancestors of the present generation of Novocastrians.</commentary>
 
       <!-- Street cry of herring sellers: work -->
-      <songTitle str="Caller Herrin' Street Cry" originLocation="Newcastle-upon-Tyne, England"  subject="wk">
+      <songTitle str="Caller Herrin' Street Cry" originLocation="England"  subject="wk">
         Caller Herrin' Street Cry
       </songTitle>
       <lyrics str="English/Tyneside dialect">
@@ -6252,7 +6252,7 @@ x
       <commentary>Any one who is acquainted with the city on the coaly Tyne will recognize in the "Fower a penny" the vernacular of the vendors of oranges, who line the streets during the winter season. The chief magistrate and corporation of Newcastle-upon-Tyne still keep up annually one of the most ancient water customs, namely, that of going in a procession in barges down the River Tyne to inspect the boundaries. This ceremony takes place on Ascension Day, commonly known as "Barge Day."</commentary>
 
       <!-- Watermen's roundel honouring the Lord Mayor's river procession: sea life -->
-      <songTitle str="Row the Boat, Norman" originLocation="London, England" originTime="1453" subject="sl">
+      <songTitle str="Row the Boat, Norman" originLocation="London" originTime="1453" subject="sl">
         Row the Boat, Norman / Whittington
       </songTitle>
       <lyrics str="English">
@@ -6279,10 +6279,10 @@ x
       <heading>French Sailors' and Boatmen's Songs (continued)</heading>
 
       <!-- Fisherman sings of contentment on the water with his nets and skiff: sea life -->
-      <songTitle str="Le Pecheur" originLocation="Provence / France"  subject="sl">
+      <songTitle str="Le Pecheur" originLocation="France"  subject="sl">
         Le Pecheur / The Fisherman
       </songTitle>
-      <lyrics str="French / English">
+      <lyrics str="English">
         FRENCH VERSION:
         Plus legere que l'hirondelle,
         Comme ma gentille nacelle
@@ -6349,7 +6349,7 @@ x
       <pg id="156"/>
 
       <!-- Orphan cabin boy laments his life at sea, far from home: homesickness -->
-      <songTitle str="La Chanson du Mousse" originLocation="Brittany, France"  subject="hs">
+      <songTitle str="La Chanson du Mousse" originLocation="France"  subject="hs">
         La Chanson du Mousse / The Cabin Boy's Song
       </songTitle>
       <lyrics str="French / English">
@@ -6415,7 +6415,7 @@ x
       <commentary>Many will be familiar with the two French sea-songs which follow, "Pauvre Pierre" and the lovely "Une Fleur pour Reponse." They are great favourites amongst the sailors. I well remember hearing a splendid old Breton mariner singing the latter; there was a whole world of pathos in his way of rendering it, and of unconscious rugged grandeur in the picture he himself presented.</commentary>
 
       <!-- Sailor departs and begs a farewell token from his beloved: departure -->
-      <songTitle str="Une Fleur pour Reponse" originLocation="Brittany, France"  subject="dp">
+      <songTitle str="Une Fleur pour Reponse" originLocation="France"  subject="dp">
         Une Fleur pour Reponse / A Flower for an Answer
       </songTitle>
       <lyrics str="French / English">
@@ -6469,7 +6469,7 @@ x
       <pg id="158"/>
 
       <!-- Sailor sells himself to feed his family, departs, and never returns; mother mourns: death -->
-      <songTitle str="Pauvre Pierre" originLocation="France (forecastle / naval)"  subject="dt">
+      <songTitle str="Pauvre Pierre" originLocation="France"  subject="dt">
         Pauvre Pierre / Poor Peter
       </songTitle>
       <lyrics str="French / English">
@@ -6509,7 +6509,7 @@ x
       <commentary>The story of "Pauvre Pierre" is an undoubted forecastle favourite with Jack in France. This is another very favourite song in Provence with the fishermen:</commentary>
 
       <!-- Provencal fishermen's song; music only: sea life -->
-      <songTitle str="Li Martegan" originLocation="Provence, France"  subject="sl">
+      <songTitle str="Li Martegan" originLocation="France"  subject="sl">
         Li Martegan
       </songTitle>
       <lyrics str="Provencal">[Music only — lyrics in Provencal dialect, no translation recorded in this section]</lyrics>
@@ -6527,7 +6527,7 @@ x
       <pg id="162"/>
 
       <!-- Bargemen haul boats up the Rhone; describes the labour of towing crews: work -->
-      <songTitle str="Lou Revestidon" originLocation="River Rhone, France (Lyons to Avignon)"  subject="wk">
+      <songTitle str="Lou Revestidon" originLocation="France"  subject="wk">
         Lou Revestidon / Les Equipages du Rhone / The Boats' Crews of the Rhone
       </songTitle>
       <lyrics str="Provencal / French / English">
@@ -6762,7 +6762,7 @@ x
       <pg id="166"/>
 
       <!-- Fishermen's prayer to Saint Anne before a voyage; supplication for protection: superstition / religious custom -->
-      <songTitle str="Hymn to Saint Anne" originLocation="Brittany, France"  subject="ss">
+      <songTitle str="Hymn to Saint Anne" originLocation="France"  subject="ss">
         Hymn to Saint Anne (French Fishermen's Hymn)
       </songTitle>
       <lyrics str="English (translation)">
@@ -6812,7 +6812,7 @@ x
       <commentary>"La Corsairienne" is another favourite rowing-song:</commentary>
 
       <!-- Corsair rowing chanty; victory or death battle cry: battle -->
-      <songTitle str="La Corsairienne" originLocation="Saint-Malo, France"  subject="bt">
+      <songTitle str="La Corsairienne" originLocation="France"  subject="bt">
         La Corsairienne / Chant pour Ramer
       </songTitle>
       <lyrics str="French / English">
@@ -6891,7 +6891,7 @@ x
       <commentary>The following song of the well-known composer of Italian popular songs Paolo Tosti is a great favourite with the sailors of Italy. At least, this is the title by which the song is known, but the sailors will improvise their own words to the air, probably of some droll, lazy, impudent nature, such as delight the hearts of the fishermen of Naples.</commentary>
 
       <!-- Sailors' favourite air; improvised words about the sea: sea life -->
-      <songTitle str="Perche Vuoi Tu Fidas la Barca al Mare" originLocation="Naples, Italy"  subject="sl">
+      <songTitle str="Perche Vuoi Tu Fidas la Barca al Mare" originLocation="Italy"  subject="sl">
         Perche Vuoi Tu Fidas la Barca al Mare (Paolo Tosti)
       </songTitle>
       <lyrics str="Italian">[Music only — sailors improvise their own words to this air]</lyrics>
@@ -6902,7 +6902,7 @@ x
       <commentary>Santa Lucia is often sung by the fishermen of Naples, the gondoliers of Venice, and Italian seamen generally. It is truly of the barcarolla type, and seems thoroughly suited to water pursuits.</commentary>
 
       <!-- Barcarolla celebrating the sea and Naples by night: sea life -->
-      <songTitle str="Santa Lucia" originLocation="Naples, Italy / Venice, Italy"  subject="sl">
+      <songTitle str="Santa Lucia" originLocation="Italy"  subject="sl">
         Santa Lucia
       </songTitle>
       <lyrics str="Italian / English">
@@ -6980,7 +6980,7 @@ x
       <pg id="178"/>
 
       <!-- Fisherman laments his lost love Rosella; homesickness / longing for her: homesickness -->
-      <songTitle str="La Fata di Amalfi" originLocation="Amalfi, Italy"  subject="hs">
+      <songTitle str="La Fata di Amalfi" originLocation="Italy"  subject="hs">
         La Fata di Amalfi / The Fairy of Amalfi (Amalfi Boatmen's Serenade)
       </songTitle>
       <lyrics str="Neapolitan dialect / English">
@@ -7064,7 +7064,7 @@ x
       <pg id="179"/>
 
       <!-- Boatman bids farewell to Naples as he departs; longing for home: departure -->
-      <songTitle str="The Boatman's Farewell to Naples" originLocation="Naples, Italy"  subject="dp">
+      <songTitle str="The Boatman's Farewell to Naples" originLocation="Italy"  subject="dp">
         The Boatman's Farewell to Naples
       </songTitle>
       <lyrics str="Neapolitan dialect / English">
@@ -7112,7 +7112,7 @@ x
       <commentary>The song known as the Neapolitan "Water-Carrier's Song" may be perhaps deserving of a place in a collection of the "Music of the Waters."</commentary>
 
       <!-- Water-carrier's concealed love-lament; disguised courtship: sea life -->
-      <songTitle str="Fenesta Vascia" originLocation="Naples, Italy"  subject="sl">
+      <songTitle str="Fenesta Vascia" originLocation="Italy"  subject="sl">
         Fenesta Vascia / The Closed Window / The Water-Carrier's Song
       </songTitle>
       <lyrics str="Neapolitan dialect / English">
@@ -7163,7 +7163,7 @@ x
       <commentary>"La Carolina" or "Caroline" is a favourite with the Venetian gondoliers, as well as with the boatmen of Naples. The verses are so stupid that I feel tempted to suppress them, one verse may be perhaps enough to show the maudlin sentiment of them:</commentary>
 
       <!-- Light love song popular with gondoliers and Neapolitan boatmen: sea life -->
-      <songTitle str="La Carolina" originLocation="Venice / Naples, Italy"  subject="sl">
+      <songTitle str="La Carolina" originLocation="Italy"  subject="sl">
         La Carolina / Caroline
       </songTitle>
       <lyrics str="Neapolitan dialect / English">
@@ -7195,13 +7195,13 @@ x
       <commentary>The preceding song is the oldest Neapolitan fisherman's favourite. There are no words recorded for it; doubtless they have not been thought worthy of preservation.</commentary>
 
       <!-- Oldest known Neapolitan fisherman's song; music only: work -->
-      <songTitle str="Neapolitan Fisherman's Song" originLocation="Naples, Italy"  subject="wk">
+      <songTitle str="Neapolitan Fisherman's Song" originLocation="Italy"  subject="wk">
         Neapolitan Fisherman's Song (oldest favourite)
       </songTitle>
       <lyrics str="Italian">[Music only — no words recorded]</lyrics>
 
       <!-- Popular Neapolitan song; music only: sea life -->
-      <songTitle str="Popular Neapolitan Song" originLocation="Naples, Italy"  subject="sl">
+      <songTitle str="Popular Neapolitan Song" originLocation="Italy"  subject="sl">
         Popular Neapolitan Song
       </songTitle>
       <lyrics str="Italian">[Music only — no words recorded]</lyrics>
@@ -7220,7 +7220,7 @@ x
       <commentary>The fact of the Venetian boatmen chanting strophes of Tasso is mentioned again and again in books treating of the life on the lagoons. The gondoliers of Venice used to chant strophes of Tasso as they skimmed in and out of the lagoons; but that was in the days of Venice's historical prime. On St. Mary's Day one may hear them chanting the well-known "Sicilian Mariners' Hymn":</commentary>
 
       <!-- Mariners' hymn to the Virgin chanted before sailing; religious supplication: superstition / religious custom -->
-      <songTitle str="Sicilian Mariners' Hymn" originLocation="Sicily / Venice, Italy"  subject="ss">
+      <songTitle str="Sicilian Mariners' Hymn" originLocation="Italy"  subject="ss">
         Sicilian Mariners' Hymn (O Sanctissima)
       </songTitle>
       <lyrics str="Latin">
@@ -7246,7 +7246,7 @@ x
       <pg id="193"/>
 
       <!-- Sailor paints his love on his sail as he departs; departure and sea life: departure -->
-      <songTitle str="Song of a Mariner" originLocation="Venice / Istria, Italy"  subject="dp">
+      <songTitle str="Song of a Mariner" originLocation="Italy"  subject="dp">
         Song of a Mariner (Venetian)
       </songTitle>
       <lyrics str="English (translation)">
@@ -7293,7 +7293,7 @@ x
       <pg id="197"/>
 
       <!-- Gondoliers' chorus; music only: sea life -->
-      <songTitle str="Gondoliers' Chorus" originLocation="Venice, Italy"  subject="sl">
+      <songTitle str="Gondoliers' Chorus" originLocation="Italy"  subject="sl">
         Gondoliers' Chorus
       </songTitle>
       <lyrics str="Italian">[Music only — no lyrics recorded; marked Andantino]</lyrics>
@@ -7301,7 +7301,7 @@ x
       <commentary>The above is one of the favourite choruses of the gondoliers; and the following, a Sicilian boatman's song, "Love! Love!":</commentary>
 
       <!-- Sicilian boatman's love song; music only: sea life -->
-      <songTitle str="Love! Love! (Sicilian Boatman's Song)" originLocation="Sicily, Italy"  subject="sl">
+      <songTitle str="Love! Love! (Sicilian Boatman's Song)" originLocation="Italy"  subject="sl">
         Love ! Love ! (Sicilian Boatman's Song)
       </songTitle>
       <lyrics str="Italian">[Music only — no lyrics recorded beyond title]</lyrics>
@@ -7311,7 +7311,7 @@ x
       <commentary>With Clough's lovely poem, than which no more realistic description of the gondola exists, the author closes her remarks on the Italian watermen:</commentary>
 
       <!-- Clough's poem imagining life as effortless as a gondola gliding through Venice: sea life -->
-      <songTitle str="In a Gondola on the Grand Canal, Venice" originLocation="Venice, Italy"  subject="sl">
+      <songTitle str="In a Gondola on the Grand Canal, Venice" originLocation="Italy"  subject="sl">
         In a Gondola on the Grand Canal, Venice (Arthur Hugh Clough, poem)
       </songTitle>
       <lyrics str="English">
