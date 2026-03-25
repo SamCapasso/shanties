@@ -44,7 +44,7 @@ return                                               (: RETURN: structured summa
     <body>
         <h1>Love and Sadness Mentions</h1>
         <p>Sailors would often sing about lost loves and home while out on the open ocean. This is a breakdown of every time these are mentioned in <em>Music of the Waters</em>.</p>
-    for $song in /book/section/songTitle
+    {for $song in /book/section/songTitle
 let $lyrics := $song/following-sibling::lyrics[1]
 where contains(lower-case($lyrics), "love")      
    or contains(lower-case($lyrics), "farewell")
@@ -53,7 +53,7 @@ where contains(lower-case($lyrics), "love")
    or contains(lower-case($lyrics), "grief")
    or contains(lower-case($lyrics), "sad")
    or $song/@subject = "hs"                        
-   or $song/@subject = "dp"  
+   or $song/@subject = "dp"  }
    <table>
       <thead>
         <tr>
