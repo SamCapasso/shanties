@@ -1,0 +1,19 @@
+3/25/2026
+
+meeting minutes
+
+all members were in attendance. 
+
+went over and refined research questions: what shanties were popular in what countries; what are some of the major themes.
+
+fixed multiple countries in country of origin tag in xml markup
+
+cleanup remaining xml markup issues
+
+designated next checkpoint duties amongst members
+
+team page and creative commons- sam
+
+basic css file - ali
+
+draft of site menu - josh

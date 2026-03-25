@@ -13,11 +13,3 @@ let $locSongs := //songTitle[data(@originLocation) = $loc]/data(@str)
 where count($locSongs) > 1
 order by $loc ascending
 return concat("&#xa;", $loc, ": ", string-join($locSongs, " | ")) :)
-
-(:let $allSongs := //songTitle[@subject]
-let $subjects := $allSongs/data(@subject) => distinct-values()
-for $subj in $subjects
-let $subjCount := //songTitle[data(@subject) = $subj] => count()
-order by $subjCount descending
-return concat("&#xa;", $subj, " -- ", $subjCount, " songs") :)
-
