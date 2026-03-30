@@ -1,0 +1,12 @@
+Documentation - Checkpoint 4
+
+All members were in attendance for both meetings since last checkpoint. 
+Most of the markup was in the process of being completed. 
+Some manual cleanup was needed regarding the title str and origin time elements. 
+In the schema, legend and love were added as themes.
+We went over and refined research questions: What shanties were popular in what countries?; What are some of the major themes?
+Cleaned up the countries in country of origin tag to make it one country per shanty in members' xml markup. 
+Remaining cleanup of xml markup was completed. We designanted remaining duties amongst the members.
+Sam took team page and creative commons, Ali took basic CSS file and added it to the team page, and Josh took drafting the site menu. 
+All changes were pushed to repo successfully, barring some merge conflicts that have been since resolved.
+Since the last meeting, xml markup has been completed and associated to the schema. 
