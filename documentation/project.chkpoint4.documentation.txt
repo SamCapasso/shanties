@@ -8,5 +8,5 @@ We went over and refined research questions: What shanties were popular in what 
 Cleaned up the countries in country of origin tag to make it one country per shanty in members' xml markup. 
 Remaining cleanup of xml markup was completed. We designanted remaining duties amongst the members.
 Sam took team page and creative commons, Ali took basic CSS file and added it to the team page, and Josh took drafting the site menu. 
-All changes were pushed to repo successfully, barring some merge conflicts that have been since resolved.
+All members completed their assigned tasks. All changes were pushed to repo successfully, barring some merge conflicts that have been since resolved.
 Since the last meeting, xml markup has been completed and associated to the schema. 
