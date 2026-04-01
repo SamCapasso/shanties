@@ -1,0 +1,11 @@
+4_1_2026
+
+all members were in attendance.
+
+working on fixing issues of picture and navbar with musicofthewaterssite.html
+
+successfullly added picture of wave to website html
+
+pushed and pulled html files to repo
+
+discussed idea for home page: breakdown of project; breakdown by region, click on that and it will take you to our graphs/findings we have. also, we will have another data tab that takes you to the same place. 
