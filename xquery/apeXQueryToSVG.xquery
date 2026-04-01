@@ -17,6 +17,7 @@ declare variable $subjects := $songTitles/@subject/data()=>distinct-values();
                     let $subjectCount := $songTitles[./@subject = $subject]=>count()
                     where $subjectCount > 0
                     order by $subjectCount descending
+                    count $index
                     return
                         <g>
                             <text x = "{$xValue - 10}" y = "{$index * $yValue + 34}" text-anchor = "end">{$subject}</text>
