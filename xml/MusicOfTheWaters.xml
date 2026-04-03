@@ -4391,7 +4391,7 @@ THE SEALS.</commentary>
       <pg id="111"/>
 
       <!-- A woman laments marrying a keelman rather than a better trade: sea life (domestic side of sailor life) -->
-      <songTitle str="The Sandgate Lass's Lament" originLocation="Sandgate, Newcastle-upon-Tyne, England"  subject="sl">
+      <songTitle str="The Sandgate Lass's Lament" originLocation="England"  subject="sl">
         The Sandgate Lass's Lament
       </songTitle>
       <lyrics str="English">
@@ -4430,7 +4430,7 @@ THE SEALS.</commentary>
       <pg id="112"/>
 
       <!-- A loved one is taken by the press gang: departure (forced) -->
-      <songTitle str="O! The Lousy Cutter (Press Gang Song)" originLocation="Northumberland, England"  subject="dp">
+      <songTitle str="O! The Lousy Cutter (Press Gang Song)" originLocation="England"  subject="dp">
         O! The Lousy Cutter
       </songTitle>
       <lyrics str="English/Scots dialect">
@@ -4448,7 +4448,7 @@ THE SEALS.</commentary>
       <commentary>"Captain Bover," which follows, was one of the most popular "press-gang" songs:</commentary>
 
       <!-- Sailor dares not come ashore for fear of the press gang: departure (threat of forced conscription) -->
-      <songTitle str="Captain Bover" originLocation="Newcastle-upon-Tyne, England"  subject="dp">
+      <songTitle str="Captain Bover" originLocation="England"  subject="dp">
         Captain Bover
       </songTitle>
       <lyrics str="English/Tyneside dialect">
@@ -4467,7 +4467,7 @@ THE SEALS.</commentary>
       <pg id="114"/>
 
       <!-- The press tender arrives to take the men: departure (forced conscription) -->
-      <songTitle str="Here's the Tender Coming" originLocation="Shields, England"  subject="dp">
+      <songTitle str="Here's the Tender Coming" originLocation="England"  subject="dp">
         Here's the Tender Coming
       </songTitle>
       <lyrics str="English/Tyneside dialect">
@@ -4794,7 +4794,7 @@ THE SEALS.</commentary>
       <commentary>Any one who is acquainted with the city on the coaly Tyne will recognize in the "Fower a penny" the vernacular of the vendors of oranges, who line the streets during the winter season. The chief magistrate and corporation of Newcastle-upon-Tyne still keep up annually one of the most ancient water customs, namely, that of going in a procession in barges down the River Tyne to inspect the boundaries. This ceremony takes place on Ascension Day, commonly known as "Barge Day."</commentary>
 
       <!-- Watermen's roundel honouring the Lord Mayor's river procession: sea life -->
-      <songTitle str="Row the Boat, Norman" originLocation="London" subject="sl">
+      <songTitle str="Row the Boat, Norman" originLocation="England" subject="sl">
         Row the Boat, Norman / Whittington
       </songTitle>
       <lyrics str="English">
@@ -5923,7 +5923,7 @@ THE SEALS.</commentary>
 
       <pg id="205"/>
 
-      <songTitle str="Karlsefin's Song" originLocation="Iceland/Vinland" subject="sl">
+      <songTitle str="Karlsefin's Song" originLocation="Iceland" subject="sl">
         Karlsefin's Song
       </songTitle>
       <lyrics str="English">Where western waves were all unknown
@@ -6021,7 +6021,7 @@ And ho! for Vinland he made sail!</lyrics>
 
       <commentary>Mr. Ballantyne further tells us that Biarne is not a poet of very high standing; at least, one may judge from the rhyming of the two lines following, that he knew how to avail himself of one of the many privileges poets have, viz. to take out his licence: "And round about the ship it swum, / Striking each man and woman dumb!" In the same book, "The Norsemen in the West," we find another sea-song, which is set to a rattling tune:</commentary>
 
-      <songTitle str="The Danish Kings" originLocation="Ireland/Denmark" subject="bt">
+      <songTitle str="The Danish Kings" originLocation="Ireland" subject="bt">
         The Danish Kings
       </songTitle>
       <lyrics str="English">Solo. One night when one o' the Irish kings
@@ -6054,7 +6054,7 @@ Chorus. Oh! this is the way,</lyrics>
 
       <commentary>In Mr. Samuel Laing's admirable translation of Snorro Sturleson's "Heimskringla" (Chronicle of the Kings of Norway), there are many famous sea-songs; indeed, the volumes are so interspersed with them that it would be a difficult matter to make a selection from so inexhaustible a mine. Many of the same expressions and even sentiments that may be found in the modern sailor's songs are introduced in these old Icelandic Sagas; for instance, in the following:</commentary>
 
-      <songTitle str="The Sea-Horse" originLocation="Scandinavia" subject="sl">
+      <songTitle str="The Sea-Horse" originLocation="Iceland" subject="sl">
         The Sea-Horse
       </songTitle>
       <lyrics str="English">The hero who knows well to ride
@@ -6096,7 +6096,7 @@ For the bright arrows of the sea.</lyrics>
 
       <commentary>In the reign of King Magnus the Good (1035–1047) there appears to have been a great deal of fighting, and most of the songs of that period tell of battles by sea and land; some few lament the hardships of sea-life, such as:</commentary>
 
-      <songTitle str="No Drink But the Salt Sea" originLocation="Scandinavia" subject="sl">
+      <songTitle str="No Drink But the Salt Sea" originLocation="Norway" subject="wk">
         No Drink But the Salt Sea
       </songTitle>
       <lyrics str="English">No drink but the salt sea
@@ -6108,7 +6108,7 @@ Off Scandia's coast, had we;
 But we laboured for the king,
 To his foemen death to bring.</lyrics>
 
-      <songTitle str="Brave Magnus" originLocation="Scandinavia" subject="bt">
+      <songTitle str="Brave Magnus" originLocation="Norway" subject="bt">
         Brave Magnus
       </songTitle>
       <lyrics str="English">Brave Magnus, from the stern springing
@@ -6135,7 +6135,7 @@ And dead men rolled in every wave.</lyrics>
 
       <pg id="212"/>
 
-      <songTitle str="London Bridge is Broken Down" originLocation="England/Scandinavia" subject="bt">
+      <songTitle str="London Bridge is Broken Down" originLocation="Norway" subject="bt">
         London Bridge is Broken Down
       </songTitle>
       <lyrics str="English">London Bridge is broken down,
@@ -6171,7 +6171,7 @@ Brought victory back.</lyrics>
 
       <commentary>There is a Laplander's song by Sigurd, relative to their making boats, given also by Mr. Laing:</commentary>
 
-      <songTitle str="The Lapland Tent" originLocation="Lapland" subject="sl">
+      <songTitle str="The Lapland Tent" originLocation="Finland" subject="sl">
         The Lapland Tent
       </songTitle>
       <lyrics str="English">In the Lapland tent
@@ -6188,7 +6188,7 @@ And up with the smoke
 Flew laugh and joke,
 And a merry crew were we.</lyrics>
 
-      <songTitle str="Our Fin-Boats" originLocation="Lapland/Scandinavia" subject="sl">
+      <songTitle str="Our Fin-Boats" originLocation="Finland" subject="sl">
         Our Fin-Boats
       </songTitle>
       <lyrics str="English">Our skin-sewed Fin-boats lightly swim,
@@ -6196,7 +6196,7 @@ Over the sea like wind they skim.
 Our ships are built without a nail;
 Few ships like ours can row or sail.</lyrics>
 
-      <songTitle str="King Harald's Verse" originLocation="Scandinavia" subject="sl">
+      <songTitle str="King Harald's Verse" originLocation="Norway" subject="sl">
         King Harald's Verse
       </songTitle>
       <lyrics str="English">While wives of husbands fondly dream,
@@ -8028,7 +8028,7 @@ Let me be understood. The British or American mariner of to-day is as hearty, ni
 
       <subheading>Burying the Dead Horse</subheading>
 
-      <songTitle str="Burying the Dead Horse" originLocation="Unknown" subject="dk">Burying the Dead Horse</songTitle>
+      <songTitle str="Burying the Dead Horse" originLocation="Ireland" subject="dk">Burying the Dead Horse</songTitle>
 
       <lyrics str="Burying the Dead Horse">Auctioneer. "A poor old man came riding by.
 Chorus. And they say so, and they hope so.
