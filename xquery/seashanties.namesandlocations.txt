@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+   <title>Johnny Haul-Taut</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Legend of Captain Cottington</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Rhyme of Uncle Peleg</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Yo, heave ho!</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Rio Grande UK</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Valparaiso</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Round the Horn</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Santa Anna</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Oceanida</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Johnny's Gone</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Black Ball Line</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Slapandergosheka</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Haulin' the Bowlin'</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Johnny Polka</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Lowlands</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Across the Western Ocean</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Old Stormy</title>
+   <country>Africa</country>
+</song>
+<song>
+   <title>The Hand-Over-Hand Song</title>
+   <country>England</country>
+</song>
+<song>
+   <title>O Long Storm, Storm Along, Stormy</title>
+   <country>Africa</country>
+</song>
+<song>
+   <title>Blow the Man Down</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Rueben Ranzo</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Tommy's Gone to 'Hilo'</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Up, Up, My Boys</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Sally Racket</title>
+   <country>Canada</country>
+</song>
+<song>
+   <title>Cheerily, Men: Oh Holly, Hi-Ho, Cheerily, Men</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Pay Me the Money Down</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Paddle Your Own Canoe</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Run, Let the Bull Chimes Run</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Lion Man-O'-War</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Home, Dearie, Home</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Spanish Canoe</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Homeward Bound</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Whiskey for My Johnny</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Whisky</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Married to a Mermaid</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Railway</title>
+   <country>Ireland</country>
+</song>
+<song>
+   <title>Jean Francois</title>
+   <country>France</country>
+</song>
+<song>
+   <title>A Yankee Ship</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>John Brown</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Yankee Man-of-War</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Freedom of the Seas</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Bonhomme Richard</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Constitution and Guerriere</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Siege of Tripoli</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Yankee Tars</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Yankee Thunders</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Gurney's Song</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Marry A'comly Man, My Darter</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Man-o'-War's Man</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Let the Bulgine Run</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>The Plains of Mexico</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Shenandoah</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Shallow Brown</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Sally Brown</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Home</title>
+   <country>Australia</country>
+</song>
+<song>
+   <title>Haul Away</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Haul the Bowline</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Rio Grande US</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Shanandore</title>
+   <country>United States of America</country>
+</song>
+<song>
+   <title>Handy Jim</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Bonny</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Heave Away, My Johnny</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Good-bye, Fare Ye Well!</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Full Fathom Five</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Still-Vex'd Bermoothes</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Westward Ho! With a Rum-Below</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Father Neptune's Song</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Hal-an-Tow</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Mermaid</title>
+   <country>England</country>
+</song>
+<song>
+   <title>John Dory</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Spanish Lady</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Hearts of Oak</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Bay of Biscay</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Cawsand Bay</title>
+   <country>England</country>
+</song>
+<song>
+   <title>True Blue</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Farewell to You, Ye FIne Spanish Ladies</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Stormy Winds Do Blow</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Sailing In the Lowlands, Low</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>We Be Three Poor Mariners</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Britons, Strike Home</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Spanish Armada</title>
+   <country>England</country>
+</song>
+<song>
+   <title>You Gentleman of England</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The British Sailors' Lament</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Keppel's Triumph</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Hardy Tars of Old England</title>
+   <country>England</country>
+</song>
+<song>
+   <title>To All You Ladies Now At Land</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Eton Boat-Song</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Sailor Boy</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Hail to the Chief</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Fear a Bhata</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Moch's mi g Eirdle sa Mhaduinn</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Och Nan och, Mo leir Chradh</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Skye Boat-Song</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Domhnul Ruadh Gaolach</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Ho, Ro! Clansmen</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Gaelic Chorus</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Love Boat Song</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Sir Patrick Spens</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>The Wet Sheet and the Flowing Sea</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>There is Nae Luck Aboot the Hoose (The Mariner's Wife)</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>A New Sea Song (Sweethearts and Wives)</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Caller Herrin'</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Afton Water</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>The Boatie Rows</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>The Saucy Arethusa</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Puir Auld Horse</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>A Crab Song</title>
+   <country>Scotland</country>
+</song>
+<song>
+   <title>Weel May the Keel Row</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Sandgate Lass's Lament</title>
+   <country>Sandgate, Newcastle-upon-Tyne, England</country>
+</song>
+<song>
+   <title>O! The Lousy Cutter (Press Gang Song)</title>
+   <country>Northumberland, England</country>
+</song>
+<song>
+   <title>Captain Bover</title>
+   <country>Newcastle-upon-Tyne, England</country>
+</song>
+<song>
+   <title>Here's the Tender Coming</title>
+   <country>Shields, England</country>
+</song>
+<song>
+   <title>Liberty for the Sailors</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Sailors Are All at the Bar</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Keelman Ower Land</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Bonny Keel Laddie</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Bonny Pit Laddie</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Sandhill Corner</title>
+   <country>England</country>
+</song>
+<song>
+   <title>O! The Bonny Fisher Lad</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Blaw the Wind Southerly</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Water of Tyne</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Nae Mair We'll Fish the Coolly Tyne</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Coquet for Ever</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Coaly Tyne</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Cullercoats Fishwives Street Cry</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Shares O' Caller Ling</title>
+   <country>England</country>
+</song>
+<song>
+   <title>The Cullercoats Fishwives</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Caller Herrin' Street Cry</title>
+   <country>England</country>
+</song>
+<song>
+   <title>Row the Boat, Norman</title>
+   <country>London</country>
+</song>
+<song>
+   <title>Le Pecheur</title>
+   <country>France</country>
+</song>
+<song>
+   <title>La Chanson du Mousse</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Une Fleur pour Reponse</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Pauvre Pierre</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Li Martegan</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Lou Revestidon</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Hymn to Saint Anne</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Les Enfants de la Mer</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Chanson pour Ramer</title>
+   <country>France</country>
+</song>
+<song>
+   <title>La Corsairienne</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Splicing Song 1</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Le Brig Black</title>
+   <country>France</country>
+</song>
+<song>
+   <title>Italian Hymn</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Perche Vuoi Tu Fidas la Barca al Mare</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Santa Lucia</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>La Fata di Amalfi</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>The Boatman's Farewell to Naples</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Fenesta Vascia</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>La Carolina</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Neapolitan Fisherman's Song</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Popular Neapolitan Song</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Sicilian Mariners' Hymn</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Song of a Mariner</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Gondoliers' Chorus</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Love! Love! (Sicilian Boatman's Song)</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>In a Gondola on the Grand Canal, Venice</title>
+   <country>Italy</country>
+</song>
+<song>
+   <title>Karlsefin's Song</title>
+   <country>Iceland/Vinland</country>
+</song>
+<song>
+   <title>Biarne's Whale Song</title>
+   <country>Norse</country>
+</song>
+<song>
+   <title>The Danish Kings</title>
+   <country>Ireland/Denmark</country>
+</song>
+<song>
+   <title>The Sea-Horse</title>
+   <country>Scandinavia</country>
+</song>
+<song>
+   <title>Eyvind's Herring Song</title>
+   <country>Iceland</country>
+</song>
+<song>
+   <title>The Arrows of the Sea</title>
+   <country>Iceland</country>
+</song>
+<song>
+   <title>No Drink But the Salt Sea</title>
+   <country>Scandinavia</country>
+</song>
+<song>
+   <title>Brave Magnus</title>
+   <country>Scandinavia</country>
+</song>
+<song>
+   <title>London Bridge is Broken Down</title>
+   <country>England/Scandinavia</country>
+</song>
+<song>
+   <title>The Lapland Tent</title>
+   <country>Lapland</country>
+</song>
+<song>
+   <title>Our Fin-Boats</title>
+   <country>Lapland/Scandinavia</country>
+</song>
+<song>
+   <title>King Harald's Verse</title>
+   <country>Scandinavia</country>
+</song>
+<song>
+   <title>The Dannebrog</title>
+   <country>Denmark</country>
+</song>
+<song>
+   <title>Come, All Ye Jolly Sailors Bold</title>
+   <country>Denmark</country>
+</song>
+<song>
+   <title>Norsk Sjomandssang</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Ruffen</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Norwegian Capstan Chanty</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Opsang for Jonas Anton Hjelm</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Ved Ankerhioning</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Ved Balasthioning</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Ved Mersefald</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Bowline Chanty</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Pumping Chanty</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>Opsang for Heaving the Anchor</title>
+   <country>Norway</country>
+</song>
+<song>
+   <title>In Berlin Sagt Er (The Jolly Cook)</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>The Atlantic Champagne Song</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Hamburg ist ein schones Stadtchen</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Ankunft in Hamburg</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>The Lorelei</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Freiheit, die Ich Meine</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Goldne Abendsonne</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Wandrer's Nacht-Lied</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Auf, Ihr Bruder, Laszt uns Wallen</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Weinachts-Lied</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Lebewohl</title>
+   <country>Germany</country>
+</song>
+<song>
+   <title>Dutch Popular Canal Song</title>
+   <country>Netherlands</country>
+</song>
+<song>
+   <title>Die Nieuwe Haring</title>
+   <country>Netherlands</country>
+</song>
+<song>
+   <title>De Kabels Los</title>
+   <country>Netherlands</country>
+</song>
+<song>
+   <title>Russian National Anthem</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Favourite Air on Board a Russian Man-o-War</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Song Used When Holystoning the Decks or Loading with Grain</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Song Used by the Women When Crushing the Grain on the Wharf</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>The Nightingale</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Russian Song Used for Heaving the Anchor</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Russian Chanty for Heaving the Anchor</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>National Song Used for Hauling</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>Address to the River Don</title>
+   <country>Russia</country>
+</song>
+<song>
+   <title>The Siren and the Seamen</title>
+   <country>Greece</country>
+</song>
+<song>
+   <title>Greek Sailors' Song</title>
+   <country>Greece</country>
+</song>
+<song>
+   <title>Boat-Song Used by the Athenians</title>
+   <country>Greece</country>
+</song>
+<song>
+   <title>Popular Japanese Barcarolle</title>
+   <country>Japan</country>
+</song>
+<song>
+   <title>Japanese Rowing Song</title>
+   <country>Japan</country>
+</song>
+<song>
+   <title>Matsumai</title>
+   <country>Japan</country>
+</song>
+<song>
+   <title>Japanese Chorus Used When Scrubbing the Decks</title>
+   <country>Japan</country>
+</song>
+<song>
+   <title>Nagareyama</title>
+   <country>Japan</country>
+</song>
+<song>
+   <title>Nile Approach Song</title>
+   <country>Egypt</country>
+</song>
+<song>
+   <title>Chorus</title>
+   <country>Egypt</country>
+</song>
+<song>
+   <title>Vicvamitra</title>
+   <country>India</country>
+</song>
+<song>
+   <title>The Rivers</title>
+   <country>India</country>
+</song>
+<song>
+   <title>Dandee Song</title>
+   <country>India</country>
+</song>
+<song>
+   <title>Taza b-Taza</title>
+   <country>India</country>
+</song>
+<song>
+   <title>Bhiertpoor Dirge</title>
+   <country>India</country>
+</song>
+<song>
+   <title>Teen Bom Milla Ne</title>
+   <country>India</country>
+</song>
+<song>
+   <title>Chinese Song</title>
+   <country>China</country>
+</song>
+<song>
+   <title>Chinese Boatman's Song</title>
+   <country>China</country>
+</song>
+<song>
+   <title>Moo-Lee-Wha</title>
+   <country>China</country>
+</song>
+<song>
+   <title>Song of Chinese Rowers</title>
+   <country>China</country>
+</song>
+<song>
+   <title>Maori Hauling Chant</title>
+   <country>New Zealand</country>
+</song>
+<song>
+   <title>Songs of the Samoan Islanders</title>
+   <country>Samoa</country>
+</song>
+<song>
+   <title>Tongese Water-Song</title>
+   <country>Tonga</country>
+</song>
+<song>
+   <title>Burying the Dead Horse</title>
+   <country>Unknown</country>
+</song>
