@@ -9,14 +9,13 @@ Africa,2
  France,13
  Germany,11
  Greece,3
- Iceland,4
+ Iceland,5
  India,6
  Ireland,3
  Italy,14
  Japan,5
  Netherlands,3
  New Zealand,1
- Norse,1
  Norway,14
  Russia,9
  Samoa,1
