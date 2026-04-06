@@ -1,10 +1,9 @@
-Africa,2
- Australia,1
+Australia,1
  Canada,1
  China,4
  Denmark,2
  Egypt,2
- England,74
+ England,76
  Finland,2
  France,13
  Germany,11
