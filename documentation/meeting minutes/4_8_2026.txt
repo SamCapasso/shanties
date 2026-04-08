@@ -1,0 +1,11 @@
+4.8.2026
+
+Andrew, Josh, and Ali were present.
+
+Josh: working on xquery to have multiple subjects for network diagram
+
+ali: working on sheet music - audio data visualization
+
+andrew: working on heat map
+
+sam: tags major and minor key in xml; working on songs per country bar graph
