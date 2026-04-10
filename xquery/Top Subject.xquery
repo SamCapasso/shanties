@@ -6,6 +6,12 @@ declare variable $originLocations := $sections//songTitle/@originLocation/data()
 declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-values();
 
 for $originLocation in $originLocations
-    let $shantyCount := $songTitles[./@originLocation = $originLocation]=>count()
+    let $shanties := $songTitles[./@originLocation = $originLocation]
+    let $subjectCounts :=
+        for $subject in $subjects
+            let $count := $shanties[./@subject = $subject]=>count()
+            order by $count descending
+            return <subjectCount subject="{$subject}" count="{$count}"/>
+    let $topSubject := $subjectCounts[1]
     order by $originLocation
-    return concat($originLocation, ",", $shantyCount, "&#xA;")
+    return concat($originLocation, ",", $topSubject/@subject, "&#xA;")

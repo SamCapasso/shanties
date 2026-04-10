@@ -110,12 +110,96 @@
         </objects>
       </object-graph>
     </datasource>
+    <datasource caption='Top Subject' inline='true' name='federated.0icgsoa1vawd9z1baghvl1mf363w' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Top Subject' name='textscan.03qq7ug1aaal8q1at6hyp1pd3bbb'>
+            <connection class='textscan' directory='C:/Users/theam/Documents/College/Spring 2026/Coding and Data Vis (Campbell)/GitHub/shanties/xquery' filename='Top Subject.txt' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.03qq7ug1aaal8q1at6hyp1pd3bbb' name='Top Subject.txt' table='[Top Subject#txt]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Location' ordinal='0' />
+            <column datatype='string' name='Subject' ordinal='1' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Top Subject.txt]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Location</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Location]</local-name>
+            <parent-name>[Top Subject.txt]</parent-name>
+            <remote-alias>Location</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Top Subject.txt_90724465F1CF4AD98063B1DAF185E470]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Subject</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Subject]</local-name>
+            <parent-name>[Top Subject.txt]</parent-name>
+            <remote-alias>Subject</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[Top Subject.txt_90724465F1CF4AD98063B1DAF185E470]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal' />
+      <column caption='Top Subject.txt' datatype='table' name='[__tableau_internal_object_id__].[Top Subject.txt_90724465F1CF4AD98063B1DAF185E470]' role='measure' type='quantitative' />
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Top Subject.txt' id='Top Subject.txt_90724465F1CF4AD98063B1DAF185E470'>
+            <properties context=''>
+              <relation connection='textscan.03qq7ug1aaal8q1at6hyp1pd3bbb' name='Top Subject.txt' table='[Top Subject#txt]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Location' ordinal='0' />
+                  <column datatype='string' name='Subject' ordinal='1' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
   </datasources>
   <mapsources>
     <mapsource name='Tableau' />
   </mapsources>
   <worksheets>
-    <worksheet name='Sheet 1'>
+    <worksheet name='Shanty Count'>
       <layout-options>
         <title>
           <formatted-text>
@@ -151,8 +235,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.1jf0xnd07wrlec18ptv740ts8yy6].[Longitude (generated)]' field-type='quantitative' max='22319549.60968424' min='19554080.228053853' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.1jf0xnd07wrlec18ptv740ts8yy6].[Latitude (generated)]' field-type='quantitative' max='-1038037.4099980914' min='-2876355.2689677901' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.1jf0xnd07wrlec18ptv740ts8yy6].[Longitude (generated)]' field-type='quantitative' max='2815687.4339302666' min='-4079218.8102533258' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.1jf0xnd07wrlec18ptv740ts8yy6].[Latitude (generated)]' field-type='quantitative' max='9575181.3544683382' min='4991862.0203986131' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.1jf0xnd07wrlec18ptv740ts8yy6].[sum:F2:qk]' palette='blue_10_0' type='interpolated' />
@@ -230,9 +314,99 @@
       </table>
       <simple-id uuid='{B82BFB39-8AD4-415E-A793-CE6B7D63A9D1}' />
     </worksheet>
+    <worksheet name='Top Shanty'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontalignment='1' fontsize='16'>Shanty Count by Country</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Top Subject' name='federated.0icgsoa1vawd9z1baghvl1mf363w' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.0icgsoa1vawd9z1baghvl1mf363w'>
+            <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal' />
+            <column-instance column='[Location]' derivation='None' name='[none:Location:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <hide-sort-controls />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Longitude (generated)]' field-type='quantitative' max='62583137.129989691' min='17605559.462471541' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Latitude (generated)]' field-type='quantitative' max='18646564.709569722' min='-7609380.8552728221' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
+          <style-rule element='map-layer'>
+            <format attr='enabled' id='admin-1-label-9th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-8th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-7th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-6th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-5th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-4th-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-3rd-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-2nd-tier' value='false' />
+            <format attr='enabled' id='admin-1-label-1st-tier' value='false' />
+            <format attr='enabled' id='us-admin-1-label-abbr-3rd-tier' value='false' />
+            <format attr='enabled' id='us-admin-1-label-abbr-2nd-tier' value='false' />
+            <format attr='enabled' id='us-admin-1-label-abbr-1st-tier' value='false' />
+            <format attr='enabled' id='parks' value='false' />
+            <format attr='enabled' id='landcover_wood' value='false' />
+            <format attr='enabled' id='landcover_scrub' value='false' />
+            <format attr='enabled' id='landcover_grass' value='false' />
+            <format attr='enabled' id='landcover_crop' value='false' />
+            <format attr='enabled' id='admin-0-boundaries-bg' value='false' />
+            <format attr='enabled' id='admin-0-boundaries' value='false' />
+            <format attr='enabled' id='admin-0-boundaries-dispute' value='false' />
+            <format attr='enabled' id='admin-0-boundaries-bg-sub' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-supress-bg' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-sm-parents-bg' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-md-parents-bg' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-lg-parents-bg' value='false' />
+            <format attr='enabled' id='admin-0-boundaries-dispute-sub' value='false' />
+            <format attr='enabled' id='admin-0-boundaries-sub' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-supress' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-sm-parents' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-md-parents' value='false' />
+            <format attr='enabled' id='admin-1-boundaries-lg-parents' value='false' />
+            <format attr='enabled' id='admin1-water-lines-usa-tableau' value='false' />
+            <format attr='enabled' id='9-dash-line-casing' value='false' />
+            <format attr='enabled' id='9-dash-line' value='false' />
+            <format attr='enabled' id='admin-0-label-5th-tier' value='false' />
+            <format attr='enabled' id='admin-0-label-4th-tier' value='false' />
+            <format attr='enabled' id='admin-0-label-3rd-tier' value='false' />
+            <format attr='enabled' id='admin-0-label-2nd-tier' value='false' />
+            <format attr='enabled' id='admin-0-label-1st-tier' value='false' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Multipolygon' />
+            <encodings>
+              <lod column='[federated.0icgsoa1vawd9z1baghvl1mf363w].[none:Location:nk]' />
+              <geometry column='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Geometry (generated)]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0icgsoa1vawd9z1baghvl1mf363w].[Latitude (generated)]</rows>
+        <cols>[federated.0icgsoa1vawd9z1baghvl1mf363w].[Longitude (generated)]</cols>
+      </table>
+      <simple-id uuid='{0F912F21-C421-498E-95A3-425BDABAEF9E}' />
+    </worksheet>
   </worksheets>
-  <windows source-height='44'>
-    <window class='worksheet' maximized='true' name='Sheet 1'>
+  <windows source-height='75'>
+    <window class='worksheet' name='Shanty Count'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -263,6 +437,33 @@
         <default-map-tool-selection tool='1' />
       </viewpoint>
       <simple-id uuid='{7678524F-A76B-4266-84F9-83D34AF27BA6}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Top Shanty'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <floating-toolbar-visibility value='1' />
+        <default-map-tool-selection tool='1' />
+      </viewpoint>
+      <simple-id uuid='{2F73F91A-9DA1-4968-8D79-9C0D1DAE53D8}' />
     </window>
   </windows>
 </workbook>

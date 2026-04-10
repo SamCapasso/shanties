@@ -1,0 +1,24 @@
+Location,Subject
+Australia,lv
+ Canada,lv
+ China,sl
+ Denmark,wk
+ Egypt,sl
+ England,dp
+ Finland,sl
+ France,wk
+ Germany,sl
+ Greece,wk
+ Iceland,sl
+ India,sl
+ Ireland,wk
+ Italy,sl
+ Japan,wk
+ Netherlands,sl
+ New Zealand,wk
+ Norway,wk
+ Russia,wk
+ Samoa,bt
+ Scotland,wk
+ Tonga,bt
+ United States of America,lg
