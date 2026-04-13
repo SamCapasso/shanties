@@ -1,0 +1,101 @@
+label,Type,Count
+Australia,country,1
+Love,subject,1
+Canada,country,1
+Love,subject,1
+China,country,4
+Sea Life,subject,2
+Battle,subject,1
+Work,subject,1
+Denmark,country,2
+Battle,subject,1
+Work,subject,1
+Egypt,country,2
+Sea Life,subject,2
+England,country,76
+Work,subject,12
+Departure,subject,13
+Homesickness,subject,6
+Legend,subject,5
+Love,subject,10
+Battle,subject,10
+Drinking,subject,4
+Sea Life,subject,12
+Superstition,subject,1
+Death,subject,3
+Finland,country,2
+Sea Life,subject,2
+France,country,13
+Love,subject,1
+Sea Life,subject,3
+Homesickness,subject,1
+Departure,subject,1
+Death,subject,1
+Work,subject,4
+Superstition,subject,1
+Battle,subject,1
+Germany,country,11
+Sea Life,subject,4
+Drinking,subject,1
+Homesickness,subject,3
+Superstition,subject,1
+Departure,subject,2
+Greece,country,3
+Superstition,subject,1
+Sea Life,subject,1
+Work,subject,1
+Iceland,country,5
+Sea Life,subject,3
+Work,subject,2
+India,country,6
+Sea Life,subject,3
+Battle,subject,1
+Death,subject,1
+Work,subject,1
+Ireland,country,3
+Work,subject,1
+Battle,subject,1
+Drinking,subject,1
+Italy,country,14
+Superstition,subject,2
+Sea Life,subject,8
+Homesickness,subject,1
+Departure,subject,2
+Work,subject,1
+Japan,country,5
+Sea Life,subject,2
+Work,subject,2
+Superstition,subject,1
+Netherlands,country,3
+Sea Life,subject,2
+Work,subject,1
+New Zealand,country,1
+Work,subject,1
+Norway,country,14
+Work,subject,9
+Battle,subject,2
+Sea Life,subject,3
+Russia,country,9
+Sea Life,subject,2
+Work,subject,5
+Homesickness,subject,2
+Samoa,country,1
+Battle,subject,1
+Scotland,country,19
+Legend,subject,4
+Death,subject,1
+Love,subject,4
+Sea Life,subject,3
+Departure,subject,2
+Work,subject,5
+Tonga,country,1
+Battle,subject,1
+United States of America,country,30
+Legend,subject,9
+Departure,subject,2
+Work,subject,4
+Love,subject,5
+Drinking,subject,1
+Sea Life,subject,1
+Battle,subject,7
+Homesickness,subject,1

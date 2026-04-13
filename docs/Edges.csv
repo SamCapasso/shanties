@@ -1,0 +1,78 @@
+from,to,Count
+England,Work,12
+England,Departure,13
+England,Homesickness,6
+England,Legend,5
+England,Love,10
+England,Battle,10
+England,Drinking,4
+England,Sea Life,12
+England,Superstition,1
+England,Death,3
+United States of America,Legend,9
+United States of America,Departure,2
+United States of America,Work,4
+United States of America,Love,5
+United States of America,Drinking,1
+United States of America,Sea Life,1
+United States of America,Battle,7
+United States of America,Homesickness,1
+Canada,Love,1
+Ireland,Work,1
+Ireland,Battle,1
+Ireland,Drinking,1
+France,Love,1
+France,Sea Life,3
+France,Homesickness,1
+France,Departure,1
+France,Death,1
+France,Work,4
+France,Superstition,1
+France,Battle,1
+Scotland,Legend,4
+Scotland,Death,1
+Scotland,Love,4
+Scotland,Sea Life,3
+Scotland,Departure,2
+Scotland,Work,5
+Australia,Love,1
+Italy,Superstition,2
+Italy,Sea Life,8
+Italy,Homesickness,1
+Italy,Departure,2
+Italy,Work,1
+Iceland,Sea Life,3
+Iceland,Work,2
+Norway,Work,9
+Norway,Battle,2
+Norway,Sea Life,3
+Finland,Sea Life,2
+Denmark,Battle,1
+Denmark,Work,1
+Germany,Sea Life,4
+Germany,Drinking,1
+Germany,Homesickness,3
+Germany,Superstition,1
+Germany,Departure,2
+Netherlands,Sea Life,2
+Netherlands,Work,1
+Russia,Sea Life,2
+Russia,Work,5
+Russia,Homesickness,2
+Greece,Superstition,1
+Greece,Sea Life,1
+Greece,Work,1
+Japan,Sea Life,2
+Japan,Work,2
+Japan,Superstition,1
+Egypt,Sea Life,2
+India,Sea Life,3
+India,Battle,1
+India,Death,1
+India,Work,1
+China,Sea Life,2
+China,Battle,1
+China,Work,1
+New Zealand,Work,1
+Samoa,Battle,1
+Tonga,Battle,1
