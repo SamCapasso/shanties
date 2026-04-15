@@ -173,7 +173,16 @@
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
-      <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal' />
+      <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal'>
+        <semantic-values semantic-role='[Geographical].[Latitude]'>
+          <semantic-value key='&quot;England&quot;' value='52.530999999999999' />
+          <semantic-value key='&quot;Scotland&quot;' value='56.786000000000001' />
+        </semantic-values>
+        <semantic-values semantic-role='[Geographical].[Longitude]'>
+          <semantic-value key='&quot;England&quot;' value='-1.2649999999999999' />
+          <semantic-value key='&quot;Scotland&quot;' value='-4.1139999999999999' />
+        </semantic-values>
+      </column>
       <column caption='Top Subject.txt' datatype='table' name='[__tableau_internal_object_id__].[Top Subject.txt_90724465F1CF4AD98063B1DAF185E470]' role='measure' type='quantitative' />
       <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
       <semantic-values>
@@ -318,7 +327,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontsize='16'>Shanty Count by Country</run>
+            <run bold='true' fontalignment='1' fontsize='16'>Most Popular Shanty Subject by Country</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -331,16 +340,27 @@
             <mapsource name='Tableau' />
           </mapsources>
           <datasource-dependencies datasource='federated.0icgsoa1vawd9z1baghvl1mf363w'>
-            <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal' />
+            <column datatype='string' name='[Location]' role='dimension' semantic-role='[Country].[Name]' type='nominal'>
+              <semantic-values semantic-role='[Geographical].[Latitude]'>
+                <semantic-value key='&quot;England&quot;' value='52.530999999999999' />
+                <semantic-value key='&quot;Scotland&quot;' value='56.786000000000001' />
+              </semantic-values>
+              <semantic-values semantic-role='[Geographical].[Longitude]'>
+                <semantic-value key='&quot;England&quot;' value='-1.2649999999999999' />
+                <semantic-value key='&quot;Scotland&quot;' value='-4.1139999999999999' />
+              </semantic-values>
+            </column>
+            <column datatype='string' name='[Subject]' role='dimension' type='nominal' />
             <column-instance column='[Location]' derivation='None' name='[none:Location:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Subject]' derivation='None' name='[none:Subject:nk]' pivot='key' type='nominal' />
           </datasource-dependencies>
           <hide-sort-controls />
           <aggregation value='true' />
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Longitude (generated)]' field-type='quantitative' max='62583137.129989691' min='17605559.462471541' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Latitude (generated)]' field-type='quantitative' max='18646564.709569722' min='-7609380.8552728221' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Longitude (generated)]' field-type='quantitative' max='21974931.61371452' min='19844683.665850487' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Latitude (generated)]' field-type='quantitative' max='-1232062.4128715529' min='-2648123.2351697446' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='map-layer'>
             <format attr='enabled' id='admin-1-label-9th-tier' value='false' />
@@ -394,6 +414,7 @@
             </view>
             <mark class='Multipolygon' />
             <encodings>
+              <color column='[federated.0icgsoa1vawd9z1baghvl1mf363w].[none:Subject:nk]' />
               <lod column='[federated.0icgsoa1vawd9z1baghvl1mf363w].[none:Location:nk]' />
               <geometry column='[federated.0icgsoa1vawd9z1baghvl1mf363w].[Geometry (generated)]' />
             </encodings>
@@ -405,7 +426,7 @@
       <simple-id uuid='{0F912F21-C421-498E-95A3-425BDABAEF9E}' />
     </worksheet>
   </worksheets>
-  <windows source-height='75'>
+  <windows saved-dpi-scale-factor='1.5' source-height='75'>
     <window class='worksheet' name='Shanty Count'>
       <cards>
         <edge name='left'>
@@ -433,6 +454,11 @@
         </edge>
       </cards>
       <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1jf0xnd07wrlec18ptv740ts8yy6].[none:F1:nk]</field>
+          </color-one-way>
+        </highlight>
         <floating-toolbar-visibility value='1' />
         <default-map-tool-selection tool='1' />
       </viewpoint>
@@ -458,12 +484,125 @@
             <card type='title' />
           </strip>
         </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0icgsoa1vawd9z1baghvl1mf363w].[none:Subject:nk]' type='color' />
+          </strip>
+        </edge>
       </cards>
       <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0icgsoa1vawd9z1baghvl1mf363w].[none:Subject:nk]</field>
+            <field>[federated.1jf0xnd07wrlec18ptv740ts8yy6].[none:F1:nk]</field>
+          </color-one-way>
+        </highlight>
         <floating-toolbar-visibility value='1' />
         <default-map-tool-selection tool='1' />
       </viewpoint>
       <simple-id uuid='{2F73F91A-9DA1-4968-8D79-9C0D1DAE53D8}' />
     </window>
   </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Shanty Count' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAAKL0lEQVR4nO3c23MT5x3G8Wd3Ja3OR9uyjW2CIYA5hE4ybZKbdKYXnelMO7nqn9mrZqad
+      pJ10mrSdQA5TSGMOxjY2MsiWbJ2swx7etxdgxcaAAR8k9vd8rtDuer0D+9W+766E0Wq1dCgU
+      Ah299Y0KllpAKGL3lzXXS9CGidRIEYZh9JdrpWCY1iAO85XsHKrWe5ebpgGl9P4fOIDXaeLy
+      RAbJROIIju7NGd1uV9u2ffCW9Nq01vj8m5swC1PobjzE2UIcE8VRxKJRPFgtQWkN5ftwNRCx
+      TNytdpAcmxr0Yb8W0zShlDpwu26rCTuRBLSG3ljClXOnMVkcO4EjfDkGcMzq9TqWSo8xOZLH
+      2NjoS7f98tsf4WcnX7h+54qhn30bHiDDMF7peDZLy4iGTDiwMJ208OG1SydwdAfj2OeYZTIZ
+      /CKTOXA73/fRdlw8+1a0+wQbphN/x6seUyRkobuxgk9/91sM0xuuOegDoCcsy0LY0PA9FwDg
+      uQ6a1fJQnvSvq1fbQC6s8MdPfz9UJz/AAIbKh5fOoltZQ69ehVe6g3BA/nW05+L8zOSeSf+w
+      CMhfcTCk02lMpKMo6CZ0fgrRXHHQh/TGds9XwtlRbLfbAz6i52MAQ8QwDPzqvTmkU0l4Tg++
+      66CzvoraoxVoffCdlmGitYZhGOhtrCLeXMP0qRdP7geJk+AhFLGjcHsV6I1lmBpI2PEnzwms
+      w79fvepdm8PSWkM1Kvjk6lmkU6lj/31vigEMoUQsitlMGOsqBTtdONS+dp/wlmVBa91/fdQx
+      9NpNxJwmNpvbsJNZXMiFh/rkBxjAUJoojkErhfVS/VD7ed5Dqp3XR3nye04PurGBYjyEDz64
+      jK2tLfR6DsbHh38OwwCGkFIKtWYLvuscuO3LHo49e/L7vt//maM4+ZVScKolnM7FcfWj9/rL
+      8/n8ofd9UhjAgPm+j0ajgVwu11+29GAFt0o1FKZnX2kfu4c0zy572faH4bsu0k4VH3987dD7
+      GiTeBRqwRqOJz2/8hHa7jc2tGm7dvoeFjRZyk6cP/Nmdd3LDMGCaZn98f9yTXLfXxbjRxEfv
+      zR3r7zkJ/CzQgN25v4TFTgRW/RHaZgyJkfEDHxjtHsIc112dF+3Xd10U0cC1i+eG8sHW6+IV
+      YMDymRQ814FZnEVydOKFwxjfdaCefkxi9/LnDX8O60Unv9YaiW4lMCc/wDnAwDmuB+V7aFYe
+      I2X5aPV8eEohZYeQjJgotxUSIWAsZiKVSmL+0WOEs6MI27HnhnBYpmk+d39aa7jVNfzml5cC
+      c/IDHAINXKfTRaVaxdjYKOxIZN9613URDof7r5VSWHiwioXNHiKZkSMfAhmGAafdhNfcRMgw
+      YJoGIpaBeNjE2elJjORzB+/kLcIA3lLNZgvX7z2ETu//UsmbRuFsN1Ew2nhnvICx0dFAvdO/
+      CAN4izmOg69v3YOXKvaHLq968j+7ne+5mDKauHzh3LEd7zDiJPgtFolE8Mm1C4i316F877Xe
+      +Xdun+5wtsq4eO7McR3q0OIVIACUUrh55z4anR58peH4Gl0zini28NJhzM5HJXqtOq6MRnH6
+      1MQJHvVwYAABUKlUYNtRpFLJ/rJ6o4H5pYcod4F4bqz/3zrsXCV810GnXkUqpHHl9DjGD/i+
+      clAxgACobm4iFo0iHo/vW9dutzG/uIKup2BCY9tRiEcsTGQTmJwYH7qvKJ40BkCicRJMojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAojEAEo0BkGgMgERjACQaAyDRGACJxgBINAZAojEA
+      Eo0BkGgMgERjACQaAyDRGACJxgBINAZAImitobXetzw0gGMhOjFKKZTLZSwsr0KHY4jZYfie
+      i1Q8infPnGYAFGyLy8v4239+QCQWR3F2DiqRBQDcu/1fbG5uweh2u9q27QEfJtHR297exj+/
+      /hcM04JXOINkNr9nfW19jXMACi7LsnD1yhWk0xlUHi7uWWeaJrJjkxwCUXBtb7fx9fXv0HIU
+      ep02tNYwDAMA+n/mEIgCrdfr4U+f/RV+KIrxYhEtz0Rucqa/nkMgCjTLsnB25hT+8OsPMZOP
+      Y7te3bOeVwAKtPX1dcRicfzlxk/In3oHpmnBtKz+el4BKLCWHzxAOBxGu92G5/TgdNswLevJ
+      2P/pXICTYAqsXDaLL/7xFaptDzOX34fn9AAAhmH0nwozAAqsTCaDVNxGZPI8wnYM0USqv840
+      Tfi+zyEQBZfWGpOnphDp1XHryz+jsV7C2sI8lFJPTn7T5BWAgsswDFy9NIdLvg9LuVi5+wPc
+      cAITZy9Caw3P6fEuEMmgtcb1b7+HAhCJxhENW4hGQhwCkQyl0hpq9RouX3gX71+5iM1mGz8u
+      PuQVgOTY3m5jcWkRRiSKss7ACod5BSA5Eok4Ls3N4fbiCgzryanPAEgU0zSRL4zCMBgACaO1
+      xvLKChw7038YxgBIjHuLS/h+pYZoMg2tNVrVMifBFHy+r3Dzp3ksPFxH2rbwqNZCu9VENBrl
+      gzAKPs9zMZrPwYeJsmdjohiFASASizMACr52p4P7pTK6dhaJTG7POs4BKLC01vB9H/FYDN2e
+      CzuV27cNrwAUSJ1OBz/cvo9atYJEKoWVpQVMZyf2fCIU4BWAAkgphc/+/hXqVhrhqTnUEEd2
+      5jzsWGLftgyAAmdtbQ1npsYxZTYxbTagy/dhGgbw9Ftgu/E2KAWS1hrzd+/h/kYLkewY7Hjy
+      udvxCkCBdOO77/HFV98gXpyBHU8+/fy/A9/z9mzHSTAF0kihgNnZWXTqW4AB1FYX4MHC5Pmr
+      sEI/n/YcAlEgKaVQr9exUnqEjUoFdcSRLk6htraEaGYEqfwoAA6BKKBM00Q6ncZ2o47HLRet
+      9VXoR7fRrpYRTfw8H+AVgAKr1WqhUqkgXyhgrVTCv7+7ieTkLJTyMTo9i+ri/xgAyTB/5y56
+      noJ2uihXN1EoFHB17gIDIFkcx0EoFIJpPhn98y4QiRKJRPa85iSYRGMAJBoDINEYAInGAEg0
+      BkCiMQASjQGQaAyARGMAJNr/AVSiw4nMVW+4AAAAAElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='Top Shanty' width='192'>
+      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
+      0/gfn9S8y1ulTJIAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
 </workbook>

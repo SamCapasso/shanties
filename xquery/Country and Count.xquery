@@ -7,5 +7,5 @@ declare variable $subjects := $sections//songTitle/@subject/data()=>distinct-val
 
 for $originLocation in $originLocations
     let $shantyCount := $songTitles[./@originLocation = $originLocation]=>count()
-    order by $originLocation
+    order by $shantyCount descending, $originLocation
     return concat($originLocation, ",", $shantyCount, "&#xA;")
