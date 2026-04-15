@@ -10,6 +10,9 @@ h1 {
     text-align: center;
 }
 
+table {
+    table-layout: fixed;
+}
 table, th, td {
     border-collapse: collapse;
     border: 1px solid black;
