@@ -1,0 +1,7 @@
+4.15.2026
+
+sam, ali, and josh were in attendance. 
+
+We worked on josh’s site design, his data visualization (using kumu),, and some merger conflicts
+
+We updated the css file and the index.html file to add a background to the text box and keep the footer at the bottom of the page. 
