@@ -1,0 +1,8 @@
+Project Checkpoint 5
+
+XML markup is complete.
+New nav bar created by Sam that has links for each page. 
+About and team pages are complete, save for a short bio from Josh on the team page.
+Sam is working on his data visualization (bar graph) that will be used in comparison with the others’. Andrew is working on his data visualization (map), and Josh is working on his data visualization (network diagram), along with designing the home page (specifically adding the background picture and adding a text box)
+Ali completed her data visualization page and linked it to the nav bar.
+We are currently working on designing the home page (nav bar, text box, etc.) by modifying the basic.css file and index.html file
