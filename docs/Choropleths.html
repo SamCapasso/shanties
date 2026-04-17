@@ -6,12 +6,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link type = "text/css" href = "basic.css" rel = "stylesheet"/>
         <!--<link rel = "icon" type = "image/x-icon" href = "images/"/>-->
-        <!-- Navbar data here -->
+        
+        <style>
+            body{background-color: #FFFFFF}
+        </style>
+        <!-- Navbar data here ^ -->
     </head>
     <body>
         <!-- Navbar placement here -->
         <div title = "Shanty Count">
             <div title = "Data">
+                <div title = "Title">
+                    <h1>Shanty Count by Country</h1>
+                </div>
                 <div title = "Chart">
                     <img style = "width: 80%" alt = "A choropleth map displaying the shanty count by country" src = "images/Shanty%20Count%20By%20Country%20Choropleth%20Complete.png"/>
                 </div>
@@ -31,7 +38,6 @@
                         <td>India, 6</td>
                         <td>Iceland, 5</td>
                         <td>Japan, 5</td>
-                        
                     </tr>
                     <tr>
                         <td>China, 4</td>
@@ -50,73 +56,100 @@
                         <td>Samoa, 1</td>
                         <td>Tonga, 1</td>
                     </tr>
-                </table>
-                <br/>
-                <br/>
-            </div>
-            <div title = "Explanation"><!--Explanation-->
-                <p></p>
-            </div>
-        </div>
-        <div title = "Top Shanty">
-            <div title = "Data">
-                <img style = "width: 80%" alt = "A choropleth map displaying the most popular shanty subject by country" src = "images/Top%20Shanty%20Subject%20By%20Country%20Choropleth%20Complete.png"/>
-                <table style = "width: 80%; margin-left: 10%">
                     <tr>
-                        <th>Country, Subject, Count:</th>
-                        <td>England, dp, 13</td>
-                        <td>USA, lg, 9</td>
-                        <td>Scotland, wk, 5</td>
-                        <td>Italy, sl, 8</td>
-                        <td>Norway, wk, 9</td>
-                    </tr>
-                    <tr>
-                        <td>France, wk, 4</td>
-                        <td>Germany, sl, 4</td>
-                        <td>Russia, wk, 5</td>
-                        <td>India, sl, 3</td>
-                        <td>Iceland, sl, 3</td>
-                        <td>Japan, sl & wk, 2 of each</td>
-                    </tr>
-                    <tr>
-                        <td>China, sl, 2</td>
-                        <td>Greece, sl & ss & wk, 1 of each</td>
-                        <td>Ireland, bt & dk & wk, 1 of each</td>
-                        <td>Netherlands, sl, 2</td>
-                        <td>Denmark, bt & wk, 1 of each</td>
-                        <td>Egypt, sl, 2</td>
-                    </tr>
-                    <tr>
-                        <td>Finland, sl, 2</td>
-                        <td>Australia, lv, 1</td>
-                        <td>Canada, lv, 1</td>
-                        <td>New Zealand, wk, 1</td>
-                        <td>Samoa, bt, 1</td>
-                        <td>Tonga, bt, 1</td>
-                    </tr>
-                    <tr>
-                        <td><b>Battle:</b> 2.83 countries</td>
-                        <td><b>Departure:</b> 1 country</td>
-                        <td><b>Legend:</b> 1 country</td>
-                        <td><b>Love:</b> 2 countries</td>
-                        <td><b>Sea Life:</b> 8.83 countries</td>
-                        <td><b>Work</b>: 6.67 countries</td>
+                        <td><b>Sea Life (sl):</b> 53</td>
+                        <td><b>Work (wk):</b> 51</td>
+                        <td><b>Battle (bt):</b> 26</td>
+                        <td><b>Departure (dp):</b> 22</td>
+                        <td><b>Love (lv):</b> 22</td>
+                        <td><b>Legend (lg):</b> 18</td>
                     </tr>
                     <tr>
                         <td></td>
-                        <td></td>
-                        <td><b><i>Drinking:</i></b> 0.33 countries</td>
-                        <td><b><i>Superstition:</i></b> 0.33 countries</td>
-                        <td></td>
+                        <td><b>Homesickness (hs):</b> 14</td>
+                        <td><b>Drinking (dk):</b> 7</td>
+                        <td><b>Superstition (ss):</b> 7</td>
+                        <td><b>Death (dt):</b> 6</td>
                         <td></td>
                     </tr>
                 </table>
-                <br/>
                 <br/>
             </div>
             <div title = "Explanation">
-                
+                <p>Generally, Western European countries, along with the US, had the highest shanty count.  Considering the historical naval powers, which were focused there, this makes sense.  England came first, with 76 shanties, with the USA coming in second with 30 shanties, and Scotland in third with 19 shanties, making a combined UK total of 95 shanties.  While the UK was the most prominent naval power, there is more of an explanation than just prevalence of shanties.  The author of <i>The Music of the Waters</i>, Laura Alexandrine Smith, was from England, so naturally she would have access to more English shanties than any others.</p>
+                <p>Looking back, perhaps there should have been a "Storms" subject as well.  It would likely have brought the most prevalent "Sea Life" subject, at 53 shanties down, as well as the second most prevalent "Work" subject, at 51 shanties, to a lesser extent, making their totals much closer to the distant third place "Battle" subject, at only 26 shanties.  Either way, the top subjects overall make sense, since sea life is a very broad subject, and when work is not the main thing sailors are doing on their ships, it is likely battle instead.</p>
             </div>
+            <br/>
+            <br/>
+        </div>
+        <div title = "Top Shanty">
+            <div title = "Data">
+                <div title = "Title">
+                    <h1>Top Shanty Subject by Country</h1>
+                </div>
+                <div title = "Chart">
+                    <img style = "width: 80%" alt = "A choropleth map displaying the most popular shanty subject by country" src = "images/Top%20Shanty%20Subject%20By%20Country%20Choropleth%20Complete.png"/>
+                </div>
+                <div title = "Data Table">
+                    <table style = "width: 80%; margin-left: 10%">
+                        <tr>
+                            <th>Country, Subject, Count:</th>
+                            <td>England, dp, 13</td>
+                            <td>USA, lg, 9</td>
+                            <td>Scotland, wk, 5</td>
+                            <td>Italy, sl, 8</td>
+                            <td>Norway, wk, 9</td>
+                        </tr>
+                        <tr>
+                            <td>France, wk, 4</td>
+                            <td>Germany, sl, 4</td>
+                            <td>Russia, wk, 5</td>
+                            <td>India, sl, 3</td>
+                            <td>Iceland, sl, 3</td>
+                            <td>Japan, sl & wk, 2 of each</td>
+                        </tr>
+                        <tr>
+                            <td>China, sl, 2</td>
+                            <td>Greece, sl & ss & wk, 1 of each</td>
+                            <td>Ireland, bt & dk & wk, 1 of each</td>
+                            <td>Netherlands, sl, 2</td>
+                            <td>Denmark, bt & wk, 1 of each</td>
+                            <td>Egypt, sl, 2</td>
+                        </tr>
+                        <tr>
+                            <td>Finland, sl, 2</td>
+                            <td>Australia, lv, 1</td>
+                            <td>Canada, lv, 1</td>
+                            <td>New Zealand, wk, 1</td>
+                            <td>Samoa, bt, 1</td>
+                            <td>Tonga, bt, 1</td>
+                        </tr>
+                        <tr>
+                            <td><b>Battle:</b> 2.83 countries</td>
+                            <td><b>Departure:</b> 1 country</td>
+                            <td><b>Legend:</b> 1 country</td>
+                            <td><b>Love:</b> 2 countries</td>
+                            <td><b>Sea Life:</b> 8.83 countries</td>
+                            <td><b>Work</b>: 6.67 countries</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td><b><i>Drinking:</i></b> 0.33 countries</td>
+                            <td><b><i>Superstition:</i></b> 0.33 countries</td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
+                <br/>
+            </div>
+            <div title = "Explanation">
+                <p>In the event of ties, the subject labeled as the most popular subject for shanties was whatever was encountered first.  The total countries with each shanty subject is displayed at the bottom, with ties being fraction corresponding to how many subjects were tied.  Across the globe, the most popular subject for sea shanties is, unsurprisingly, sea life.  It is the most generic category, and was generally used for anything not having to do with the other subjects.  The second place subject was also unsurprising, being work, which is most of what is done at sea, in addition to the number three subject, battle.</p>
+                <p>It is worth mentioning that the number of shanties about England's most popular shanty subject, "Departure" is quite low, at 13, when considering it has 76 shanties in total.  That is because the "Sea Life" and "Work" subjects tied for second at 12 shanties each and the "Battle" and "Love" subjects tied for fourth at 10 shanties each.  It just goes to show that when so many shanties from a location are analyzed and assigned a subject, they end up quite diverse most of the time.</p>
+            </div>
+            <br/>
+            <br/>
         </div>
     </body>
 </html>
