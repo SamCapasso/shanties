@@ -7,13 +7,116 @@
         <link type = "text/css" href = "basic.css" rel = "stylesheet"/>
         <!--<link rel = "icon" type = "image/x-icon" href = "images/"/>-->
         
+        <style>/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color:#00505b;
+  font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #17d1bb;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}</style>
         <style>
-            body{background-color: #FFFFFF}
-        </style>
-        <!-- Navbar data here ^ -->
+          body{background-color: #FFFFFF}
+  
+      .text-box {
+      background-color: rgba(255, 255, 255, 0.75);
+      padding: 40px 50px;
+      border-radius: 12px;
+      max-width: 700px;
+      width: 90%;
+      text-align: center;
+      margin: auto;
+      }
+      
+      .text-box h1 {
+      margin-top: 0;
+      font-size: 2.2em;
+      }
+      
+      .text-box p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      }
+      </style>
     </head>
     <body>
-        <!-- Navbar placement here -->
+        <div class="navbar">
+            <a href="index.html">Home</a>
+            <a href="aboutUpdated.html">About</a>
+            <a href="shanties_audio.html">Listen</a>
+            <div class="dropdown">
+                <button class="dropbtn">Data
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <!-- place your link in the href quotations and place the name of your data visualization in the part next to it -->
+                    <a href="SLCXquerytoHTML.html">Bar Graph</a>
+                    <a href="Choropleths.html">Choropleth Maps</a>
+                    <a href="Network_Graph.html">Network Graph</a>
+                </div>
+            </div>
+        </div>
         <div title = "Shanty Count">
             <div title = "Data">
                 <div title = "Title">
@@ -151,5 +254,15 @@
             <br/>
             <br/>
         </div>
+        <footer class = "footer"> 
+            <a href="https://samcapasso.github.io/shanties/">The Music of the Waters Project</a> by 
+            <a href="https://samcapasso.github.io/shanties/about">Josh, Sam, Ali, and Andrew</a> is licensed under 
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons symbol 1" style="max-width: 1em;max-height:1em: .2em;"/></a>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="Creative Commons symbol 2" style="max-width: 1em;max-height:1em: .2em;"/></a>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="Creative Commons symbol 3" style="max-width: 1em;max-height:1em: .2em;"/></a>
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="Creative Commons symbol 4" style="max-width: 1em;max-height:1em: .2em;"/></a>
+            <a href="https://github.com/SamCapasso/shanties"><img src="./images/GitHub%20Logo.png" alt="GitHub logo" style="max-width: 1em;max-height:1em: .2em;"/></a>
+        </footer>
     </body>
 </html>
