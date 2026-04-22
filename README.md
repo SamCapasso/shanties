@@ -1,11 +1,11 @@
 # shanties
 2026 data visualization project repo for Dr. Campbell's class
 
-team coordinator: Sam Capasso
+Team Coordinator: Sam Capasso
 Subject Expert: Sam Capasso
 
-Documentation officer: Ali
+Documentation Officer: Ali
 
-Web Design: josh
+Web Design: Josh
 
-Qc officer: Andrew
+Quality Control Officer: Andrew
