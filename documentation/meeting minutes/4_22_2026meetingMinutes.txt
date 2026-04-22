@@ -1,0 +1,41 @@
+sam, andrew, and ali were in attendance. 
+
+github repo link has been added to footer and to text box on home page
+
+made list of things that need to get done:
+
+(home page: has updated nav bar and footer
+
+about page: needs a footer and updated nav bar
+
+listen page: has updated nav bar and footer
+
+bar graph page: needs updated nav bar and footer
+
+404 error when trying to get to andrew’s graph from the bar graph
+
+choropleth map: needs nav bar and footer
+
+network graph has updated nav bar but not the updated footer)
+
+sam added nav bar to all pages
+
+ali adding footers to pages
+
+andrew adding nav bar and footer to his page plus adding line breaks so that the footer isn’t covering text/data (network graph, his graph, about page)
+
+josh fixed nav bar on listen page
+
+what needs to get done: explanation and line breaks on bar graph page
+
+andrew adding faveicon to all? pages
+
+What we will go over for project presentation:
+
+sam: what project is about; bar graph; about page section
+
+andrew: explaining github; chloropleth map; about page section
+
+josh: overall design of website; network graph; about page section
+
+ali: go over meetings and documentations; shanties audio; about page section
