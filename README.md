@@ -8,4 +8,4 @@ Documentation officer: Ali
 
 Web Design: josh
 
-Qc officer: Andrew Ewing
+Qc officer: Andrew
