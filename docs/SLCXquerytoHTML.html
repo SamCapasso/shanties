@@ -71,7 +71,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }</style>
-     
+     <link rel = "icon" type = "image/x-icon" href = "images/Anchor.svg"/>
       <link type="text/css" href="basic.css" rel="stylesheet" />
    </head>
    <body>
@@ -163,6 +163,62 @@
             <text x="237" y="653" text-anchor="end" font-size="11" fill="#333">Tonga</text>
             <rect x="245" y="638" width="5" height="22" fill="#2c6fad"></rect>
             <text x="256" y="653" font-size="11" font-weight="bold" fill="#2c6fad">1</text></svg></div>
+     
+     <p>This is a simple bar graph which calculates the total number of sea songs present from each country in Smith’s book. This graph is also sorted in such a way that the country with the largest number of present songs is listed first and then the rest are placed in descending order beneath that. It is important to remember however, that this graph does not reflect the total number of songs from any country and is only reflective of the number of songs that Smith managed to collect for this book.</p>
+       
+      <p> This graph is generated with Xquery that I will breakdown below</p>
+       
+       <h2>Pt. 1.)</h2>
+       <p>let $doc   := doc("MusicOfTheWaters.xml")</p>
+       <p>let $songs := $doc//songTitle[@originLocation]</p>
+      <p> let $locs  := distinct-values($songs/@originLocation)</p>
+     <br/>
+       <p>doc(...) loads the XML file into memory.</p>
+       
+      <p> $doc//songTitle[@originLocation] uses an XPath expression to find every (songTitle) element anywhere in the document that has an originLocation attribute. The // means "search at any depth."</p>
+         
+        <p> distinct-values(...) pulls out the unique location names from those attributes. So if "Ireland" appears 10 times, it only appears once in $locs.</p>
+         
+         <h2>Pt. 2.)</h2>
+        <p> let $data :=</p>
+         <p>for $loc in $locs</p>
+         <p>let $c := count($songs[@originLocation = $loc])</p>
+        <p> order by $c descending</p>
+         <p>return map { "location": $loc, "count": $c }</p>
+     <br/>
+        <p> This part counts how many songs have that location, then sorts them from most to fewest (order by $c descending). It then packages each result into a map (which is basically like a key-value dictionary) with a "location" and "count" field.</p>
+         
+         <h2>Pt. 3.)</h2>
+         <p>The next part (code not shown for brevity sake) is setting up the constants for the bar graph’s SVG. Using variables here means I can tweak the chart's appearance in one place without hunting through the SVG code. The total SVG dimensions are then calculated from these variables:</p>
+         
+        <p> $svg-w = label area + bar area + right padding</p>
+         <p>$svg-h = number of locations × (bar height + gap)</p>
+         
+         
+        <h2> Pt. 4.)</h2>
+         <p>for $entry at $pos in $data</p>
+         <p>let $y     := ($pos - 1) * ($bar-h + $gap)</p>
+        <p> let $bar-w := xs:integer(($entry?count div $max) * $chart-w)</p>
+        <p> return (</p>
+        <p> (text .../),   ← location label on the left</p>
+         <p>(rect .../),   ← the colored bar</p>
+        <p> (text .../)    ← the count number on the right</p>
+     <br/>
+        <p> For each location in the sorted data it draws three SVG elements:</p>
+       <p>  (text) (left)The location name, right-aligned before the bar</p>
+          <p> (rect)The blue bar, whose width is proportional to the count vs. the maximum count</p>
+             <p>(text) (right)The raw count number displayed after the bar</p>
+               <p>The bar width formula (count / max) * chart-width makes sure that the location with the most songs always gets a full-width bar, and all others are scaled relative to it.</p>
+               
+               <p>So basically, the flow is - XML file, extract songs, count by location, sort, draw SVG bars, then wrap in HTML</p>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
+     <br/>
      <footer class = "footer"> 
        <a href="https://samcapasso.github.io/shanties/">The Music of the Waters Project</a> by 
        <a href="https://samcapasso.github.io/shanties/about">Josh, Sam, Ali, and Andrew</a> is licensed under 
